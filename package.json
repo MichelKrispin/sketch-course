@@ -9,7 +9,7 @@
   "scripts": {
     "dev": "eleventy --serve",
     "validate": "node scripts/validate-content.mjs",
-    "build": "npm run validate && node scripts/clean.mjs && eleventy && node scripts/verify-links.mjs",
+    "build": "npm run validate && node scripts/clean.mjs && node scripts/build-locales.mjs && node scripts/verify-links.mjs",
     "test": "node --test tests/*.test.mjs",
     "assets": "node scripts/prepare-assets.mjs",
     "verify:sources": "node scripts/verify-sources.mjs",

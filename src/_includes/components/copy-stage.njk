@@ -1,5 +1,5 @@
 <section class="worksheet-page copy-stage" aria-labelledby="copy-{{ letter }}">
-<p class="folio">{{ number | pad }} / {{ shortTitle }} · Study {{ letter }}</p><h2 id="copy-{{ letter }}">{% if letter == 'A' %}03{% else %}04{% endif %} / Copy {{ letter }}</h2>
-<div class="copy-layout">{% include 'components/reference-card.njk' %}<div><h3>Selected study</h3><p>{{ study.use }}</p><p>{{ study.why }}</p><ol>{% for instruction in study.instructions %}<li>{{ instruction }}</li>{% endfor %}</ol><p class="small">Keep the reference beside your drawing. Copy by observation; leave construction marks visible.</p></div></div>
-<p class="space-label">Copy {{ letter }} · 180 × 100 mm at 100% print scale</p><div class="drawing-space copy-space {% if number == 10 %}ruled{% endif %}" aria-label="Blank drawing area for Copy {{ letter }}"></div>
+<p class="folio">{{ number | pad }} / {{ shortTitle | t }} · {{ 'Study' | t }} {{ letter }}</p><h2 id="copy-{{ letter }}">{% if letter == 'A' %}03{% else %}04{% endif %} / {{ 'Copy' | t }} {{ letter }}</h2>
+<div class="copy-layout">{% include 'components/reference-card.njk' %}<div><h3>{{ 'Selected study' | t }}</h3><p>{{ study.use | t }}</p><p>{{ study.why | t }}</p><ol>{% for instruction in study.instructions %}<li>{{ instruction | t }}</li>{% endfor %}</ol><p class="small">{{ 'Keep the reference beside your drawing. Copy by observation; leave construction marks visible.' | t }}</p></div></div>
+<p class="space-label">{{ 'Copy' | t }} {{ letter }} · 180 × 100 mm {{ 'at 100% print scale' | t }}</p><div class="drawing-space copy-space {% if number == 10 %}ruled{% endif %}" aria-label="{{ 'Blank drawing area for Copy' | t }} {{ letter }}"></div>
 </section>

@@ -37,10 +37,12 @@ try{
   }
   assert.equal(await page.locator('h1').count(),1,route+' one h1');
   if(route==='/'){
+   assert.equal(await page.locator('html').getAttribute('lang'),'de');
    await page.screenshot({path:'qa/desktop.png',fullPage:true});
    await page.setViewportSize({width:375,height:900});await page.screenshot({path:'qa/mobile.png',fullPage:true});
    let toggle=page.locator('.completion input').first();await toggle.check();await page.goto(origin+'/');toggle=page.locator('.completion input').first();assert(await toggle.isChecked());await toggle.uncheck();
    const keyboardPage=await context.newPage();await keyboardPage.goto(origin+'/');await keyboardPage.keyboard.press('Tab');assert(await keyboardPage.locator('.skip-link').evaluate(el=>el===document.activeElement));await keyboardPage.close();
+   const languagePage=await context.newPage();await languagePage.goto(origin+'/');await languagePage.locator('.language-toggle').click();await languagePage.waitForURL(origin+'/en/');assert.equal(await languagePage.locator('html').getAttribute('lang'),'en');await languagePage.locator('.language-toggle').click();await languagePage.waitForURL(origin+'/');assert.equal(await languagePage.locator('html').getAttribute('lang'),'de');await languagePage.close();
    continue;
   }
   await page.emulateMedia({media:'print'});
