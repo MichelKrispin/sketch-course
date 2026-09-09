@@ -37,7 +37,7 @@ const pairs = [
   ['Observe carefully. Draw deliberately.', 'Beobachte genau. Zeichne bewusst.'],
   ['Graphite & optional pen · No account needed', 'Bleistift & optional Feder · Kein Konto nötig'],
   ['A self-study course in monochrome drawing', 'Ein Selbstlernkurs im monochromen Zeichnen'],
-  ['Learn to see through someone else’s marks. Then make something of your own.', 'Lerne durch die Striche anderer zu sehen. Entwickle daraus etwas Eigenes.'],
+  ['Learn to see through someone else’s marks. Then make something of your own.', 'Fange klein an. Schau dir erst an, wie andere zeichnen, und entwickle daraus deinen eigenen Stil.'],
   ['Begin with observation →', 'Mit dem Beobachten beginnen →'],
   ['20 chapters · Graphite & pen · Printable A4 worksheets', '20 Kapitel · Bleistift & Feder · Druckbare A4-Arbeitsblätter'],
   ['The chapter rhythm', 'Der Ablauf eines Kapitels'],
