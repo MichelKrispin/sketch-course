@@ -13,6 +13,8 @@ permalink: /orientation/
 <p>{{ 'Translate ink and black chalk into graphite if you prefer. Leave paper white; you do not need to imitate tinted paper, white highlights, or historical materials.' | t }}</p>
 <h2>{{ 'The repeating rhythm' | t }}</h2>
 <ol>{% for step in ['Look for 3–5 minutes: directions, shapes, accents, and repeated marks.','Map the bounding box, main axis, 3–7 anchors, and large gaps.','Copy the selected fragment from Reference A.','Copy a comparable fragment from Reference B.','Compare concrete choices in the marks.','Create a new subject using one of those choices.','Self-check structure first, style second, detail last.'] %}<li>{{ step | t }}</li>{% endfor %}</ol>
+<h2>{{ 'What counts as completing a chapter' | t }}</h2>
+<p>{{ 'Finish the original drawing and rate every self-check criterion. “Revise” is useful evidence, not failure: redraw only the weakest area once, write the next practice you need, and move on. At your next session, attempt the 60-second retrieval prompt before reviewing the previous lesson.' | t }}</p>
 <h2>{{ 'Print a working packet' | t }}</h2>
 <p>{{ 'Use “Print / Save PDF”, or your browser’s print command when JavaScript is disabled. Choose A4, portrait, 100% scale, and turn off browser headers and footers. The stylesheet supplies the margins. Enable background graphics for Chapter 10’s faint grid.' | t }}</p>
 <p>{{ 'Measure the line below: it should be 50 mm. If it differs, turn off “fit to page” and check the scale. Letter paper may reflow; check print preview and the calibration before drawing. Screen sizes are not physical measurements.' | t }}</p>

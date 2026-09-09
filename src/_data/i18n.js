@@ -1,6 +1,15 @@
 const pairs = [
   // Shared interface
   ['2–3 sessions of 60–90 min', '2–3 Sitzungen à 60–90 Min.'],
+  ['Focus', 'Fokus'], ['Final test', 'Abschlusstest'], ['Evidence to look for', 'Darauf solltest du achten'],
+  ['Retrieve before you review · 60 seconds', 'Erst abrufen, dann nachsehen · 60 Sekunden'],
+  ['Without reopening the previous chapter, sketch or write one decision you remember. Then check it and name what you missed.', 'Skizziere oder notiere eine Entscheidung, an die du dich erinnerst, ohne das vorige Kapitel zu öffnen. Prüfe sie danach und benenne, was dir entgangen ist.'],
+  ['Criterion', 'Kriterium'], ['Holds', 'Stimmt'], ['Revise', 'Überarbeiten'], ['Try again', 'Erneut versuchen'],
+  ['Check structure first, style second, detail last. Choose one rating for each criterion.', 'Prüfe zuerst die Struktur, dann den Stil und zuletzt die Details. Wähle für jedes Kriterium eine Bewertung.'],
+  ['I completed the creation task and self-check.', 'Ich habe die Gestaltungsaufgabe und die Selbstprüfung abgeschlossen.'],
+  ['of 20 chapters practiced', 'von 20 Kapiteln geübt'], ['Continue with your next chapter →', 'Mit dem nächsten Kapitel fortfahren →'],
+  ['What counts as completing a chapter', 'Wann ein Kapitel abgeschlossen ist'],
+  ['Finish the original drawing and rate every self-check criterion. “Revise” is useful evidence, not failure: redraw only the weakest area once, write the next practice you need, and move on. At your next session, attempt the 60-second retrieval prompt before reviewing the previous lesson.', 'Beende die eigene Zeichnung und bewerte jedes Kriterium der Selbstprüfung. „Überarbeiten“ ist ein nützlicher Hinweis, kein Scheitern: Zeichne nur die schwächste Stelle einmal neu, notiere die nächste nötige Übung und gehe weiter. Versuche zu Beginn der nächsten Sitzung die 60-Sekunden-Abrufaufgabe, bevor du die vorige Lektion nachsiehst.'],
   ['50 mm · Print at 100%', '50 mm · Bei 100 % drucken'], ['Drawing area for two drill trials', 'Zeichenfläche für zwei Übungsversuche'], ['Chapter navigation', 'Kapitelnavigation'],
   ['Branch hierarchy: one trunk leads to three major limbs and then seven smaller limbs', 'Asthierarchie: Ein Stamm führt zu drei Hauptästen und anschließend zu sieben kleineren Ästen'], ['Three-value guide: light, middle, dark', 'Drei-Tonwert-Hilfe: hell, mittel, dunkel'], ['Course construction guide', 'Konstruktionshilfe des Kurses'],
   ['View full sheet', 'Ganzes Blatt ansehen'], ['Reference', 'Vorlage'], ['at 100% print scale', 'bei 100 % Druckskalierung'],
