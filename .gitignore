@@ -1,0 +1,7 @@
+node_modules/
+_site/
+qa/*.pdf
+qa/*.png
+qa/browser-report.json
+__pycache__/
+qa/source-check.json

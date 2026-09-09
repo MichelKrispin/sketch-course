@@ -1,0 +1,522 @@
+[
+  {
+    "reference": "met-341696",
+    "id": "01-a",
+    "image": 0,
+    "rect": [
+      0.28,
+      0.02,
+      0.38,
+      0.94
+    ],
+    "purpose": "Chapter 01, Reference A: crop one figure silhouette and several drapery arcs.",
+    "alt": "Crop one figure silhouette and several drapery arcs: inspect intentional line."
+  },
+  {
+    "reference": "met-343399",
+    "id": "01-b",
+    "image": 0,
+    "rect": [
+      0.42,
+      0.08,
+      0.43,
+      0.85
+    ],
+    "purpose": "Chapter 01, Reference B: crop the standing figure and 8–12 long strokes.",
+    "alt": "Crop the standing figure and 8–12 long strokes: inspect intentional line."
+  },
+  {
+    "reference": "met-16220",
+    "id": "02-a",
+    "image": 0,
+    "rect": [
+      0.22,
+      0.28,
+      0.23,
+      0.38
+    ],
+    "purpose": "Chapter 02, Reference A: one small leaf group.",
+    "alt": "One small leaf group: inspect shape relationships around the subject."
+  },
+  {
+    "reference": "met-351063",
+    "id": "02-b",
+    "image": 0,
+    "rect": [
+      0.03,
+      0.36,
+      0.53,
+      0.3
+    ],
+    "purpose": "Chapter 02, Reference B: one palm frond rather than the whole sheet.",
+    "alt": "One palm frond rather than the whole sheet: inspect shape relationships around the subject."
+  },
+  {
+    "reference": "met-10383",
+    "id": "03-a",
+    "image": 0,
+    "rect": [
+      0.02,
+      0.04,
+      0.35,
+      0.47
+    ],
+    "purpose": "Chapter 03, Reference A: one isolated rock formation.",
+    "alt": "One isolated rock formation: inspect three-value structure and directional hatching."
+  },
+  {
+    "reference": "nga-56210",
+    "id": "03-b",
+    "image": 0,
+    "rect": [
+      0.03,
+      0.12,
+      0.56,
+      0.62
+    ],
+    "purpose": "Chapter 03, Reference B: a crop containing two or three rocks.",
+    "alt": "A crop containing two or three rocks: inspect three-value structure and directional hatching."
+  },
+  {
+    "reference": "met-459214",
+    "id": "04-a",
+    "image": 1,
+    "rect": [
+      0.09,
+      0.07,
+      0.48,
+      0.32
+    ],
+    "purpose": "Chapter 04, Reference A: one pillow study from the verso.",
+    "alt": "One pillow study from the verso: inspect turning form without hard edges."
+  },
+  {
+    "reference": "met-334361",
+    "id": "04-b",
+    "image": 1,
+    "rect": [
+      0.19,
+      0.12,
+      0.66,
+      0.7
+    ],
+    "purpose": "Chapter 04, Reference B: one coherent fold group from the verso.",
+    "alt": "One coherent fold group from the verso: inspect turning form without hard edges."
+  },
+  {
+    "reference": "met-392332",
+    "id": "05-a",
+    "image": 0,
+    "rect": [
+      0.25,
+      0.38,
+      0.5,
+      0.52
+    ],
+    "purpose": "Chapter 05, Reference A: lower trunk crop.",
+    "alt": "Lower trunk crop: inspect surface detail subordinated to volume."
+  },
+  {
+    "reference": "met-406192",
+    "id": "05-b",
+    "image": 0,
+    "rect": [
+      0.32,
+      0.25,
+      0.44,
+      0.45
+    ],
+    "purpose": "Chapter 05, Reference B: one trunk fork.",
+    "alt": "One trunk fork: inspect surface detail subordinated to volume."
+  },
+  {
+    "reference": "met-386334",
+    "id": "06-a",
+    "image": 0,
+    "rect": [
+      0.24,
+      0.16,
+      0.65,
+      0.5
+    ],
+    "purpose": "Chapter 06, Reference A: one major fork and its secondary branches.",
+    "alt": "One major fork and its secondary branches: inspect nested structural hierarchy."
+  },
+  {
+    "reference": "met-363604",
+    "id": "06-b",
+    "image": 0,
+    "rect": [
+      0.17,
+      0.08,
+      0.66,
+      0.65
+    ],
+    "purpose": "Chapter 06, Reference B: upper branching silhouette.",
+    "alt": "Upper branching silhouette: inspect nested structural hierarchy."
+  },
+  {
+    "reference": "met-339368",
+    "id": "07-a",
+    "image": 0,
+    "rect": [
+      0.1,
+      0.08,
+      0.78,
+      0.46
+    ],
+    "purpose": "Chapter 07, Reference A: one canopy cluster.",
+    "alt": "One canopy cluster: inspect grouping hundreds of small forms into a few readable masses."
+  },
+  {
+    "reference": "met-392332",
+    "id": "07-b",
+    "image": 0,
+    "rect": [
+      0.08,
+      0.01,
+      0.83,
+      0.35
+    ],
+    "purpose": "Chapter 07 Reference B: Oehme canopy cluster, replacing an unsuitable Durand bark fragment",
+    "alt": "Oehme canopy cluster: inspect graphite leaf marks grouped into larger foliage masses."
+  },
+  {
+    "reference": "met-364025",
+    "id": "08-a",
+    "image": 0,
+    "rect": [
+      0.07,
+      0.1,
+      0.86,
+      0.8
+    ],
+    "purpose": "Chapter 08, Reference A: one complete tree.",
+    "alt": "One complete tree: inspect integrating trunk, branches, foliage, and ground into one proportioned subject."
+  },
+  {
+    "reference": "met-16188",
+    "id": "08-b",
+    "image": 0,
+    "rect": [
+      0.07,
+      0.08,
+      0.86,
+      0.84
+    ],
+    "purpose": "Chapter 08, Reference B: one complete tree.",
+    "alt": "One complete tree: inspect integrating trunk, branches, foliage, and ground into one proportioned subject."
+  },
+  {
+    "reference": "met-16087",
+    "id": "09-a",
+    "image": 0,
+    "rect": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "purpose": "Chapter 09, Reference A: whole composition, initially reduced to foreground / middle ground / distance.",
+    "alt": "Whole composition, initially reduced to foreground / middle ground / distance: inspect depth across several spatial layers."
+  },
+  {
+    "reference": "met-338149",
+    "id": "09-b",
+    "image": 0,
+    "rect": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "purpose": "Chapter 09, Reference B: whole composition or a broad central crop.",
+    "alt": "Whole composition or a broad central crop: inspect depth across several spatial layers."
+  },
+  {
+    "reference": "met-386475",
+    "id": "10-a",
+    "image": 0,
+    "rect": [
+      0.06,
+      0.03,
+      0.88,
+      0.94
+    ],
+    "purpose": "Chapter 10, Reference A: whole elevation.",
+    "alt": "Whole elevation: inspect measured perspective and repeated alignment."
+  },
+  {
+    "reference": "met-341563",
+    "id": "10-b",
+    "image": 0,
+    "rect": [
+      0.4,
+      0.02,
+      0.58,
+      0.94
+    ],
+    "purpose": "Chapter 10, Reference B: doorway/wall perspective section.",
+    "alt": "Doorway/wall perspective section: inspect measured perspective and repeated alignment."
+  },
+  {
+    "reference": "nga-74237",
+    "id": "11-a",
+    "image": 0,
+    "rect": [
+      0.12,
+      0.2,
+      0.29,
+      0.26
+    ],
+    "purpose": "Chapter 11, Reference A: the isolated eye/face fragment.",
+    "alt": "The isolated eye/face fragment: inspect high sensitivity to small proportional errors."
+  },
+  {
+    "reference": "met-341220",
+    "id": "11-b",
+    "image": 0,
+    "rect": [
+      0.27,
+      0.23,
+      0.45,
+      0.38
+    ],
+    "purpose": "Chapter 11, Reference B: one eye, brow, upper cheek and nose bridge; reproduce in graphite only.",
+    "alt": "One eye, brow, upper cheek and nose bridge; reproduce in graphite only: inspect high sensitivity to small proportional errors."
+  },
+  {
+    "reference": "nga-184327",
+    "id": "12-a",
+    "image": 0,
+    "rect": [
+      0.04,
+      0.03,
+      0.4,
+      0.56
+    ],
+    "purpose": "Chapter 12, Reference A: one profile, cropped from brow to chin.",
+    "alt": "One profile, cropped from brow to chin: inspect subtle plane change with few outlines."
+  },
+  {
+    "reference": "met-409000",
+    "id": "12-b",
+    "image": 0,
+    "rect": [
+      0.37,
+      0.28,
+      0.3,
+      0.2
+    ],
+    "purpose": "Chapter 12, Reference B: crop nose, philtrum, lips and chin.",
+    "alt": "Crop nose, philtrum, lips and chin: inspect subtle plane change with few outlines."
+  },
+  {
+    "reference": "met-337649",
+    "id": "13-a",
+    "image": 0,
+    "rect": [
+      0.07,
+      0.04,
+      0.87,
+      0.89
+    ],
+    "purpose": "Chapter 13, Reference A: full head.",
+    "alt": "Full head: inspect coordinating features inside the skull mass."
+  },
+  {
+    "reference": "met-341220",
+    "id": "13-b",
+    "image": 0,
+    "rect": [
+      0.06,
+      0.03,
+      0.88,
+      0.93
+    ],
+    "purpose": "Chapter 13, Reference B: now revisit the full head rather than the eye crop; translate to graphite.",
+    "alt": "Now revisit the full head rather than the eye crop; translate to graphite: inspect coordinating features inside the skull mass."
+  },
+  {
+    "reference": "met-489087",
+    "id": "14-a",
+    "image": 0,
+    "rect": [
+      0.08,
+      0.04,
+      0.84,
+      0.9
+    ],
+    "purpose": "Chapter 14, Reference A: head/hair silhouette and internal large planes.",
+    "alt": "Head/hair silhouette and internal large planes: inspect controlling edge variety around a complex organic mass."
+  },
+  {
+    "reference": "met-409000",
+    "id": "14-b",
+    "image": 0,
+    "rect": [
+      0.32,
+      0.16,
+      0.43,
+      0.28
+    ],
+    "purpose": "Chapter 14, Reference B: hairline, outer hair mass, and a limited number of internal accents.",
+    "alt": "Hairline, outer hair mass, and a limited number of internal accents: inspect controlling edge variety around a complex organic mass."
+  },
+  {
+    "reference": "met-355648",
+    "id": "15-a",
+    "image": 0,
+    "rect": [
+      0.09,
+      0.37,
+      0.23,
+      0.57
+    ],
+    "purpose": "Chapter 15, Reference A: choose one clearly readable hand.",
+    "alt": "Choose one clearly readable hand: inspect multiple small articulated forms with foreshortening."
+  },
+  {
+    "reference": "met-854147",
+    "id": "15-b",
+    "image": 0,
+    "rect": [
+      0.53,
+      0.44,
+      0.44,
+      0.51
+    ],
+    "purpose": "Chapter 15, Reference B: one hand at comparable scale.",
+    "alt": "One hand at comparable scale: inspect multiple small articulated forms with foreshortening."
+  },
+  {
+    "reference": "met-382512",
+    "id": "16-a",
+    "image": 0,
+    "rect": [
+      0.14,
+      0.05,
+      0.74,
+      0.88
+    ],
+    "purpose": "Chapter 16, Reference A: whole seated drapery mass.",
+    "alt": "Whole seated drapery mass: inspect visible cloth structure over an implied body."
+  },
+  {
+    "reference": "met-10563",
+    "id": "16-b",
+    "image": 0,
+    "rect": [
+      0.09,
+      0.2,
+      0.76,
+      0.73
+    ],
+    "purpose": "Chapter 16, Reference B: one major drapery section.",
+    "alt": "One major drapery section: inspect visible cloth structure over an implied body."
+  },
+  {
+    "reference": "met-343399",
+    "id": "17-a",
+    "image": 0,
+    "rect": [
+      0.17,
+      0.05,
+      0.71,
+      0.9
+    ],
+    "purpose": "Chapter 17, Reference A: revisit the standing and seated figures as complete gestures.",
+    "alt": "Revisit the standing and seated figures as complete gestures: inspect whole-body proportion under time pressure."
+  },
+  {
+    "reference": "met-394683",
+    "id": "17-b",
+    "image": 0,
+    "rect": [
+      0.1,
+      0.09,
+      0.75,
+      0.84
+    ],
+    "purpose": "Chapter 17, Reference B: two standing figures.",
+    "alt": "Two standing figures: inspect whole-body proportion under time pressure."
+  },
+  {
+    "reference": "met-337441",
+    "id": "18-a",
+    "image": 0,
+    "rect": [
+      0.04,
+      0.09,
+      0.9,
+      0.84
+    ],
+    "purpose": "Chapter 18, Reference A: whole figure.",
+    "alt": "Whole figure: inspect maintaining gesture while adding three-dimensional mass."
+  },
+  {
+    "reference": "met-337601",
+    "id": "18-b",
+    "image": 0,
+    "rect": [
+      0.12,
+      0.04,
+      0.79,
+      0.91
+    ],
+    "purpose": "Chapter 18, Reference B: whole figure.",
+    "alt": "Whole figure: inspect maintaining gesture while adding three-dimensional mass."
+  },
+  {
+    "reference": "met-370468",
+    "id": "19-a",
+    "image": 0,
+    "rect": [
+      0.025,
+      0.32,
+      0.95,
+      0.64
+    ],
+    "purpose": "Chapter 19, Reference A: whole sheet, then one two-figure relationship.",
+    "alt": "Whole sheet, then one two-figure relationship: inspect several figures competing for attention."
+  },
+  {
+    "reference": "met-336042",
+    "id": "19-b",
+    "image": 0,
+    "rect": [
+      0.16,
+      0.32,
+      0.72,
+      0.56
+    ],
+    "purpose": "Chapter 19, Reference B: whole group as a thumbnail composition, then a central subgroup.",
+    "alt": "Whole group as a thumbnail composition, then a central subgroup: inspect several figures competing for attention."
+  },
+  {
+    "reference": "met-12880",
+    "id": "20-a",
+    "image": 0,
+    "rect": [
+      0.26,
+      0.22,
+      0.36,
+      0.54
+    ],
+    "purpose": "Chapter 20, Reference A: figures + doorway as one integrated scene.",
+    "alt": "Figures + doorway as one integrated scene: inspect independent selection and combination of all prior skills."
+  },
+  {
+    "reference": "met-341693",
+    "id": "20-b",
+    "image": 0,
+    "rect": [
+      0.29,
+      0.18,
+      0.53,
+      0.69
+    ],
+    "purpose": "Chapter 20, Reference B: figures + trees as one integrated scene.",
+    "alt": "Figures + trees as one integrated scene: inspect independent selection and combination of all prior skills."
+  }
+]

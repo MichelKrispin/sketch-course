@@ -1,0 +1,3305 @@
+[
+  {
+    "id": "met-10383",
+    "artist": "John William Casilear",
+    "title": "Study of Rocks",
+    "date": "ca. 1850–60",
+    "medium": "Graphite on off-white Bristol board",
+    "museum": "The Metropolitan Museum of Art",
+    "objectUrl": "https://www.metmuseum.org/art/collection/search/10383",
+    "rights": "Public Domain / CC0",
+    "rightsUrl": "https://www.metmuseum.org/policies/image-resources",
+    "apiRequest": "https://collectionapi.metmuseum.org/public/collection/v1/objects/10383",
+    "rightsEvidence": "isPublicDomain: true in record.json",
+    "images": [
+      {
+        "downloadUrl": "https://images.metmuseum.org/CRDImages/ad/original/ap1978.499.1 recto.jpg",
+        "originalFilename": "ap1978.499.1 recto.jpg",
+        "sha256": "3e69953a60aa63e4cdfee09fb5a06e1d5a073517dd4438d6823393614e09a776",
+        "masterImage": "/assets/references/met-10383/ap1978.499.1 recto.jpg",
+        "retrievedAt": "2026-09-08",
+        "width": 2099,
+        "height": 1659
+      },
+      {
+        "downloadUrl": "https://images.metmuseum.org/CRDImages/ad/original/224533.jpg",
+        "originalFilename": "224533.jpg",
+        "sha256": "ea6691f76410b44752215c16443244b74cdb6bf1d9f6b0732b5259add287f50e",
+        "masterImage": "/assets/references/met-10383/224533.jpg",
+        "retrievedAt": "2026-09-08",
+        "width": 2354,
+        "height": 1937
+      }
+    ],
+    "downloadUrl": "https://images.metmuseum.org/CRDImages/ad/original/ap1978.499.1 recto.jpg",
+    "originalFilename": "ap1978.499.1 recto.jpg",
+    "sha256": "3e69953a60aa63e4cdfee09fb5a06e1d5a073517dd4438d6823393614e09a776",
+    "masterImage": "/assets/references/met-10383/ap1978.499.1 recto.jpg",
+    "retrievedAt": "2026-09-08",
+    "crops": [
+      {
+        "id": "03-a",
+        "path": "/assets/crops/met-10383-03-a.jpg",
+        "sheetPath": "/assets/crops/met-10383-sheet.jpg",
+        "purpose": "Chapter 03, Reference A: one isolated rock formation.",
+        "alt": "One isolated rock formation: inspect three-value structure and directional hatching.",
+        "masterImage": "/assets/references/met-10383/ap1978.499.1 recto.jpg",
+        "sourceRect": {
+          "x": 42,
+          "y": 66,
+          "width": 735,
+          "height": 780
+        },
+        "width": 735,
+        "height": 780,
+        "printWidthMm": 85,
+        "transformation": "Extract integer sourceRect; grayscale; 1–99 percentile normalization; fit inside 1800 px, no enlargement; JPEG quality 94",
+        "reviewedAt": "2026-09-08"
+      }
+    ],
+    "overview": {
+      "sourceRect": {
+        "x": 0,
+        "y": 0,
+        "width": 2099,
+        "height": 1659
+      },
+      "path": "/assets/crops/met-10383-sheet.jpg",
+      "width": 1600,
+      "height": 1265,
+      "masterImage": "/assets/references/met-10383/ap1978.499.1 recto.jpg",
+      "transformation": "Full sheet; grayscale; 1–99 percentile normalization; fit inside 1600 px, no enlargement; JPEG quality 90"
+    },
+    "rightsReviewedAt": "2026-09-08",
+    "rightsReviewMethod": "Official collection page public-domain label reviewed with web reader; official API also checked for Met objects",
+    "sourcePageReviewStatus": "verified",
+    "views": [
+      {
+        "sourceRect": {
+          "x": 0,
+          "y": 0,
+          "width": 2099,
+          "height": 1659
+        },
+        "path": "/assets/crops/met-10383-sheet.jpg",
+        "width": 1600,
+        "height": 1265,
+        "masterImage": "/assets/references/met-10383/ap1978.499.1 recto.jpg",
+        "transformation": "Full sheet; grayscale; 1–99 percentile normalization; fit inside 1600 px, no enlargement; JPEG quality 90"
+      }
+    ]
+  },
+  {
+    "id": "met-10563",
+    "artist": "Kenyon Cox",
+    "title": "Science Instructing Industry: Drapery Study",
+    "date": "1898",
+    "medium": "Graphite on off-white laid paper mounted on secondary support of Egyptian linen",
+    "museum": "The Metropolitan Museum of Art",
+    "objectUrl": "https://www.metmuseum.org/art/collection/search/10563",
+    "rights": "Public Domain / CC0",
+    "rightsUrl": "https://www.metmuseum.org/policies/image-resources",
+    "apiRequest": "https://collectionapi.metmuseum.org/public/collection/v1/objects/10563",
+    "rightsEvidence": "isPublicDomain: true in record.json",
+    "images": [
+      {
+        "downloadUrl": "https://images.metmuseum.org/CRDImages/ad/original/ap50.101.3.jpg",
+        "originalFilename": "ap50.101.3.jpg",
+        "sha256": "ed58a29ab2ed6f29236aee01b69a812a4a9e658c5b381cd1ec4b216029103fd6",
+        "masterImage": "/assets/references/met-10563/ap50.101.3.jpg",
+        "retrievedAt": "2026-09-08",
+        "width": 2064,
+        "height": 1324
+      },
+      {
+        "downloadUrl": "https://images.metmuseum.org/CRDImages/ad/original/147790.jpg",
+        "originalFilename": "147790.jpg",
+        "sha256": "864c246fa71dd3b241fcdc9a34bd985723d27d855c3b3c04c13ad5f78ac7e59f",
+        "masterImage": "/assets/references/met-10563/147790.jpg",
+        "retrievedAt": "2026-09-08",
+        "width": 2419,
+        "height": 1950
+      }
+    ],
+    "downloadUrl": "https://images.metmuseum.org/CRDImages/ad/original/ap50.101.3.jpg",
+    "originalFilename": "ap50.101.3.jpg",
+    "sha256": "ed58a29ab2ed6f29236aee01b69a812a4a9e658c5b381cd1ec4b216029103fd6",
+    "masterImage": "/assets/references/met-10563/ap50.101.3.jpg",
+    "retrievedAt": "2026-09-08",
+    "crops": [
+      {
+        "id": "16-b",
+        "path": "/assets/crops/met-10563-16-b.jpg",
+        "sheetPath": "/assets/crops/met-10563-sheet.jpg",
+        "purpose": "Chapter 16, Reference B: one major drapery section.",
+        "alt": "One major drapery section: inspect visible cloth structure over an implied body.",
+        "masterImage": "/assets/references/met-10563/ap50.101.3.jpg",
+        "sourceRect": {
+          "x": 186,
+          "y": 265,
+          "width": 1569,
+          "height": 967
+        },
+        "width": 1569,
+        "height": 967,
+        "printWidthMm": 85,
+        "transformation": "Extract integer sourceRect; grayscale; 1–99 percentile normalization; fit inside 1800 px, no enlargement; JPEG quality 94",
+        "reviewedAt": "2026-09-08"
+      }
+    ],
+    "overview": {
+      "sourceRect": {
+        "x": 0,
+        "y": 0,
+        "width": 2064,
+        "height": 1324
+      },
+      "path": "/assets/crops/met-10563-sheet.jpg",
+      "width": 1600,
+      "height": 1026,
+      "masterImage": "/assets/references/met-10563/ap50.101.3.jpg",
+      "transformation": "Full sheet; grayscale; 1–99 percentile normalization; fit inside 1600 px, no enlargement; JPEG quality 90"
+    },
+    "rightsReviewedAt": "2026-09-08",
+    "rightsReviewMethod": "Official collection page public-domain label reviewed with web reader; official API also checked for Met objects",
+    "sourcePageReviewStatus": "verified",
+    "views": [
+      {
+        "sourceRect": {
+          "x": 0,
+          "y": 0,
+          "width": 2064,
+          "height": 1324
+        },
+        "path": "/assets/crops/met-10563-sheet.jpg",
+        "width": 1600,
+        "height": 1026,
+        "masterImage": "/assets/references/met-10563/ap50.101.3.jpg",
+        "transformation": "Full sheet; grayscale; 1–99 percentile normalization; fit inside 1600 px, no enlargement; JPEG quality 90"
+      }
+    ]
+  },
+  {
+    "id": "met-12880",
+    "artist": "Francis William Edmonds",
+    "title": "Boys Playing in a Doorway (from Sketchbook)",
+    "date": "ca. 1838 and after",
+    "medium": "Graphite on off-white wove paper",
+    "museum": "The Metropolitan Museum of Art",
+    "objectUrl": "https://www.metmuseum.org/art/collection/search/12880",
+    "rights": "Public Domain / CC0",
+    "rightsUrl": "https://www.metmuseum.org/policies/image-resources",
+    "apiRequest": "https://collectionapi.metmuseum.org/public/collection/v1/objects/12880",
+    "rightsEvidence": "isPublicDomain: true in record.json",
+    "images": [
+      {
+        "downloadUrl": "https://images.metmuseum.org/CRDImages/ad/original/246915.jpg",
+        "originalFilename": "246915.jpg",
+        "sha256": "6f40da15f760d7802177a6a63a4d6a8ef6fdbbcf3dbb614c4971ec1292ccc5cc",
+        "masterImage": "/assets/references/met-12880/246915.jpg",
+        "retrievedAt": "2026-09-08",
+        "width": 2354,
+        "height": 1924
+      }
+    ],
+    "downloadUrl": "https://images.metmuseum.org/CRDImages/ad/original/246915.jpg",
+    "originalFilename": "246915.jpg",
+    "sha256": "6f40da15f760d7802177a6a63a4d6a8ef6fdbbcf3dbb614c4971ec1292ccc5cc",
+    "masterImage": "/assets/references/met-12880/246915.jpg",
+    "retrievedAt": "2026-09-08",
+    "crops": [
+      {
+        "id": "20-a",
+        "path": "/assets/crops/met-12880-20-a.jpg",
+        "sheetPath": "/assets/crops/met-12880-sheet.jpg",
+        "purpose": "Chapter 20, Reference A: figures + doorway as one integrated scene.",
+        "alt": "Figures + doorway as one integrated scene: inspect independent selection and combination of all prior skills.",
+        "masterImage": "/assets/references/met-12880/246915.jpg",
+        "sourceRect": {
+          "x": 612,
+          "y": 423,
+          "width": 847,
+          "height": 1039
+        },
+        "width": 847,
+        "height": 1039,
+        "printWidthMm": 85,
+        "transformation": "Extract integer sourceRect; grayscale; 1–99 percentile normalization; fit inside 1800 px, no enlargement; JPEG quality 94",
+        "reviewedAt": "2026-09-08"
+      }
+    ],
+    "overview": {
+      "sourceRect": {
+        "x": 0,
+        "y": 0,
+        "width": 2354,
+        "height": 1924
+      },
+      "path": "/assets/crops/met-12880-sheet.jpg",
+      "width": 1600,
+      "height": 1308,
+      "masterImage": "/assets/references/met-12880/246915.jpg",
+      "transformation": "Full sheet; grayscale; 1–99 percentile normalization; fit inside 1600 px, no enlargement; JPEG quality 90"
+    },
+    "rightsReviewedAt": "2026-09-08",
+    "rightsReviewMethod": "Official collection page public-domain label reviewed with web reader; official API also checked for Met objects",
+    "sourcePageReviewStatus": "verified",
+    "views": [
+      {
+        "sourceRect": {
+          "x": 0,
+          "y": 0,
+          "width": 2354,
+          "height": 1924
+        },
+        "path": "/assets/crops/met-12880-sheet.jpg",
+        "width": 1600,
+        "height": 1308,
+        "masterImage": "/assets/references/met-12880/246915.jpg",
+        "transformation": "Full sheet; grayscale; 1–99 percentile normalization; fit inside 1600 px, no enlargement; JPEG quality 90"
+      }
+    ]
+  },
+  {
+    "id": "met-16087",
+    "artist": "Daniel Huntington",
+    "title": "The Delaware, East Branch, Walton, 1871 (from Sketchbook)",
+    "date": "ca. 1870",
+    "medium": "Graphite on paper",
+    "museum": "The Metropolitan Museum of Art",
+    "objectUrl": "https://www.metmuseum.org/art/collection/search/16087",
+    "rights": "Public Domain / CC0",
+    "rightsUrl": "https://www.metmuseum.org/policies/image-resources",
+    "apiRequest": "https://collectionapi.metmuseum.org/public/collection/v1/objects/16087",
+    "rightsEvidence": "isPublicDomain: true in record.json",
+    "images": [
+      {
+        "downloadUrl": "https://images.metmuseum.org/CRDImages/ad/original/264327.jpg",
+        "originalFilename": "264327.jpg",
+        "sha256": "6f8eed5cbc6caa8e5da151f320fc6eb9034f73e8c0c66215a107940219995ca4",
+        "masterImage": "/assets/references/met-16087/264327.jpg",
+        "retrievedAt": "2026-09-08",
+        "width": 1956,
+        "height": 660
+      }
+    ],
+    "downloadUrl": "https://images.metmuseum.org/CRDImages/ad/original/264327.jpg",
+    "originalFilename": "264327.jpg",
+    "sha256": "6f8eed5cbc6caa8e5da151f320fc6eb9034f73e8c0c66215a107940219995ca4",
+    "masterImage": "/assets/references/met-16087/264327.jpg",
+    "retrievedAt": "2026-09-08",
+    "crops": [
+      {
+        "id": "09-a",
+        "path": "/assets/crops/met-16087-09-a.jpg",
+        "sheetPath": "/assets/crops/met-16087-sheet.jpg",
+        "purpose": "Chapter 09, Reference A: whole composition, initially reduced to foreground / middle ground / distance.",
+        "alt": "Whole composition, initially reduced to foreground / middle ground / distance: inspect depth across several spatial layers.",
+        "masterImage": "/assets/references/met-16087/264327.jpg",
+        "sourceRect": {
+          "x": 0,
+          "y": 0,
+          "width": 1956,
+          "height": 660
+        },
+        "width": 1800,
+        "height": 607,
+        "printWidthMm": 85,
+        "transformation": "Extract integer sourceRect; grayscale; 1–99 percentile normalization; fit inside 1800 px, no enlargement; JPEG quality 94",
+        "reviewedAt": "2026-09-08"
+      }
+    ],
+    "overview": {
+      "sourceRect": {
+        "x": 0,
+        "y": 0,
+        "width": 1956,
+        "height": 660
+      },
+      "path": "/assets/crops/met-16087-sheet.jpg",
+      "width": 1600,
+      "height": 540,
+      "masterImage": "/assets/references/met-16087/264327.jpg",
+      "transformation": "Full sheet; grayscale; 1–99 percentile normalization; fit inside 1600 px, no enlargement; JPEG quality 90"
+    },
+    "rightsReviewedAt": "2026-09-08",
+    "rightsReviewMethod": "Official API isPublicDomain=true; collection page recheck returned HTTP 429",
+    "sourcePageReviewStatus": "rate-limited",
+    "views": [
+      {
+        "sourceRect": {
+          "x": 0,
+          "y": 0,
+          "width": 1956,
+          "height": 660
+        },
+        "path": "/assets/crops/met-16087-sheet.jpg",
+        "width": 1600,
+        "height": 540,
+        "masterImage": "/assets/references/met-16087/264327.jpg",
+        "transformation": "Full sheet; grayscale; 1–99 percentile normalization; fit inside 1600 px, no enlargement; JPEG quality 90"
+      }
+    ]
+  },
+  {
+    "id": "met-16188",
+    "artist": "Henry Ward Ranger",
+    "title": "Tree Study (from Sketchbook)",
+    "date": "Date not specified",
+    "medium": "Graphite, ink, on paper",
+    "museum": "The Metropolitan Museum of Art",
+    "objectUrl": "https://www.metmuseum.org/art/collection/search/16188",
+    "rights": "Public Domain / CC0",
+    "rightsUrl": "https://www.metmuseum.org/policies/image-resources",
+    "apiRequest": "https://collectionapi.metmuseum.org/public/collection/v1/objects/16188",
+    "rightsEvidence": "isPublicDomain: true in record.json",
+    "images": [
+      {
+        "downloadUrl": "https://images.metmuseum.org/CRDImages/ad/original/263367.jpg",
+        "originalFilename": "263367.jpg",
+        "sha256": "135ab8420a606e518d36ccad87a5b28e19d49bf3520ab93544784c3fdaaf0841",
+        "masterImage": "/assets/references/met-16188/263367.jpg",
+        "retrievedAt": "2026-09-08",
+        "width": 680,
+        "height": 432
+      }
+    ],
+    "downloadUrl": "https://images.metmuseum.org/CRDImages/ad/original/263367.jpg",
+    "originalFilename": "263367.jpg",
+    "sha256": "135ab8420a606e518d36ccad87a5b28e19d49bf3520ab93544784c3fdaaf0841",
+    "masterImage": "/assets/references/met-16188/263367.jpg",
+    "retrievedAt": "2026-09-08",
+    "crops": [
+      {
+        "id": "08-b",
+        "path": "/assets/crops/met-16188-08-b.jpg",
+        "sheetPath": "/assets/crops/met-16188-sheet.jpg",
+        "purpose": "Chapter 08, Reference B: one complete tree.",
+        "alt": "One complete tree: inspect integrating trunk, branches, foliage, and ground into one proportioned subject.",
+        "masterImage": "/assets/references/met-16188/263367.jpg",
+        "sourceRect": {
+          "x": 48,
+          "y": 35,
+          "width": 585,
+          "height": 363
+        },
+        "width": 585,
+        "height": 363,
+        "printWidthMm": 85,
+        "transformation": "Extract integer sourceRect; grayscale; 1–99 percentile normalization; fit inside 1800 px, no enlargement; JPEG quality 94",
+        "reviewedAt": "2026-09-08"
+      }
+    ],
+    "overview": {
+      "sourceRect": {
+        "x": 0,
+        "y": 0,
+        "width": 680,
+        "height": 432
+      },
+      "path": "/assets/crops/met-16188-sheet.jpg",
+      "width": 680,
+      "height": 432,
+      "masterImage": "/assets/references/met-16188/263367.jpg",
+      "transformation": "Full sheet; grayscale; 1–99 percentile normalization; fit inside 1600 px, no enlargement; JPEG quality 90"
+    },
+    "rightsReviewedAt": "2026-09-08",
+    "rightsReviewMethod": "Official collection page public-domain label reviewed with web reader; official API also checked for Met objects",
+    "sourcePageReviewStatus": "verified",
+    "views": [
+      {
+        "sourceRect": {
+          "x": 0,
+          "y": 0,
+          "width": 680,
+          "height": 432
+        },
+        "path": "/assets/crops/met-16188-sheet.jpg",
+        "width": 680,
+        "height": 432,
+        "masterImage": "/assets/references/met-16188/263367.jpg",
+        "transformation": "Full sheet; grayscale; 1–99 percentile normalization; fit inside 1600 px, no enlargement; JPEG quality 90"
+      }
+    ]
+  },
+  {
+    "id": "met-16220",
+    "artist": "Asher Brown Durand",
+    "title": "Leaf and Tree Study (from Sketchbook)",
+    "date": "Date not specified",
+    "medium": "Graphite on paper",
+    "museum": "The Metropolitan Museum of Art",
+    "objectUrl": "https://www.metmuseum.org/art/collection/search/16220",
+    "rights": "Public Domain / CC0",
+    "rightsUrl": "https://www.metmuseum.org/policies/image-resources",
+    "apiRequest": "https://collectionapi.metmuseum.org/public/collection/v1/objects/16220",
+    "rightsEvidence": "isPublicDomain: true in record.json",
+    "images": [
+      {
+        "downloadUrl": "https://images.metmuseum.org/CRDImages/ad/original/263747.jpg",
+        "originalFilename": "263747.jpg",
+        "sha256": "75c10bf904e75f51dce52ac156671f85c134ce11da9a5db3ad8189362013676c",
+        "masterImage": "/assets/references/met-16220/263747.jpg",
+        "retrievedAt": "2026-09-08",
+        "width": 1568,
+        "height": 1068
+      }
+    ],
+    "downloadUrl": "https://images.metmuseum.org/CRDImages/ad/original/263747.jpg",
+    "originalFilename": "263747.jpg",
+    "sha256": "75c10bf904e75f51dce52ac156671f85c134ce11da9a5db3ad8189362013676c",
+    "masterImage": "/assets/references/met-16220/263747.jpg",
+    "retrievedAt": "2026-09-08",
+    "crops": [
+      {
+        "id": "02-a",
+        "path": "/assets/crops/met-16220-02-a.jpg",
+        "sheetPath": "/assets/crops/met-16220-sheet.jpg",
+        "purpose": "Chapter 02, Reference A: one small leaf group.",
+        "alt": "One small leaf group: inspect shape relationships around the subject.",
+        "masterImage": "/assets/references/met-16220/263747.jpg",
+        "sourceRect": {
+          "x": 345,
+          "y": 299,
+          "width": 361,
+          "height": 406
+        },
+        "width": 361,
+        "height": 406,
+        "printWidthMm": 57,
+        "transformation": "Extract integer sourceRect; grayscale; 1–99 percentile normalization; fit inside 1800 px, no enlargement; JPEG quality 94",
+        "reviewedAt": "2026-09-08"
+      }
+    ],
+    "overview": {
+      "sourceRect": {
+        "x": 0,
+        "y": 0,
+        "width": 1568,
+        "height": 1068
+      },
+      "path": "/assets/crops/met-16220-sheet.jpg",
+      "width": 1568,
+      "height": 1068,
+      "masterImage": "/assets/references/met-16220/263747.jpg",
+      "transformation": "Full sheet; grayscale; 1–99 percentile normalization; fit inside 1600 px, no enlargement; JPEG quality 90"
+    },
+    "rightsReviewedAt": "2026-09-08",
+    "rightsReviewMethod": "Official collection page public-domain label reviewed with web reader; official API also checked for Met objects",
+    "sourcePageReviewStatus": "verified",
+    "views": [
+      {
+        "sourceRect": {
+          "x": 0,
+          "y": 0,
+          "width": 1568,
+          "height": 1068
+        },
+        "path": "/assets/crops/met-16220-sheet.jpg",
+        "width": 1568,
+        "height": 1068,
+        "masterImage": "/assets/references/met-16220/263747.jpg",
+        "transformation": "Full sheet; grayscale; 1–99 percentile normalization; fit inside 1600 px, no enlargement; JPEG quality 90"
+      }
+    ]
+  },
+  {
+    "id": "met-334361",
+    "artist": "Edgar Degas",
+    "title": "Study for Vieille Italienne (recto); Drapery Study (verso)",
+    "date": "1856",
+    "medium": "Graphite",
+    "museum": "The Metropolitan Museum of Art",
+    "objectUrl": "https://www.metmuseum.org/art/collection/search/334361",
+    "rights": "Public Domain / CC0",
+    "rightsUrl": "https://www.metmuseum.org/policies/image-resources",
+    "apiRequest": "https://collectionapi.metmuseum.org/public/collection/v1/objects/334361",
+    "rightsEvidence": "isPublicDomain: true in record.json",
+    "images": [
+      {
+        "downloadUrl": "https://images.metmuseum.org/CRDImages/dp/original/DP810342.jpg",
+        "originalFilename": "DP810342.jpg",
+        "sha256": "f4902d2e242b6d2097a4a129d369b235a58a40840e5b5e600bbac0c56b6378d6",
+        "masterImage": "/assets/references/met-334361/DP810342.jpg",
+        "retrievedAt": "2026-09-08",
+        "width": 2414,
+        "height": 3544
+      },
+      {
+        "downloadUrl": "https://images.metmuseum.org/CRDImages/dp/original/DP810343.jpg",
+        "originalFilename": "DP810343.jpg",
+        "sha256": "59b7f36166091e9a11ea9ee0a3d3c1eff12cd4c7531f886a1603a240b6ddf5dc",
+        "masterImage": "/assets/references/met-334361/DP810343.jpg",
+        "retrievedAt": "2026-09-08",
+        "width": 2383,
+        "height": 3541
+      },
+      {
+        "downloadUrl": "https://images.metmuseum.org/CRDImages/dp/original/1980.200.jpg",
+        "originalFilename": "1980.200.jpg",
+        "sha256": "f6b63c4fe726e7da5c8954e4726887b05672d7066d07ea2171abbb99b6c70368",
+        "masterImage": "/assets/references/met-334361/1980.200.jpg",
+        "retrievedAt": "2026-09-08",
+        "width": 1011,
+        "height": 1474
+      }
+    ],
+    "downloadUrl": "https://images.metmuseum.org/CRDImages/dp/original/DP810342.jpg",
+    "originalFilename": "DP810342.jpg",
+    "sha256": "f4902d2e242b6d2097a4a129d369b235a58a40840e5b5e600bbac0c56b6378d6",
+    "masterImage": "/assets/references/met-334361/DP810342.jpg",
+    "retrievedAt": "2026-09-08",
+    "crops": [
+      {
+        "id": "04-b",
+        "path": "/assets/crops/met-334361-04-b.jpg",
+        "sheetPath": "/assets/crops/met-334361-sheet-1.jpg",
+        "purpose": "Chapter 04, Reference B: one coherent fold group from the verso.",
+        "alt": "One coherent fold group from the verso: inspect turning form without hard edges.",
+        "masterImage": "/assets/references/met-334361/DP810343.jpg",
+        "sourceRect": {
+          "x": 453,
+          "y": 425,
+          "width": 1573,
+          "height": 2479
+        },
+        "width": 1142,
+        "height": 1800,
+        "printWidthMm": 85,
+        "transformation": "Extract integer sourceRect; grayscale; 1–99 percentile normalization; fit inside 1800 px, no enlargement; JPEG quality 94",
+        "reviewedAt": "2026-09-08"
+      }
+    ],
+    "overview": {
+      "sourceRect": {
+        "x": 0,
+        "y": 0,
+        "width": 2414,
+        "height": 3544
+      },
+      "path": "/assets/crops/met-334361-sheet.jpg",
+      "width": 1090,
+      "height": 1600,
+      "masterImage": "/assets/references/met-334361/DP810342.jpg",
+      "transformation": "Full sheet; grayscale; 1–99 percentile normalization; fit inside 1600 px, no enlargement; JPEG quality 90"
+    },
+    "rightsReviewedAt": "2026-09-08",
+    "rightsReviewMethod": "Official collection page public-domain label reviewed with web reader; official API also checked for Met objects",
+    "sourcePageReviewStatus": "verified",
+    "views": [
+      {
+        "sourceRect": {
+          "x": 0,
+          "y": 0,
+          "width": 2414,
+          "height": 3544
+        },
+        "path": "/assets/crops/met-334361-sheet.jpg",
+        "width": 1090,
+        "height": 1600,
+        "masterImage": "/assets/references/met-334361/DP810342.jpg",
+        "transformation": "Full sheet; grayscale; 1–99 percentile normalization; fit inside 1600 px, no enlargement; JPEG quality 90"
+      },
+      {
+        "path": "/assets/crops/met-334361-sheet-1.jpg",
+        "width": 1077,
+        "height": 1600,
+        "masterImage": "/assets/references/met-334361/DP810343.jpg",
+        "sourceRect": {
+          "x": 0,
+          "y": 0,
+          "width": 2383,
+          "height": 3541
+        },
+        "transformation": "Full sheet; grayscale; 1–99 percentile normalization; fit inside 1600 px, no enlargement; JPEG quality 90"
+      }
+    ]
+  },
+  {
+    "id": "met-336042",
+    "artist": "Eugène Delacroix",
+    "title": "Study for \"The Sultan of Morocco and His Entourage\"",
+    "date": "1845",
+    "medium": "Graphite; squared in white chalk",
+    "museum": "The Metropolitan Museum of Art",
+    "objectUrl": "https://www.metmuseum.org/art/collection/search/336042",
+    "rights": "Public Domain / CC0",
+    "rightsUrl": "https://www.metmuseum.org/policies/image-resources",
+    "apiRequest": "https://collectionapi.metmuseum.org/public/collection/v1/objects/336042",
+    "rightsEvidence": "isPublicDomain: true in record.json",
+    "images": [
+      {
+        "downloadUrl": "https://images.metmuseum.org/CRDImages/dp/original/DP-42511-001.jpg",
+        "originalFilename": "DP-42511-001.jpg",
+        "sha256": "e8d8375315423d32773bd5e076c1dfaedbe1c5efc2b5e918aa4c9074e91728a6",
+        "masterImage": "/assets/references/met-336042/DP-42511-001.jpg",
+        "retrievedAt": "2026-09-08",
+        "width": 3348,
+        "height": 4000
+      },
+      {
+        "downloadUrl": "https://images.metmuseum.org/CRDImages/dp/original/DT219607.jpg",
+        "originalFilename": "DT219607.jpg",
+        "sha256": "a1239ab47d35949556ab36a575e6c2edef026cf20f051a3a44ea550ba612623f",
+        "masterImage": "/assets/references/met-336042/DT219607.jpg",
+        "retrievedAt": "2026-09-08",
+        "width": 3088,
+        "height": 3711
+      }
+    ],
+    "downloadUrl": "https://images.metmuseum.org/CRDImages/dp/original/DP-42511-001.jpg",
+    "originalFilename": "DP-42511-001.jpg",
+    "sha256": "e8d8375315423d32773bd5e076c1dfaedbe1c5efc2b5e918aa4c9074e91728a6",
+    "masterImage": "/assets/references/met-336042/DP-42511-001.jpg",
+    "retrievedAt": "2026-09-08",
+    "crops": [
+      {
+        "id": "19-b",
+        "path": "/assets/crops/met-336042-19-b.jpg",
+        "sheetPath": "/assets/crops/met-336042-sheet.jpg",
+        "purpose": "Chapter 19, Reference B: whole group as a thumbnail composition, then a central subgroup.",
+        "alt": "Whole group as a thumbnail composition, then a central subgroup: inspect several figures competing for attention.",
+        "masterImage": "/assets/references/met-336042/DP-42511-001.jpg",
+        "sourceRect": {
+          "x": 536,
+          "y": 1280,
+          "width": 2411,
+          "height": 2240
+        },
+        "width": 1800,
+        "height": 1672,
+        "printWidthMm": 85,
+        "transformation": "Extract integer sourceRect; grayscale; 1–99 percentile normalization; fit inside 1800 px, no enlargement; JPEG quality 94",
+        "reviewedAt": "2026-09-08"
+      }
+    ],
+    "overview": {
+      "sourceRect": {
+        "x": 0,
+        "y": 0,
+        "width": 3348,
+        "height": 4000
+      },
+      "path": "/assets/crops/met-336042-sheet.jpg",
+      "width": 1339,
+      "height": 1600,
+      "masterImage": "/assets/references/met-336042/DP-42511-001.jpg",
+      "transformation": "Full sheet; grayscale; 1–99 percentile normalization; fit inside 1600 px, no enlargement; JPEG quality 90"
+    },
+    "rightsReviewedAt": "2026-09-08",
+    "rightsReviewMethod": "Official collection page public-domain label reviewed with web reader; official API also checked for Met objects",
+    "sourcePageReviewStatus": "verified",
+    "views": [
+      {
+        "sourceRect": {
+          "x": 0,
+          "y": 0,
+          "width": 3348,
+          "height": 4000
+        },
+        "path": "/assets/crops/met-336042-sheet.jpg",
+        "width": 1339,
+        "height": 1600,
+        "masterImage": "/assets/references/met-336042/DP-42511-001.jpg",
+        "transformation": "Full sheet; grayscale; 1–99 percentile normalization; fit inside 1600 px, no enlargement; JPEG quality 90"
+      }
+    ]
+  },
+  {
+    "id": "met-337441",
+    "artist": "Jean Auguste Dominique Ingres",
+    "title": "Study of a Seated Nude Male",
+    "date": "n.d.",
+    "medium": "Graphite",
+    "museum": "The Metropolitan Museum of Art",
+    "objectUrl": "https://www.metmuseum.org/art/collection/search/337441",
+    "rights": "Public Domain / CC0",
+    "rightsUrl": "https://www.metmuseum.org/policies/image-resources",
+    "apiRequest": "https://collectionapi.metmuseum.org/public/collection/v1/objects/337441",
+    "rightsEvidence": "isPublicDomain: true in record.json",
+    "images": [
+      {
+        "downloadUrl": "https://images.metmuseum.org/CRDImages/dp/original/DP806765.jpg",
+        "originalFilename": "DP806765.jpg",
+        "sha256": "8598383d48f90c469c44055923b697832ebeaffe945f29085bf44dacc46b5a14",
+        "masterImage": "/assets/references/met-337441/DP806765.jpg",
+        "retrievedAt": "2026-09-08",
+        "width": 3668,
+        "height": 2839
+      },
+      {
+        "downloadUrl": "https://images.metmuseum.org/CRDImages/dp/original/173174.jpg",
+        "originalFilename": "173174.jpg",
+        "sha256": "bed941c41d531cbe8a9e1e5e38f592e4466c1cbeca3b59fdb7c0a3fe812ce15e",
+        "masterImage": "/assets/references/met-337441/173174.jpg",
+        "retrievedAt": "2026-09-08",
+        "width": 1804,
+        "height": 1404
+      },
+      {
+        "downloadUrl": "https://images.metmuseum.org/CRDImages/dp/original/61.128.jpg",
+        "originalFilename": "61.128.jpg",
+        "sha256": "931c95cf70984fd44070646c2eea05f89b9cc5dae5354b1e73f2fe5b2860be11",
+        "masterImage": "/assets/references/met-337441/61.128.jpg",
+        "retrievedAt": "2026-09-08",
+        "width": 2063,
+        "height": 1600
+      }
+    ],
+    "downloadUrl": "https://images.metmuseum.org/CRDImages/dp/original/DP806765.jpg",
+    "originalFilename": "DP806765.jpg",
+    "sha256": "8598383d48f90c469c44055923b697832ebeaffe945f29085bf44dacc46b5a14",
+    "masterImage": "/assets/references/met-337441/DP806765.jpg",
+    "retrievedAt": "2026-09-08",
+    "crops": [
+      {
+        "id": "18-a",
+        "path": "/assets/crops/met-337441-18-a.jpg",
+        "sheetPath": "/assets/crops/met-337441-sheet.jpg",
+        "purpose": "Chapter 18, Reference A: whole figure.",
+        "alt": "Whole figure: inspect maintaining gesture while adding three-dimensional mass.",
+        "masterImage": "/assets/references/met-337441/DP806765.jpg",
+        "sourceRect": {
+          "x": 147,
+          "y": 256,
+          "width": 3301,
+          "height": 2385
+        },
+        "width": 1800,
+        "height": 1301,
+        "printWidthMm": 85,
+        "transformation": "Extract integer sourceRect; grayscale; 1–99 percentile normalization; fit inside 1800 px, no enlargement; JPEG quality 94",
+        "reviewedAt": "2026-09-08"
+      }
+    ],
+    "overview": {
+      "sourceRect": {
+        "x": 0,
+        "y": 0,
+        "width": 3668,
+        "height": 2839
+      },
+      "path": "/assets/crops/met-337441-sheet.jpg",
+      "width": 1600,
+      "height": 1238,
+      "masterImage": "/assets/references/met-337441/DP806765.jpg",
+      "transformation": "Full sheet; grayscale; 1–99 percentile normalization; fit inside 1600 px, no enlargement; JPEG quality 90"
+    },
+    "rightsReviewedAt": "2026-09-08",
+    "rightsReviewMethod": "Official collection page public-domain label reviewed with web reader; official API also checked for Met objects",
+    "sourcePageReviewStatus": "verified",
+    "views": [
+      {
+        "sourceRect": {
+          "x": 0,
+          "y": 0,
+          "width": 3668,
+          "height": 2839
+        },
+        "path": "/assets/crops/met-337441-sheet.jpg",
+        "width": 1600,
+        "height": 1238,
+        "masterImage": "/assets/references/met-337441/DP806765.jpg",
+        "transformation": "Full sheet; grayscale; 1–99 percentile normalization; fit inside 1600 px, no enlargement; JPEG quality 90"
+      }
+    ]
+  },
+  {
+    "id": "met-337601",
+    "artist": "Alphonse Legros",
+    "title": "Study of a Figure",
+    "date": "1837–1911",
+    "medium": "Graphite on light buff paper",
+    "museum": "The Metropolitan Museum of Art",
+    "objectUrl": "https://www.metmuseum.org/art/collection/search/337601",
+    "rights": "Public Domain / CC0",
+    "rightsUrl": "https://www.metmuseum.org/policies/image-resources",
+    "apiRequest": "https://collectionapi.metmuseum.org/public/collection/v1/objects/337601",
+    "rightsEvidence": "isPublicDomain: true in record.json",
+    "images": [
+      {
+        "downloadUrl": "https://images.metmuseum.org/CRDImages/dp/original/DP807240.jpg",
+        "originalFilename": "DP807240.jpg",
+        "sha256": "b495d245418f67e628070cdfcc4fffdfc05d552778b713d999ea1aea25c5e806",
+        "masterImage": "/assets/references/met-337601/DP807240.jpg",
+        "retrievedAt": "2026-09-08",
+        "width": 2533,
+        "height": 3825
+      },
+      {
+        "downloadUrl": "https://images.metmuseum.org/CRDImages/dp/original/92.13.9.jpg",
+        "originalFilename": "92.13.9.jpg",
+        "sha256": "9c1c3a764b87a24611bb056b94ce732d7d25b37c7898376e54f09f07c6ca27a0",
+        "masterImage": "/assets/references/met-337601/92.13.9.jpg",
+        "retrievedAt": "2026-09-08",
+        "width": 1185,
+        "height": 1712
+      }
+    ],
+    "downloadUrl": "https://images.metmuseum.org/CRDImages/dp/original/DP807240.jpg",
+    "originalFilename": "DP807240.jpg",
+    "sha256": "b495d245418f67e628070cdfcc4fffdfc05d552778b713d999ea1aea25c5e806",
+    "masterImage": "/assets/references/met-337601/DP807240.jpg",
+    "retrievedAt": "2026-09-08",
+    "crops": [
+      {
+        "id": "18-b",
+        "path": "/assets/crops/met-337601-18-b.jpg",
+        "sheetPath": "/assets/crops/met-337601-sheet.jpg",
+        "purpose": "Chapter 18, Reference B: whole figure.",
+        "alt": "Whole figure: inspect maintaining gesture while adding three-dimensional mass.",
+        "masterImage": "/assets/references/met-337601/DP807240.jpg",
+        "sourceRect": {
+          "x": 304,
+          "y": 153,
+          "width": 2001,
+          "height": 3481
+        },
+        "width": 1035,
+        "height": 1800,
+        "printWidthMm": 85,
+        "transformation": "Extract integer sourceRect; grayscale; 1–99 percentile normalization; fit inside 1800 px, no enlargement; JPEG quality 94",
+        "reviewedAt": "2026-09-08"
+      }
+    ],
+    "overview": {
+      "sourceRect": {
+        "x": 0,
+        "y": 0,
+        "width": 2533,
+        "height": 3825
+      },
+      "path": "/assets/crops/met-337601-sheet.jpg",
+      "width": 1060,
+      "height": 1600,
+      "masterImage": "/assets/references/met-337601/DP807240.jpg",
+      "transformation": "Full sheet; grayscale; 1–99 percentile normalization; fit inside 1600 px, no enlargement; JPEG quality 90"
+    },
+    "rightsReviewedAt": "2026-09-08",
+    "rightsReviewMethod": "Official collection page public-domain label reviewed with web reader; official API also checked for Met objects",
+    "sourcePageReviewStatus": "verified",
+    "views": [
+      {
+        "sourceRect": {
+          "x": 0,
+          "y": 0,
+          "width": 2533,
+          "height": 3825
+        },
+        "path": "/assets/crops/met-337601-sheet.jpg",
+        "width": 1060,
+        "height": 1600,
+        "masterImage": "/assets/references/met-337601/DP807240.jpg",
+        "transformation": "Full sheet; grayscale; 1–99 percentile normalization; fit inside 1600 px, no enlargement; JPEG quality 90"
+      }
+    ]
+  },
+  {
+    "id": "met-337649",
+    "artist": "Alphonse Legros",
+    "title": "Study of a Head",
+    "date": "1837–1911",
+    "medium": "Graphite on gray paper",
+    "museum": "The Metropolitan Museum of Art",
+    "objectUrl": "https://www.metmuseum.org/art/collection/search/337649",
+    "rights": "Public Domain / CC0",
+    "rightsUrl": "https://www.metmuseum.org/policies/image-resources",
+    "apiRequest": "https://collectionapi.metmuseum.org/public/collection/v1/objects/337649",
+    "rightsEvidence": "isPublicDomain: true in record.json",
+    "images": [
+      {
+        "downloadUrl": "https://images.metmuseum.org/CRDImages/dp/original/DP807258.jpg",
+        "originalFilename": "DP807258.jpg",
+        "sha256": "0df2a7dbcc3f4a1a0937e24c82f483ab0999881ad45bbaf9f0f8ec0d1db3251d",
+        "masterImage": "/assets/references/met-337649/DP807258.jpg",
+        "retrievedAt": "2026-09-08",
+        "width": 2341,
+        "height": 2589
+      },
+      {
+        "downloadUrl": "https://images.metmuseum.org/CRDImages/dp/original/92.13.31.jpg",
+        "originalFilename": "92.13.31.jpg",
+        "sha256": "f96cc43b2829c4b9b95bbfa85a6a19b06b325cc421944457621a34d7d69eb331",
+        "masterImage": "/assets/references/met-337649/92.13.31.jpg",
+        "retrievedAt": "2026-09-08",
+        "width": 954,
+        "height": 1057
+      }
+    ],
+    "downloadUrl": "https://images.metmuseum.org/CRDImages/dp/original/DP807258.jpg",
+    "originalFilename": "DP807258.jpg",
+    "sha256": "0df2a7dbcc3f4a1a0937e24c82f483ab0999881ad45bbaf9f0f8ec0d1db3251d",
+    "masterImage": "/assets/references/met-337649/DP807258.jpg",
+    "retrievedAt": "2026-09-08",
+    "crops": [
+      {
+        "id": "13-a",
+        "path": "/assets/crops/met-337649-13-a.jpg",
+        "sheetPath": "/assets/crops/met-337649-sheet.jpg",
+        "purpose": "Chapter 13, Reference A: full head.",
+        "alt": "Full head: inspect coordinating features inside the skull mass.",
+        "masterImage": "/assets/references/met-337649/DP807258.jpg",
+        "sourceRect": {
+          "x": 164,
+          "y": 104,
+          "width": 2037,
+          "height": 2304
+        },
+        "width": 1591,
+        "height": 1800,
+        "printWidthMm": 85,
+        "transformation": "Extract integer sourceRect; grayscale; 1–99 percentile normalization; fit inside 1800 px, no enlargement; JPEG quality 94",
+        "reviewedAt": "2026-09-08"
+      }
+    ],
+    "overview": {
+      "sourceRect": {
+        "x": 0,
+        "y": 0,
+        "width": 2341,
+        "height": 2589
+      },
+      "path": "/assets/crops/met-337649-sheet.jpg",
+      "width": 1447,
+      "height": 1600,
+      "masterImage": "/assets/references/met-337649/DP807258.jpg",
+      "transformation": "Full sheet; grayscale; 1–99 percentile normalization; fit inside 1600 px, no enlargement; JPEG quality 90"
+    },
+    "rightsReviewedAt": "2026-09-08",
+    "rightsReviewMethod": "Official collection page public-domain label reviewed with web reader; official API also checked for Met objects",
+    "sourcePageReviewStatus": "verified",
+    "views": [
+      {
+        "sourceRect": {
+          "x": 0,
+          "y": 0,
+          "width": 2341,
+          "height": 2589
+        },
+        "path": "/assets/crops/met-337649-sheet.jpg",
+        "width": 1447,
+        "height": 1600,
+        "masterImage": "/assets/references/met-337649/DP807258.jpg",
+        "transformation": "Full sheet; grayscale; 1–99 percentile normalization; fit inside 1600 px, no enlargement; JPEG quality 90"
+      }
+    ]
+  },
+  {
+    "id": "met-338149",
+    "artist": "Fra Bartolomeo (Bartolomeo di Paolo del Fattorino)",
+    "title": "Landscape (Wooded Approach to a Town)",
+    "date": "ca. 1508",
+    "medium": "Pen and brown ink",
+    "museum": "The Metropolitan Museum of Art",
+    "objectUrl": "https://www.metmuseum.org/art/collection/search/338149",
+    "rights": "Public Domain / CC0",
+    "rightsUrl": "https://www.metmuseum.org/policies/image-resources",
+    "apiRequest": "https://collectionapi.metmuseum.org/public/collection/v1/objects/338149",
+    "rightsEvidence": "isPublicDomain: true in record.json",
+    "images": [
+      {
+        "downloadUrl": "https://images.metmuseum.org/CRDImages/dp/original/DP807838.jpg",
+        "originalFilename": "DP807838.jpg",
+        "sha256": "c59bef639e5f3ffd29ac5bdea1a4fb36903d7730d4ebd44c090c4e04baaa5179",
+        "masterImage": "/assets/references/met-338149/DP807838.jpg",
+        "retrievedAt": "2026-09-08",
+        "width": 3760,
+        "height": 2734
+      },
+      {
+        "downloadUrl": "https://images.metmuseum.org/CRDImages/dp/original/1972.118.239.jpg",
+        "originalFilename": "1972.118.239.jpg",
+        "sha256": "c660041712fb9e123fa4ece74d8eac0b810d96c91a2da9bed80fbec2a895444c",
+        "masterImage": "/assets/references/met-338149/1972.118.239.jpg",
+        "retrievedAt": "2026-09-08",
+        "width": 2634,
+        "height": 1932
+      }
+    ],
+    "downloadUrl": "https://images.metmuseum.org/CRDImages/dp/original/DP807838.jpg",
+    "originalFilename": "DP807838.jpg",
+    "sha256": "c59bef639e5f3ffd29ac5bdea1a4fb36903d7730d4ebd44c090c4e04baaa5179",
+    "masterImage": "/assets/references/met-338149/DP807838.jpg",
+    "retrievedAt": "2026-09-08",
+    "crops": [
+      {
+        "id": "09-b",
+        "path": "/assets/crops/met-338149-09-b.jpg",
+        "sheetPath": "/assets/crops/met-338149-sheet.jpg",
+        "purpose": "Chapter 09, Reference B: whole composition or a broad central crop.",
+        "alt": "Whole composition or a broad central crop: inspect depth across several spatial layers.",
+        "masterImage": "/assets/references/met-338149/DP807838.jpg",
+        "sourceRect": {
+          "x": 0,
+          "y": 0,
+          "width": 3760,
+          "height": 2734
+        },
+        "width": 1800,
+        "height": 1309,
+        "printWidthMm": 85,
+        "transformation": "Extract integer sourceRect; grayscale; 1–99 percentile normalization; fit inside 1800 px, no enlargement; JPEG quality 94",
+        "reviewedAt": "2026-09-08"
+      }
+    ],
+    "overview": {
+      "sourceRect": {
+        "x": 0,
+        "y": 0,
+        "width": 3760,
+        "height": 2734
+      },
+      "path": "/assets/crops/met-338149-sheet.jpg",
+      "width": 1600,
+      "height": 1163,
+      "masterImage": "/assets/references/met-338149/DP807838.jpg",
+      "transformation": "Full sheet; grayscale; 1–99 percentile normalization; fit inside 1600 px, no enlargement; JPEG quality 90"
+    },
+    "rightsReviewedAt": "2026-09-08",
+    "rightsReviewMethod": "Official collection page public-domain label reviewed with web reader; official API also checked for Met objects",
+    "sourcePageReviewStatus": "verified",
+    "views": [
+      {
+        "sourceRect": {
+          "x": 0,
+          "y": 0,
+          "width": 3760,
+          "height": 2734
+        },
+        "path": "/assets/crops/met-338149-sheet.jpg",
+        "width": 1600,
+        "height": 1163,
+        "masterImage": "/assets/references/met-338149/DP807838.jpg",
+        "transformation": "Full sheet; grayscale; 1–99 percentile normalization; fit inside 1600 px, no enlargement; JPEG quality 90"
+      }
+    ]
+  },
+  {
+    "id": "met-339368",
+    "artist": "Attributed to Jean Pillement",
+    "title": "Study of a Tree",
+    "date": "n.d.",
+    "medium": "Black chalk on beige paper",
+    "museum": "The Metropolitan Museum of Art",
+    "objectUrl": "https://www.metmuseum.org/art/collection/search/339368",
+    "rights": "Public Domain / CC0",
+    "rightsUrl": "https://www.metmuseum.org/policies/image-resources",
+    "apiRequest": "https://collectionapi.metmuseum.org/public/collection/v1/objects/339368",
+    "rightsEvidence": "isPublicDomain: true in record.json",
+    "images": [
+      {
+        "downloadUrl": "https://images.metmuseum.org/CRDImages/dp/original/DP807922.jpg",
+        "originalFilename": "DP807922.jpg",
+        "sha256": "8d76d676c63b2a7beb5cc58ddb3a6d1ceeb7ad51705d90543154faa8064ee2aa",
+        "masterImage": "/assets/references/met-339368/DP807922.jpg",
+        "retrievedAt": "2026-09-08",
+        "width": 2503,
+        "height": 3863
+      },
+      {
+        "downloadUrl": "https://images.metmuseum.org/CRDImages/dp/original/60.142.5.jpg",
+        "originalFilename": "60.142.5.jpg",
+        "sha256": "b649320425e72a9e6bebd44f30cab3548ae4c93f5dbe5c8b77aa3516b64750f5",
+        "masterImage": "/assets/references/met-339368/60.142.5.jpg",
+        "retrievedAt": "2026-09-08",
+        "width": 1164,
+        "height": 1794
+      }
+    ],
+    "downloadUrl": "https://images.metmuseum.org/CRDImages/dp/original/DP807922.jpg",
+    "originalFilename": "DP807922.jpg",
+    "sha256": "8d76d676c63b2a7beb5cc58ddb3a6d1ceeb7ad51705d90543154faa8064ee2aa",
+    "masterImage": "/assets/references/met-339368/DP807922.jpg",
+    "retrievedAt": "2026-09-08",
+    "crops": [
+      {
+        "id": "07-a",
+        "path": "/assets/crops/met-339368-07-a.jpg",
+        "sheetPath": "/assets/crops/met-339368-sheet.jpg",
+        "purpose": "Chapter 07, Reference A: one canopy cluster.",
+        "alt": "One canopy cluster: inspect grouping hundreds of small forms into a few readable masses.",
+        "masterImage": "/assets/references/met-339368/DP807922.jpg",
+        "sourceRect": {
+          "x": 250,
+          "y": 309,
+          "width": 1952,
+          "height": 1777
+        },
+        "width": 1800,
+        "height": 1639,
+        "printWidthMm": 85,
+        "transformation": "Extract integer sourceRect; grayscale; 1–99 percentile normalization; fit inside 1800 px, no enlargement; JPEG quality 94",
+        "reviewedAt": "2026-09-08"
+      }
+    ],
+    "overview": {
+      "sourceRect": {
+        "x": 0,
+        "y": 0,
+        "width": 2503,
+        "height": 3863
+      },
+      "path": "/assets/crops/met-339368-sheet.jpg",
+      "width": 1037,
+      "height": 1600,
+      "masterImage": "/assets/references/met-339368/DP807922.jpg",
+      "transformation": "Full sheet; grayscale; 1–99 percentile normalization; fit inside 1600 px, no enlargement; JPEG quality 90"
+    },
+    "rightsReviewedAt": "2026-09-08",
+    "rightsReviewMethod": "Official collection page public-domain label reviewed with web reader; official API also checked for Met objects",
+    "sourcePageReviewStatus": "verified",
+    "views": [
+      {
+        "sourceRect": {
+          "x": 0,
+          "y": 0,
+          "width": 2503,
+          "height": 3863
+        },
+        "path": "/assets/crops/met-339368-sheet.jpg",
+        "width": 1037,
+        "height": 1600,
+        "masterImage": "/assets/references/met-339368/DP807922.jpg",
+        "transformation": "Full sheet; grayscale; 1–99 percentile normalization; fit inside 1600 px, no enlargement; JPEG quality 90"
+      }
+    ]
+  },
+  {
+    "id": "met-341220",
+    "artist": "Giovanni Gerolamo Savoldo",
+    "title": "Study of a Head",
+    "date": "ca. 1508–18",
+    "medium": "Black chalk on blue paper, highlighted with white",
+    "museum": "The Metropolitan Museum of Art",
+    "objectUrl": "https://www.metmuseum.org/art/collection/search/341220",
+    "rights": "Public Domain / CC0",
+    "rightsUrl": "https://www.metmuseum.org/policies/image-resources",
+    "apiRequest": "https://collectionapi.metmuseum.org/public/collection/v1/objects/341220",
+    "rightsEvidence": "isPublicDomain: true in record.json",
+    "images": [
+      {
+        "downloadUrl": "https://images.metmuseum.org/CRDImages/dp/original/DP811543.jpg",
+        "originalFilename": "DP811543.jpg",
+        "sha256": "3c6cebc461e9f511a4d11628749a554b49c005fa417532402a1dcf6dc9fcdc72",
+        "masterImage": "/assets/references/met-341220/DP811543.jpg",
+        "retrievedAt": "2026-09-08",
+        "width": 1538,
+        "height": 1878
+      },
+      {
+        "downloadUrl": "https://images.metmuseum.org/CRDImages/dp/original/1972.118.275.jpg",
+        "originalFilename": "1972.118.275.jpg",
+        "sha256": "d3ce3aadd94351502dead850ea19def8fef054f69f60447cb0961e34fc8773ec",
+        "masterImage": "/assets/references/met-341220/1972.118.275.jpg",
+        "retrievedAt": "2026-09-08",
+        "width": 1908,
+        "height": 2346
+      },
+      {
+        "downloadUrl": "https://images.metmuseum.org/CRDImages/dp/original/46Q_120R2.jpg",
+        "originalFilename": "46Q_120R2.jpg",
+        "sha256": "b73611f938784bc81400ab62c87f0f082465c5e7db2eaed9e780b53154b50581",
+        "masterImage": "/assets/references/met-341220/46Q_120R2.jpg",
+        "retrievedAt": "2026-09-08",
+        "width": 1818,
+        "height": 2104
+      }
+    ],
+    "downloadUrl": "https://images.metmuseum.org/CRDImages/dp/original/DP811543.jpg",
+    "originalFilename": "DP811543.jpg",
+    "sha256": "3c6cebc461e9f511a4d11628749a554b49c005fa417532402a1dcf6dc9fcdc72",
+    "masterImage": "/assets/references/met-341220/DP811543.jpg",
+    "retrievedAt": "2026-09-08",
+    "crops": [
+      {
+        "id": "11-b",
+        "path": "/assets/crops/met-341220-11-b.jpg",
+        "sheetPath": "/assets/crops/met-341220-sheet.jpg",
+        "purpose": "Chapter 11, Reference B: one eye, brow, upper cheek and nose bridge; reproduce in graphite only.",
+        "alt": "One eye, brow, upper cheek and nose bridge; reproduce in graphite only: inspect high sensitivity to small proportional errors.",
+        "masterImage": "/assets/references/met-341220/DP811543.jpg",
+        "sourceRect": {
+          "x": 415,
+          "y": 432,
+          "width": 692,
+          "height": 714
+        },
+        "width": 692,
+        "height": 714,
+        "printWidthMm": 85,
+        "transformation": "Extract integer sourceRect; grayscale; 1–99 percentile normalization; fit inside 1800 px, no enlargement; JPEG quality 94",
+        "reviewedAt": "2026-09-08"
+      },
+      {
+        "id": "13-b",
+        "path": "/assets/crops/met-341220-13-b.jpg",
+        "sheetPath": "/assets/crops/met-341220-sheet.jpg",
+        "purpose": "Chapter 13, Reference B: now revisit the full head rather than the eye crop; translate to graphite.",
+        "alt": "Now revisit the full head rather than the eye crop; translate to graphite: inspect coordinating features inside the skull mass.",
+        "masterImage": "/assets/references/met-341220/DP811543.jpg",
+        "sourceRect": {
+          "x": 92,
+          "y": 56,
+          "width": 1353,
+          "height": 1747
+        },
+        "width": 1353,
+        "height": 1747,
+        "printWidthMm": 85,
+        "transformation": "Extract integer sourceRect; grayscale; 1–99 percentile normalization; fit inside 1800 px, no enlargement; JPEG quality 94",
+        "reviewedAt": "2026-09-08"
+      }
+    ],
+    "overview": {
+      "sourceRect": {
+        "x": 0,
+        "y": 0,
+        "width": 1538,
+        "height": 1878
+      },
+      "path": "/assets/crops/met-341220-sheet.jpg",
+      "width": 1310,
+      "height": 1600,
+      "masterImage": "/assets/references/met-341220/DP811543.jpg",
+      "transformation": "Full sheet; grayscale; 1–99 percentile normalization; fit inside 1600 px, no enlargement; JPEG quality 90"
+    },
+    "rightsReviewedAt": "2026-09-08",
+    "rightsReviewMethod": "Official collection page public-domain label reviewed with web reader; official API also checked for Met objects",
+    "sourcePageReviewStatus": "verified",
+    "views": [
+      {
+        "sourceRect": {
+          "x": 0,
+          "y": 0,
+          "width": 1538,
+          "height": 1878
+        },
+        "path": "/assets/crops/met-341220-sheet.jpg",
+        "width": 1310,
+        "height": 1600,
+        "masterImage": "/assets/references/met-341220/DP811543.jpg",
+        "transformation": "Full sheet; grayscale; 1–99 percentile normalization; fit inside 1600 px, no enlargement; JPEG quality 90"
+      }
+    ]
+  },
+  {
+    "id": "met-341563",
+    "artist": "Luigi Vanvitelli",
+    "title": "Architectural Sketch for the design of a Wall with Doorway, with two smaller sketches for the design of windows or doorways (recto); Sketches for a plan and partial perspective view of ceiling (verso)",
+    "date": "1700–1773",
+    "medium": "Graphite partly reworked with pen and black ink and brush and black ink and ruled construction lines in graphite (recto); graphite (verso)",
+    "museum": "The Metropolitan Museum of Art",
+    "objectUrl": "https://www.metmuseum.org/art/collection/search/341563",
+    "rights": "Public Domain / CC0",
+    "rightsUrl": "https://www.metmuseum.org/policies/image-resources",
+    "apiRequest": "https://collectionapi.metmuseum.org/public/collection/v1/objects/341563",
+    "rightsEvidence": "isPublicDomain: true in record.json",
+    "images": [
+      {
+        "downloadUrl": "https://images.metmuseum.org/CRDImages/dp/original/DP801674.jpg",
+        "originalFilename": "DP801674.jpg",
+        "sha256": "595062a0b94996df06ad0b84914dfb892ff252d5ed078467a00e1cdc069888ef",
+        "masterImage": "/assets/references/met-341563/DP801674.jpg",
+        "retrievedAt": "2026-09-08",
+        "width": 3947,
+        "height": 2614
+      },
+      {
+        "downloadUrl": "https://images.metmuseum.org/CRDImages/dp/original/DP801675.jpg",
+        "originalFilename": "DP801675.jpg",
+        "sha256": "48035fd6ccd43cd5bc27830bc22b6abb5f77bb1695fd5195e4385e8e9c6399dd",
+        "masterImage": "/assets/references/met-341563/DP801675.jpg",
+        "retrievedAt": "2026-09-08",
+        "width": 3905,
+        "height": 2578
+      }
+    ],
+    "downloadUrl": "https://images.metmuseum.org/CRDImages/dp/original/DP801674.jpg",
+    "originalFilename": "DP801674.jpg",
+    "sha256": "595062a0b94996df06ad0b84914dfb892ff252d5ed078467a00e1cdc069888ef",
+    "masterImage": "/assets/references/met-341563/DP801674.jpg",
+    "retrievedAt": "2026-09-08",
+    "crops": [
+      {
+        "id": "10-b",
+        "path": "/assets/crops/met-341563-10-b.jpg",
+        "sheetPath": "/assets/crops/met-341563-sheet.jpg",
+        "purpose": "Chapter 10, Reference B: doorway/wall perspective section.",
+        "alt": "Doorway/wall perspective section: inspect measured perspective and repeated alignment.",
+        "masterImage": "/assets/references/met-341563/DP801674.jpg",
+        "sourceRect": {
+          "x": 1579,
+          "y": 52,
+          "width": 2289,
+          "height": 2457
+        },
+        "width": 1677,
+        "height": 1800,
+        "printWidthMm": 85,
+        "transformation": "Extract integer sourceRect; grayscale; 1–99 percentile normalization; fit inside 1800 px, no enlargement; JPEG quality 94",
+        "reviewedAt": "2026-09-08"
+      }
+    ],
+    "overview": {
+      "sourceRect": {
+        "x": 0,
+        "y": 0,
+        "width": 3947,
+        "height": 2614
+      },
+      "path": "/assets/crops/met-341563-sheet.jpg",
+      "width": 1600,
+      "height": 1060,
+      "masterImage": "/assets/references/met-341563/DP801674.jpg",
+      "transformation": "Full sheet; grayscale; 1–99 percentile normalization; fit inside 1600 px, no enlargement; JPEG quality 90"
+    },
+    "rightsReviewedAt": "2026-09-08",
+    "rightsReviewMethod": "Official collection page public-domain label reviewed with web reader; official API also checked for Met objects",
+    "sourcePageReviewStatus": "verified",
+    "views": [
+      {
+        "sourceRect": {
+          "x": 0,
+          "y": 0,
+          "width": 3947,
+          "height": 2614
+        },
+        "path": "/assets/crops/met-341563-sheet.jpg",
+        "width": 1600,
+        "height": 1060,
+        "masterImage": "/assets/references/met-341563/DP801674.jpg",
+        "transformation": "Full sheet; grayscale; 1–99 percentile normalization; fit inside 1600 px, no enlargement; JPEG quality 90"
+      }
+    ]
+  },
+  {
+    "id": "met-341693",
+    "artist": "John Flaxman",
+    "title": "Dante and Virgil in the Suicidal Wood (Inferno, Canto 13, verses 22-23)",
+    "date": "1792–93",
+    "medium": "Reed pen and black ink over graphite",
+    "museum": "The Metropolitan Museum of Art",
+    "objectUrl": "https://www.metmuseum.org/art/collection/search/341693",
+    "rights": "Public Domain / CC0",
+    "rightsUrl": "https://www.metmuseum.org/policies/image-resources",
+    "apiRequest": "https://collectionapi.metmuseum.org/public/collection/v1/objects/341693",
+    "rightsEvidence": "isPublicDomain: true in record.json",
+    "images": [
+      {
+        "downloadUrl": "https://images.metmuseum.org/CRDImages/dp/original/DP804224.jpg",
+        "originalFilename": "DP804224.jpg",
+        "sha256": "1172e89782ae53f75630b2bfc1152af5cd001adb73911ca7e2ff09892c744318",
+        "masterImage": "/assets/references/met-341693/DP804224.jpg",
+        "retrievedAt": "2026-09-08",
+        "width": 3583,
+        "height": 2668
+      }
+    ],
+    "downloadUrl": "https://images.metmuseum.org/CRDImages/dp/original/DP804224.jpg",
+    "originalFilename": "DP804224.jpg",
+    "sha256": "1172e89782ae53f75630b2bfc1152af5cd001adb73911ca7e2ff09892c744318",
+    "masterImage": "/assets/references/met-341693/DP804224.jpg",
+    "retrievedAt": "2026-09-08",
+    "crops": [
+      {
+        "id": "20-b",
+        "path": "/assets/crops/met-341693-20-b.jpg",
+        "sheetPath": "/assets/crops/met-341693-sheet.jpg",
+        "purpose": "Chapter 20, Reference B: figures + trees as one integrated scene.",
+        "alt": "Figures + trees as one integrated scene: inspect independent selection and combination of all prior skills.",
+        "masterImage": "/assets/references/met-341693/DP804224.jpg",
+        "sourceRect": {
+          "x": 1039,
+          "y": 480,
+          "width": 1899,
+          "height": 1841
+        },
+        "width": 1800,
+        "height": 1745,
+        "printWidthMm": 85,
+        "transformation": "Extract integer sourceRect; grayscale; 1–99 percentile normalization; fit inside 1800 px, no enlargement; JPEG quality 94",
+        "reviewedAt": "2026-09-08"
+      }
+    ],
+    "overview": {
+      "sourceRect": {
+        "x": 0,
+        "y": 0,
+        "width": 3583,
+        "height": 2668
+      },
+      "path": "/assets/crops/met-341693-sheet.jpg",
+      "width": 1600,
+      "height": 1191,
+      "masterImage": "/assets/references/met-341693/DP804224.jpg",
+      "transformation": "Full sheet; grayscale; 1–99 percentile normalization; fit inside 1600 px, no enlargement; JPEG quality 90"
+    },
+    "rightsReviewedAt": "2026-09-08",
+    "rightsReviewMethod": "Official collection page public-domain label reviewed with web reader; official API also checked for Met objects",
+    "sourcePageReviewStatus": "verified",
+    "views": [
+      {
+        "sourceRect": {
+          "x": 0,
+          "y": 0,
+          "width": 3583,
+          "height": 2668
+        },
+        "path": "/assets/crops/met-341693-sheet.jpg",
+        "width": 1600,
+        "height": 1191,
+        "masterImage": "/assets/references/met-341693/DP804224.jpg",
+        "transformation": "Full sheet; grayscale; 1–99 percentile normalization; fit inside 1600 px, no enlargement; JPEG quality 90"
+      }
+    ]
+  },
+  {
+    "id": "met-341696",
+    "artist": "John Flaxman",
+    "title": "Morning: Pope's Odyssey, Book 12 (recto); Study for the final drawing (verso)",
+    "date": "1792",
+    "medium": "Pen and gray ink over graphite",
+    "museum": "The Metropolitan Museum of Art",
+    "objectUrl": "https://www.metmuseum.org/art/collection/search/341696",
+    "rights": "Public Domain / CC0",
+    "rightsUrl": "https://www.metmuseum.org/policies/image-resources",
+    "apiRequest": "https://collectionapi.metmuseum.org/public/collection/v1/objects/341696",
+    "rightsEvidence": "isPublicDomain: true in record.json",
+    "images": [
+      {
+        "downloadUrl": "https://images.metmuseum.org/CRDImages/dp/original/DP804220.jpg",
+        "originalFilename": "DP804220.jpg",
+        "sha256": "3798842f85a43e9beebf7ca2777cbae55a441ed477a268a4210cab1f9b158c55",
+        "masterImage": "/assets/references/met-341696/DP804220.jpg",
+        "retrievedAt": "2026-09-08",
+        "width": 3213,
+        "height": 2497
+      },
+      {
+        "downloadUrl": "https://images.metmuseum.org/CRDImages/dp/original/DP804221.jpg",
+        "originalFilename": "DP804221.jpg",
+        "sha256": "a6d677cc19f605f9c8c1008a8af929d7ba2154664462b7e55beed501c60e31b9",
+        "masterImage": "/assets/references/met-341696/DP804221.jpg",
+        "retrievedAt": "2026-09-08",
+        "width": 3188,
+        "height": 2474
+      }
+    ],
+    "downloadUrl": "https://images.metmuseum.org/CRDImages/dp/original/DP804220.jpg",
+    "originalFilename": "DP804220.jpg",
+    "sha256": "3798842f85a43e9beebf7ca2777cbae55a441ed477a268a4210cab1f9b158c55",
+    "masterImage": "/assets/references/met-341696/DP804220.jpg",
+    "retrievedAt": "2026-09-08",
+    "crops": [
+      {
+        "id": "01-a",
+        "path": "/assets/crops/met-341696-01-a.jpg",
+        "sheetPath": "/assets/crops/met-341696-sheet.jpg",
+        "purpose": "Chapter 01, Reference A: crop one figure silhouette and several drapery arcs.",
+        "alt": "Crop one figure silhouette and several drapery arcs: inspect intentional line.",
+        "masterImage": "/assets/references/met-341696/DP804220.jpg",
+        "sourceRect": {
+          "x": 900,
+          "y": 50,
+          "width": 1221,
+          "height": 2347
+        },
+        "width": 936,
+        "height": 1800,
+        "printWidthMm": 85,
+        "transformation": "Extract integer sourceRect; grayscale; 1–99 percentile normalization; fit inside 1800 px, no enlargement; JPEG quality 94",
+        "reviewedAt": "2026-09-08"
+      }
+    ],
+    "overview": {
+      "sourceRect": {
+        "x": 0,
+        "y": 0,
+        "width": 3213,
+        "height": 2497
+      },
+      "path": "/assets/crops/met-341696-sheet.jpg",
+      "width": 1600,
+      "height": 1243,
+      "masterImage": "/assets/references/met-341696/DP804220.jpg",
+      "transformation": "Full sheet; grayscale; 1–99 percentile normalization; fit inside 1600 px, no enlargement; JPEG quality 90"
+    },
+    "rightsReviewedAt": "2026-09-08",
+    "rightsReviewMethod": "Official collection page public-domain label reviewed with web reader; official API also checked for Met objects",
+    "sourcePageReviewStatus": "verified",
+    "views": [
+      {
+        "sourceRect": {
+          "x": 0,
+          "y": 0,
+          "width": 3213,
+          "height": 2497
+        },
+        "path": "/assets/crops/met-341696-sheet.jpg",
+        "width": 1600,
+        "height": 1243,
+        "masterImage": "/assets/references/met-341696/DP804220.jpg",
+        "transformation": "Full sheet; grayscale; 1–99 percentile normalization; fit inside 1600 px, no enlargement; JPEG quality 90"
+      }
+    ]
+  },
+  {
+    "id": "met-343399",
+    "artist": "George Romney",
+    "title": "Study of two figures: one seated, the other standing (recto). Study of a head looking upwards (verso)",
+    "date": "ca. 1777",
+    "medium": "Graphite with traces of pen and brown ink at upper right",
+    "museum": "The Metropolitan Museum of Art",
+    "objectUrl": "https://www.metmuseum.org/art/collection/search/343399",
+    "rights": "Public Domain / CC0",
+    "rightsUrl": "https://www.metmuseum.org/policies/image-resources",
+    "apiRequest": "https://collectionapi.metmuseum.org/public/collection/v1/objects/343399",
+    "rightsEvidence": "isPublicDomain: true in record.json",
+    "images": [
+      {
+        "downloadUrl": "https://images.metmuseum.org/CRDImages/dp/original/DP804918.jpg",
+        "originalFilename": "DP804918.jpg",
+        "sha256": "55c10b74828ea6cfeafa45c904190f96244d84ebadfa1fe72e541145701d31b9",
+        "masterImage": "/assets/references/met-343399/DP804918.jpg",
+        "retrievedAt": "2026-09-08",
+        "width": 1234,
+        "height": 1766
+      },
+      {
+        "downloadUrl": "https://images.metmuseum.org/CRDImages/dp/original/DP804919.jpg",
+        "originalFilename": "DP804919.jpg",
+        "sha256": "499429a3a97ccb700f8468fdb04518c07db693a816d15aafa2a1a9c787e811f1",
+        "masterImage": "/assets/references/met-343399/DP804919.jpg",
+        "retrievedAt": "2026-09-08",
+        "width": 2454,
+        "height": 3518
+      }
+    ],
+    "downloadUrl": "https://images.metmuseum.org/CRDImages/dp/original/DP804918.jpg",
+    "originalFilename": "DP804918.jpg",
+    "sha256": "55c10b74828ea6cfeafa45c904190f96244d84ebadfa1fe72e541145701d31b9",
+    "masterImage": "/assets/references/met-343399/DP804918.jpg",
+    "retrievedAt": "2026-09-08",
+    "crops": [
+      {
+        "id": "01-b",
+        "path": "/assets/crops/met-343399-01-b.jpg",
+        "sheetPath": "/assets/crops/met-343399-sheet.jpg",
+        "purpose": "Chapter 01, Reference B: crop the standing figure and 8–12 long strokes.",
+        "alt": "Crop the standing figure and 8–12 long strokes: inspect intentional line.",
+        "masterImage": "/assets/references/met-343399/DP804918.jpg",
+        "sourceRect": {
+          "x": 518,
+          "y": 141,
+          "width": 531,
+          "height": 1501
+        },
+        "width": 531,
+        "height": 1501,
+        "printWidthMm": 84,
+        "transformation": "Extract integer sourceRect; grayscale; 1–99 percentile normalization; fit inside 1800 px, no enlargement; JPEG quality 94",
+        "reviewedAt": "2026-09-08"
+      },
+      {
+        "id": "17-a",
+        "path": "/assets/crops/met-343399-17-a.jpg",
+        "sheetPath": "/assets/crops/met-343399-sheet.jpg",
+        "purpose": "Chapter 17, Reference A: revisit the standing and seated figures as complete gestures.",
+        "alt": "Revisit the standing and seated figures as complete gestures: inspect whole-body proportion under time pressure.",
+        "masterImage": "/assets/references/met-343399/DP804918.jpg",
+        "sourceRect": {
+          "x": 210,
+          "y": 88,
+          "width": 876,
+          "height": 1589
+        },
+        "width": 876,
+        "height": 1589,
+        "printWidthMm": 85,
+        "transformation": "Extract integer sourceRect; grayscale; 1–99 percentile normalization; fit inside 1800 px, no enlargement; JPEG quality 94",
+        "reviewedAt": "2026-09-08"
+      }
+    ],
+    "overview": {
+      "sourceRect": {
+        "x": 0,
+        "y": 0,
+        "width": 1234,
+        "height": 1766
+      },
+      "path": "/assets/crops/met-343399-sheet.jpg",
+      "width": 1118,
+      "height": 1600,
+      "masterImage": "/assets/references/met-343399/DP804918.jpg",
+      "transformation": "Full sheet; grayscale; 1–99 percentile normalization; fit inside 1600 px, no enlargement; JPEG quality 90"
+    },
+    "rightsReviewedAt": "2026-09-08",
+    "rightsReviewMethod": "Official collection page public-domain label reviewed with web reader; official API also checked for Met objects",
+    "sourcePageReviewStatus": "verified",
+    "views": [
+      {
+        "sourceRect": {
+          "x": 0,
+          "y": 0,
+          "width": 1234,
+          "height": 1766
+        },
+        "path": "/assets/crops/met-343399-sheet.jpg",
+        "width": 1118,
+        "height": 1600,
+        "masterImage": "/assets/references/met-343399/DP804918.jpg",
+        "transformation": "Full sheet; grayscale; 1–99 percentile normalization; fit inside 1600 px, no enlargement; JPEG quality 90"
+      }
+    ]
+  },
+  {
+    "id": "met-351063",
+    "artist": "Nicolas Poussin",
+    "title": "Study of a Palm Tree (recto); Mountain Landscape (verso)",
+    "date": "ca. 1635–40",
+    "medium": "Pen and brown ink, over traces of black chalk (recto); pen and brown ink (verso)",
+    "museum": "The Metropolitan Museum of Art",
+    "objectUrl": "https://www.metmuseum.org/art/collection/search/351063",
+    "rights": "Public Domain / CC0",
+    "rightsUrl": "https://www.metmuseum.org/policies/image-resources",
+    "apiRequest": "https://collectionapi.metmuseum.org/public/collection/v1/objects/351063",
+    "rightsEvidence": "isPublicDomain: true in record.json",
+    "images": [
+      {
+        "downloadUrl": "https://images.metmuseum.org/CRDImages/dp/original/DP807958.jpg",
+        "originalFilename": "DP807958.jpg",
+        "sha256": "764cb1d4154ccf32c0780a3d9ea7429c7674cbb019ec33c438ab1a1426e5ff7c",
+        "masterImage": "/assets/references/met-351063/DP807958.jpg",
+        "retrievedAt": "2026-09-08",
+        "width": 3251,
+        "height": 2579
+      },
+      {
+        "downloadUrl": "https://images.metmuseum.org/CRDImages/dp/original/DP148619.jpg",
+        "originalFilename": "DP148619.jpg",
+        "sha256": "64196a377fcf55fec3e26a651aa9884a04680be95d80f2208ff8e1e766f66dc0",
+        "masterImage": "/assets/references/met-351063/DP148619.jpg",
+        "retrievedAt": "2026-09-08",
+        "width": 3779,
+        "height": 3355
+      },
+      {
+        "downloadUrl": "https://images.metmuseum.org/CRDImages/dp/original/DP148620.jpg",
+        "originalFilename": "DP148620.jpg",
+        "sha256": "c2c4f68edca3de6efe9e531e0cb7da225719d486452508708299186708fe3d68",
+        "masterImage": "/assets/references/met-351063/DP148620.jpg",
+        "retrievedAt": "2026-09-08",
+        "width": 3875,
+        "height": 3128
+      },
+      {
+        "downloadUrl": "https://images.metmuseum.org/CRDImages/dp/original/Cat86.jpg",
+        "originalFilename": "Cat86.jpg",
+        "sha256": "fcb4b231b186271eff29049730bc4b265ec8493f5086cf1f2da81e01d2c669c2",
+        "masterImage": "/assets/references/met-351063/Cat86.jpg",
+        "retrievedAt": "2026-09-08",
+        "width": 2818,
+        "height": 2250
+      },
+      {
+        "downloadUrl": "https://images.metmuseum.org/CRDImages/dp/original/Fig98.jpg",
+        "originalFilename": "Fig98.jpg",
+        "sha256": "4a1f399c7a3e0bd2698bc1db87c9b36dbdc7b854c3bca01f94393940367fe383",
+        "masterImage": "/assets/references/met-351063/Fig98.jpg",
+        "retrievedAt": "2026-09-08",
+        "width": 2897,
+        "height": 2309
+      },
+      {
+        "downloadUrl": "https://images.metmuseum.org/CRDImages/dp/original/2002.39a.jpg",
+        "originalFilename": "2002.39a.jpg",
+        "sha256": "8aae6efeb8eb0fac8f9ad221dcb83ddf91d04fe2c31a345289b3d561764a0fde",
+        "masterImage": "/assets/references/met-351063/2002.39a.jpg",
+        "retrievedAt": "2026-09-08",
+        "width": 1497,
+        "height": 1200
+      },
+      {
+        "downloadUrl": "https://images.metmuseum.org/CRDImages/dp/original/2002.39b.jpg",
+        "originalFilename": "2002.39b.jpg",
+        "sha256": "7eddaab3369ee193b030685903e2db5eced54edbd583b8cc913e8353b48cdb39",
+        "masterImage": "/assets/references/met-351063/2002.39b.jpg",
+        "retrievedAt": "2026-09-08",
+        "width": 1476,
+        "height": 1186
+      },
+      {
+        "downloadUrl": "https://images.metmuseum.org/CRDImages/dp/original/DP807959.jpg",
+        "originalFilename": "DP807959.jpg",
+        "sha256": "8e4f00bf40c9041ba73e5c5d870f8a4de4f1929e295ca6cb3feebed391ec3eb6",
+        "masterImage": "/assets/references/met-351063/DP807959.jpg",
+        "retrievedAt": "2026-09-08",
+        "width": 1915,
+        "height": 1561
+      }
+    ],
+    "downloadUrl": "https://images.metmuseum.org/CRDImages/dp/original/DP807958.jpg",
+    "originalFilename": "DP807958.jpg",
+    "sha256": "764cb1d4154ccf32c0780a3d9ea7429c7674cbb019ec33c438ab1a1426e5ff7c",
+    "masterImage": "/assets/references/met-351063/DP807958.jpg",
+    "retrievedAt": "2026-09-08",
+    "crops": [
+      {
+        "id": "02-b",
+        "path": "/assets/crops/met-351063-02-b.jpg",
+        "sheetPath": "/assets/crops/met-351063-sheet.jpg",
+        "purpose": "Chapter 02, Reference B: one palm frond rather than the whole sheet.",
+        "alt": "One palm frond rather than the whole sheet: inspect shape relationships around the subject.",
+        "masterImage": "/assets/references/met-351063/DP807958.jpg",
+        "sourceRect": {
+          "x": 98,
+          "y": 928,
+          "width": 1723,
+          "height": 774
+        },
+        "width": 1723,
+        "height": 774,
+        "printWidthMm": 85,
+        "transformation": "Extract integer sourceRect; grayscale; 1–99 percentile normalization; fit inside 1800 px, no enlargement; JPEG quality 94",
+        "reviewedAt": "2026-09-08"
+      }
+    ],
+    "overview": {
+      "sourceRect": {
+        "x": 0,
+        "y": 0,
+        "width": 3251,
+        "height": 2579
+      },
+      "path": "/assets/crops/met-351063-sheet.jpg",
+      "width": 1600,
+      "height": 1269,
+      "masterImage": "/assets/references/met-351063/DP807958.jpg",
+      "transformation": "Full sheet; grayscale; 1–99 percentile normalization; fit inside 1600 px, no enlargement; JPEG quality 90"
+    },
+    "rightsReviewedAt": "2026-09-08",
+    "rightsReviewMethod": "Official collection page public-domain label reviewed with web reader; official API also checked for Met objects",
+    "sourcePageReviewStatus": "verified",
+    "views": [
+      {
+        "sourceRect": {
+          "x": 0,
+          "y": 0,
+          "width": 3251,
+          "height": 2579
+        },
+        "path": "/assets/crops/met-351063-sheet.jpg",
+        "width": 1600,
+        "height": 1269,
+        "masterImage": "/assets/references/met-351063/DP807958.jpg",
+        "transformation": "Full sheet; grayscale; 1–99 percentile normalization; fit inside 1600 px, no enlargement; JPEG quality 90"
+      }
+    ]
+  },
+  {
+    "id": "met-355648",
+    "artist": "Eugène Delacroix",
+    "title": "Studies of Hands and Figures for the Salon du Roi, Palais Bourbon",
+    "date": "1833–38",
+    "medium": "Graphite",
+    "museum": "The Metropolitan Museum of Art",
+    "objectUrl": "https://www.metmuseum.org/art/collection/search/355648",
+    "rights": "Public Domain / CC0",
+    "rightsUrl": "https://www.metmuseum.org/policies/image-resources",
+    "apiRequest": "https://collectionapi.metmuseum.org/public/collection/v1/objects/355648",
+    "rightsEvidence": "isPublicDomain: true in record.json",
+    "images": [
+      {
+        "downloadUrl": "https://images.metmuseum.org/CRDImages/dp/original/DP836025.jpg",
+        "originalFilename": "DP836025.jpg",
+        "sha256": "1a26ca1c7a670092265e076746d449a4866105bb4e746eb85cf7ee6aa557dcc8",
+        "masterImage": "/assets/references/met-355648/DP836025.jpg",
+        "retrievedAt": "2026-09-08",
+        "width": 3590,
+        "height": 2515
+      },
+      {
+        "downloadUrl": "https://images.metmuseum.org/CRDImages/dp/original/DP217803.jpg",
+        "originalFilename": "DP217803.jpg",
+        "sha256": "d9f51735b10c242bc8de6901d48208517ba1136d5873b413f6fa898d00beac75",
+        "masterImage": "/assets/references/met-355648/DP217803.jpg",
+        "retrievedAt": "2026-09-08",
+        "width": 3883,
+        "height": 2678
+      }
+    ],
+    "downloadUrl": "https://images.metmuseum.org/CRDImages/dp/original/DP836025.jpg",
+    "originalFilename": "DP836025.jpg",
+    "sha256": "1a26ca1c7a670092265e076746d449a4866105bb4e746eb85cf7ee6aa557dcc8",
+    "masterImage": "/assets/references/met-355648/DP836025.jpg",
+    "retrievedAt": "2026-09-08",
+    "crops": [
+      {
+        "id": "15-a",
+        "path": "/assets/crops/met-355648-15-a.jpg",
+        "sheetPath": "/assets/crops/met-355648-sheet.jpg",
+        "purpose": "Chapter 15, Reference A: choose one clearly readable hand.",
+        "alt": "Choose one clearly readable hand: inspect multiple small articulated forms with foreshortening.",
+        "masterImage": "/assets/references/met-355648/DP836025.jpg",
+        "sourceRect": {
+          "x": 323,
+          "y": 931,
+          "width": 826,
+          "height": 1434
+        },
+        "width": 826,
+        "height": 1434,
+        "printWidthMm": 85,
+        "transformation": "Extract integer sourceRect; grayscale; 1–99 percentile normalization; fit inside 1800 px, no enlargement; JPEG quality 94",
+        "reviewedAt": "2026-09-08"
+      }
+    ],
+    "overview": {
+      "sourceRect": {
+        "x": 0,
+        "y": 0,
+        "width": 3590,
+        "height": 2515
+      },
+      "path": "/assets/crops/met-355648-sheet.jpg",
+      "width": 1600,
+      "height": 1121,
+      "masterImage": "/assets/references/met-355648/DP836025.jpg",
+      "transformation": "Full sheet; grayscale; 1–99 percentile normalization; fit inside 1600 px, no enlargement; JPEG quality 90"
+    },
+    "rightsReviewedAt": "2026-09-08",
+    "rightsReviewMethod": "Official collection page public-domain label reviewed with web reader; official API also checked for Met objects",
+    "sourcePageReviewStatus": "verified",
+    "views": [
+      {
+        "sourceRect": {
+          "x": 0,
+          "y": 0,
+          "width": 3590,
+          "height": 2515
+        },
+        "path": "/assets/crops/met-355648-sheet.jpg",
+        "width": 1600,
+        "height": 1121,
+        "masterImage": "/assets/references/met-355648/DP836025.jpg",
+        "transformation": "Full sheet; grayscale; 1–99 percentile normalization; fit inside 1600 px, no enlargement; JPEG quality 90"
+      }
+    ]
+  },
+  {
+    "id": "met-363604",
+    "artist": "Myles Birket Foster",
+    "title": "Study of a Dead Tree",
+    "date": "1840–99",
+    "medium": "Graphite",
+    "museum": "The Metropolitan Museum of Art",
+    "objectUrl": "https://www.metmuseum.org/art/collection/search/363604",
+    "rights": "Public Domain / CC0",
+    "rightsUrl": "https://www.metmuseum.org/policies/image-resources",
+    "apiRequest": "https://collectionapi.metmuseum.org/public/collection/v1/objects/363604",
+    "rightsEvidence": "isPublicDomain: true in record.json",
+    "images": [
+      {
+        "downloadUrl": "https://images.metmuseum.org/CRDImages/dp/original/DP800791.jpg",
+        "originalFilename": "DP800791.jpg",
+        "sha256": "50802f105a2192198b47eb4f99529e54345e3b921706398a23e023f3a58949bc",
+        "masterImage": "/assets/references/met-363604/DP800791.jpg",
+        "retrievedAt": "2026-09-08",
+        "width": 2533,
+        "height": 3638
+      }
+    ],
+    "downloadUrl": "https://images.metmuseum.org/CRDImages/dp/original/DP800791.jpg",
+    "originalFilename": "DP800791.jpg",
+    "sha256": "50802f105a2192198b47eb4f99529e54345e3b921706398a23e023f3a58949bc",
+    "masterImage": "/assets/references/met-363604/DP800791.jpg",
+    "retrievedAt": "2026-09-08",
+    "crops": [
+      {
+        "id": "06-b",
+        "path": "/assets/crops/met-363604-06-b.jpg",
+        "sheetPath": "/assets/crops/met-363604-sheet.jpg",
+        "purpose": "Chapter 06, Reference B: upper branching silhouette.",
+        "alt": "Upper branching silhouette: inspect nested structural hierarchy.",
+        "masterImage": "/assets/references/met-363604/DP800791.jpg",
+        "sourceRect": {
+          "x": 431,
+          "y": 291,
+          "width": 1672,
+          "height": 2365
+        },
+        "width": 1273,
+        "height": 1800,
+        "printWidthMm": 85,
+        "transformation": "Extract integer sourceRect; grayscale; 1–99 percentile normalization; fit inside 1800 px, no enlargement; JPEG quality 94",
+        "reviewedAt": "2026-09-08"
+      }
+    ],
+    "overview": {
+      "sourceRect": {
+        "x": 0,
+        "y": 0,
+        "width": 2533,
+        "height": 3638
+      },
+      "path": "/assets/crops/met-363604-sheet.jpg",
+      "width": 1114,
+      "height": 1600,
+      "masterImage": "/assets/references/met-363604/DP800791.jpg",
+      "transformation": "Full sheet; grayscale; 1–99 percentile normalization; fit inside 1600 px, no enlargement; JPEG quality 90"
+    },
+    "rightsReviewedAt": "2026-09-08",
+    "rightsReviewMethod": "Official collection page public-domain label reviewed with web reader; official API also checked for Met objects",
+    "sourcePageReviewStatus": "verified",
+    "views": [
+      {
+        "sourceRect": {
+          "x": 0,
+          "y": 0,
+          "width": 2533,
+          "height": 3638
+        },
+        "path": "/assets/crops/met-363604-sheet.jpg",
+        "width": 1114,
+        "height": 1600,
+        "masterImage": "/assets/references/met-363604/DP800791.jpg",
+        "transformation": "Full sheet; grayscale; 1–99 percentile normalization; fit inside 1600 px, no enlargement; JPEG quality 90"
+      }
+    ]
+  },
+  {
+    "id": "met-364025",
+    "artist": "Thomas Rowlandson",
+    "title": "Study of trees",
+    "date": "1780–1827",
+    "medium": "Pen and brown ink",
+    "museum": "The Metropolitan Museum of Art",
+    "objectUrl": "https://www.metmuseum.org/art/collection/search/364025",
+    "rights": "Public Domain / CC0",
+    "rightsUrl": "https://www.metmuseum.org/policies/image-resources",
+    "apiRequest": "https://collectionapi.metmuseum.org/public/collection/v1/objects/364025",
+    "rightsEvidence": "isPublicDomain: true in record.json",
+    "images": [
+      {
+        "downloadUrl": "https://images.metmuseum.org/CRDImages/dp/original/DP805045.jpg",
+        "originalFilename": "DP805045.jpg",
+        "sha256": "7639de73ddfb78c00a68aabbbfca997acb7bc141b7bd02b298acde44fd1803e5",
+        "masterImage": "/assets/references/met-364025/DP805045.jpg",
+        "retrievedAt": "2026-09-08",
+        "width": 3445,
+        "height": 2518
+      }
+    ],
+    "downloadUrl": "https://images.metmuseum.org/CRDImages/dp/original/DP805045.jpg",
+    "originalFilename": "DP805045.jpg",
+    "sha256": "7639de73ddfb78c00a68aabbbfca997acb7bc141b7bd02b298acde44fd1803e5",
+    "masterImage": "/assets/references/met-364025/DP805045.jpg",
+    "retrievedAt": "2026-09-08",
+    "crops": [
+      {
+        "id": "08-a",
+        "path": "/assets/crops/met-364025-08-a.jpg",
+        "sheetPath": "/assets/crops/met-364025-sheet.jpg",
+        "purpose": "Chapter 08, Reference A: one complete tree.",
+        "alt": "One complete tree: inspect integrating trunk, branches, foliage, and ground into one proportioned subject.",
+        "masterImage": "/assets/references/met-364025/DP805045.jpg",
+        "sourceRect": {
+          "x": 241,
+          "y": 252,
+          "width": 2963,
+          "height": 2014
+        },
+        "width": 1800,
+        "height": 1223,
+        "printWidthMm": 85,
+        "transformation": "Extract integer sourceRect; grayscale; 1–99 percentile normalization; fit inside 1800 px, no enlargement; JPEG quality 94",
+        "reviewedAt": "2026-09-08"
+      }
+    ],
+    "overview": {
+      "sourceRect": {
+        "x": 0,
+        "y": 0,
+        "width": 3445,
+        "height": 2518
+      },
+      "path": "/assets/crops/met-364025-sheet.jpg",
+      "width": 1600,
+      "height": 1169,
+      "masterImage": "/assets/references/met-364025/DP805045.jpg",
+      "transformation": "Full sheet; grayscale; 1–99 percentile normalization; fit inside 1600 px, no enlargement; JPEG quality 90"
+    },
+    "rightsReviewedAt": "2026-09-08",
+    "rightsReviewMethod": "Official collection page public-domain label reviewed with web reader; official API also checked for Met objects",
+    "sourcePageReviewStatus": "verified",
+    "views": [
+      {
+        "sourceRect": {
+          "x": 0,
+          "y": 0,
+          "width": 3445,
+          "height": 2518
+        },
+        "path": "/assets/crops/met-364025-sheet.jpg",
+        "width": 1600,
+        "height": 1169,
+        "masterImage": "/assets/references/met-364025/DP805045.jpg",
+        "transformation": "Full sheet; grayscale; 1–99 percentile normalization; fit inside 1600 px, no enlargement; JPEG quality 90"
+      }
+    ]
+  },
+  {
+    "id": "met-370468",
+    "artist": "Rembrandt (Rembrandt van Rijn)",
+    "title": "Study Sheet with Three Women and a Boy",
+    "date": "ca. 1638–39",
+    "medium": "Pen and brown ink",
+    "museum": "The Metropolitan Museum of Art",
+    "objectUrl": "https://www.metmuseum.org/art/collection/search/370468",
+    "rights": "Public Domain / CC0",
+    "rightsUrl": "https://www.metmuseum.org/policies/image-resources",
+    "apiRequest": "https://collectionapi.metmuseum.org/public/collection/v1/objects/370468",
+    "rightsEvidence": "isPublicDomain: true in record.json",
+    "images": [
+      {
+        "downloadUrl": "https://images.metmuseum.org/CRDImages/dp/original/DP800591.jpg",
+        "originalFilename": "DP800591.jpg",
+        "sha256": "5bc4cbe1bd3323db06b8d13afc34bfe9bb6657867d93a052711104451b5f46e7",
+        "masterImage": "/assets/references/met-370468/DP800591.jpg",
+        "retrievedAt": "2026-09-08",
+        "width": 2611,
+        "height": 3491
+      },
+      {
+        "downloadUrl": "https://images.metmuseum.org/CRDImages/dp/original/DP122678.jpg",
+        "originalFilename": "DP122678.jpg",
+        "sha256": "4bf48335d096ec8f8f878b42479a72d0321acb88b5fe9ec8c123b12e98a16c26",
+        "masterImage": "/assets/references/met-370468/DP122678.jpg",
+        "retrievedAt": "2026-09-08",
+        "width": 2512,
+        "height": 3398
+      }
+    ],
+    "downloadUrl": "https://images.metmuseum.org/CRDImages/dp/original/DP800591.jpg",
+    "originalFilename": "DP800591.jpg",
+    "sha256": "5bc4cbe1bd3323db06b8d13afc34bfe9bb6657867d93a052711104451b5f46e7",
+    "masterImage": "/assets/references/met-370468/DP800591.jpg",
+    "retrievedAt": "2026-09-08",
+    "crops": [
+      {
+        "id": "19-a",
+        "path": "/assets/crops/met-370468-19-a.jpg",
+        "sheetPath": "/assets/crops/met-370468-sheet.jpg",
+        "purpose": "Chapter 19, Reference A: whole sheet, then one two-figure relationship.",
+        "alt": "Whole sheet, then one two-figure relationship: inspect several figures competing for attention.",
+        "masterImage": "/assets/references/met-370468/DP800591.jpg",
+        "sourceRect": {
+          "x": 65,
+          "y": 1117,
+          "width": 2480,
+          "height": 2234
+        },
+        "width": 1800,
+        "height": 1621,
+        "printWidthMm": 85,
+        "transformation": "Extract integer sourceRect; grayscale; 1–99 percentile normalization; fit inside 1800 px, no enlargement; JPEG quality 94",
+        "reviewedAt": "2026-09-08"
+      }
+    ],
+    "overview": {
+      "sourceRect": {
+        "x": 0,
+        "y": 0,
+        "width": 2611,
+        "height": 3491
+      },
+      "path": "/assets/crops/met-370468-sheet.jpg",
+      "width": 1197,
+      "height": 1600,
+      "masterImage": "/assets/references/met-370468/DP800591.jpg",
+      "transformation": "Full sheet; grayscale; 1–99 percentile normalization; fit inside 1600 px, no enlargement; JPEG quality 90"
+    },
+    "rightsReviewedAt": "2026-09-08",
+    "rightsReviewMethod": "Official collection page public-domain label reviewed with web reader; official API also checked for Met objects",
+    "sourcePageReviewStatus": "verified",
+    "views": [
+      {
+        "sourceRect": {
+          "x": 0,
+          "y": 0,
+          "width": 2611,
+          "height": 3491
+        },
+        "path": "/assets/crops/met-370468-sheet.jpg",
+        "width": 1197,
+        "height": 1600,
+        "masterImage": "/assets/references/met-370468/DP800591.jpg",
+        "transformation": "Full sheet; grayscale; 1–99 percentile normalization; fit inside 1600 px, no enlargement; JPEG quality 90"
+      }
+    ]
+  },
+  {
+    "id": "met-382512",
+    "artist": "Johann Friedrich Overbeck",
+    "title": "A Drapery Study of a Seated Man",
+    "date": "early 19th century",
+    "medium": "Graphite",
+    "museum": "The Metropolitan Museum of Art",
+    "objectUrl": "https://www.metmuseum.org/art/collection/search/382512",
+    "rights": "Public Domain / CC0",
+    "rightsUrl": "https://www.metmuseum.org/policies/image-resources",
+    "apiRequest": "https://collectionapi.metmuseum.org/public/collection/v1/objects/382512",
+    "rightsEvidence": "isPublicDomain: true in record.json",
+    "images": [
+      {
+        "downloadUrl": "https://images.metmuseum.org/CRDImages/dp/original/DP803868.jpg",
+        "originalFilename": "DP803868.jpg",
+        "sha256": "d51820528e02aa178e318771fd2d0147f46aac5dc7f6ceebc0925b88cc8305ea",
+        "masterImage": "/assets/references/met-382512/DP803868.jpg",
+        "retrievedAt": "2026-09-08",
+        "width": 2680,
+        "height": 3523
+      }
+    ],
+    "downloadUrl": "https://images.metmuseum.org/CRDImages/dp/original/DP803868.jpg",
+    "originalFilename": "DP803868.jpg",
+    "sha256": "d51820528e02aa178e318771fd2d0147f46aac5dc7f6ceebc0925b88cc8305ea",
+    "masterImage": "/assets/references/met-382512/DP803868.jpg",
+    "retrievedAt": "2026-09-08",
+    "crops": [
+      {
+        "id": "16-a",
+        "path": "/assets/crops/met-382512-16-a.jpg",
+        "sheetPath": "/assets/crops/met-382512-sheet.jpg",
+        "purpose": "Chapter 16, Reference A: whole seated drapery mass.",
+        "alt": "Whole seated drapery mass: inspect visible cloth structure over an implied body.",
+        "masterImage": "/assets/references/met-382512/DP803868.jpg",
+        "sourceRect": {
+          "x": 375,
+          "y": 176,
+          "width": 1983,
+          "height": 3100
+        },
+        "width": 1151,
+        "height": 1800,
+        "printWidthMm": 85,
+        "transformation": "Extract integer sourceRect; grayscale; 1–99 percentile normalization; fit inside 1800 px, no enlargement; JPEG quality 94",
+        "reviewedAt": "2026-09-08"
+      }
+    ],
+    "overview": {
+      "sourceRect": {
+        "x": 0,
+        "y": 0,
+        "width": 2680,
+        "height": 3523
+      },
+      "path": "/assets/crops/met-382512-sheet.jpg",
+      "width": 1217,
+      "height": 1600,
+      "masterImage": "/assets/references/met-382512/DP803868.jpg",
+      "transformation": "Full sheet; grayscale; 1–99 percentile normalization; fit inside 1600 px, no enlargement; JPEG quality 90"
+    },
+    "rightsReviewedAt": "2026-09-08",
+    "rightsReviewMethod": "Official collection page public-domain label reviewed with web reader; official API also checked for Met objects",
+    "sourcePageReviewStatus": "verified",
+    "views": [
+      {
+        "sourceRect": {
+          "x": 0,
+          "y": 0,
+          "width": 2680,
+          "height": 3523
+        },
+        "path": "/assets/crops/met-382512-sheet.jpg",
+        "width": 1217,
+        "height": 1600,
+        "masterImage": "/assets/references/met-382512/DP803868.jpg",
+        "transformation": "Full sheet; grayscale; 1–99 percentile normalization; fit inside 1600 px, no enlargement; JPEG quality 90"
+      }
+    ]
+  },
+  {
+    "id": "met-386334",
+    "artist": "Jacques de Gheyn II",
+    "title": "Study of a Tree",
+    "date": "late 16th–early 17th century",
+    "medium": "Pen and brown ink over black chalk",
+    "museum": "The Metropolitan Museum of Art",
+    "objectUrl": "https://www.metmuseum.org/art/collection/search/386334",
+    "rights": "Public Domain / CC0",
+    "rightsUrl": "https://www.metmuseum.org/policies/image-resources",
+    "apiRequest": "https://collectionapi.metmuseum.org/public/collection/v1/objects/386334",
+    "rightsEvidence": "isPublicDomain: true in record.json",
+    "images": [
+      {
+        "downloadUrl": "https://images.metmuseum.org/CRDImages/dp/original/DP221574.jpg",
+        "originalFilename": "DP221574.jpg",
+        "sha256": "bd317b99fd82d0718e1a2e89614376f7f756426215bd583cfed9dde9a8321768",
+        "masterImage": "/assets/references/met-386334/DP221574.jpg",
+        "retrievedAt": "2026-09-08",
+        "width": 2708,
+        "height": 3561
+      }
+    ],
+    "downloadUrl": "https://images.metmuseum.org/CRDImages/dp/original/DP221574.jpg",
+    "originalFilename": "DP221574.jpg",
+    "sha256": "bd317b99fd82d0718e1a2e89614376f7f756426215bd583cfed9dde9a8321768",
+    "masterImage": "/assets/references/met-386334/DP221574.jpg",
+    "retrievedAt": "2026-09-08",
+    "crops": [
+      {
+        "id": "06-a",
+        "path": "/assets/crops/met-386334-06-a.jpg",
+        "sheetPath": "/assets/crops/met-386334-sheet.jpg",
+        "purpose": "Chapter 06, Reference A: one major fork and its secondary branches.",
+        "alt": "One major fork and its secondary branches: inspect nested structural hierarchy.",
+        "masterImage": "/assets/references/met-386334/DP221574.jpg",
+        "sourceRect": {
+          "x": 650,
+          "y": 570,
+          "width": 1760,
+          "height": 1781
+        },
+        "width": 1760,
+        "height": 1781,
+        "printWidthMm": 85,
+        "transformation": "Extract integer sourceRect; grayscale; 1–99 percentile normalization; fit inside 1800 px, no enlargement; JPEG quality 94",
+        "reviewedAt": "2026-09-08"
+      }
+    ],
+    "overview": {
+      "sourceRect": {
+        "x": 0,
+        "y": 0,
+        "width": 2708,
+        "height": 3561
+      },
+      "path": "/assets/crops/met-386334-sheet.jpg",
+      "width": 1217,
+      "height": 1600,
+      "masterImage": "/assets/references/met-386334/DP221574.jpg",
+      "transformation": "Full sheet; grayscale; 1–99 percentile normalization; fit inside 1600 px, no enlargement; JPEG quality 90"
+    },
+    "rightsReviewedAt": "2026-09-08",
+    "rightsReviewMethod": "Official collection page public-domain label reviewed with web reader; official API also checked for Met objects",
+    "sourcePageReviewStatus": "verified",
+    "views": [
+      {
+        "sourceRect": {
+          "x": 0,
+          "y": 0,
+          "width": 2708,
+          "height": 3561
+        },
+        "path": "/assets/crops/met-386334-sheet.jpg",
+        "width": 1217,
+        "height": 1600,
+        "masterImage": "/assets/references/met-386334/DP221574.jpg",
+        "transformation": "Full sheet; grayscale; 1–99 percentile normalization; fit inside 1600 px, no enlargement; JPEG quality 90"
+      }
+    ]
+  },
+  {
+    "id": "met-386475",
+    "artist": "Anonymous, British, 19th century",
+    "title": "Design for a Doorway",
+    "date": "first half 19th century",
+    "medium": "Graphite",
+    "museum": "The Metropolitan Museum of Art",
+    "objectUrl": "https://www.metmuseum.org/art/collection/search/386475",
+    "rights": "Public Domain / CC0",
+    "rightsUrl": "https://www.metmuseum.org/policies/image-resources",
+    "apiRequest": "https://collectionapi.metmuseum.org/public/collection/v1/objects/386475",
+    "rightsEvidence": "isPublicDomain: true in record.json",
+    "images": [
+      {
+        "downloadUrl": "https://images.metmuseum.org/CRDImages/dp/original/DP806474.jpg",
+        "originalFilename": "DP806474.jpg",
+        "sha256": "2aaa94c6a46174fd6c89c0562fd9d34e6e2c15f427f473dc65d784b2d1044b2d",
+        "masterImage": "/assets/references/met-386475/DP806474.jpg",
+        "retrievedAt": "2026-09-08",
+        "width": 2342,
+        "height": 3314
+      }
+    ],
+    "downloadUrl": "https://images.metmuseum.org/CRDImages/dp/original/DP806474.jpg",
+    "originalFilename": "DP806474.jpg",
+    "sha256": "2aaa94c6a46174fd6c89c0562fd9d34e6e2c15f427f473dc65d784b2d1044b2d",
+    "masterImage": "/assets/references/met-386475/DP806474.jpg",
+    "retrievedAt": "2026-09-08",
+    "crops": [
+      {
+        "id": "10-a",
+        "path": "/assets/crops/met-386475-10-a.jpg",
+        "sheetPath": "/assets/crops/met-386475-sheet.jpg",
+        "purpose": "Chapter 10, Reference A: whole elevation.",
+        "alt": "Whole elevation: inspect measured perspective and repeated alignment.",
+        "masterImage": "/assets/references/met-386475/DP806474.jpg",
+        "sourceRect": {
+          "x": 141,
+          "y": 99,
+          "width": 2061,
+          "height": 3115
+        },
+        "width": 1191,
+        "height": 1800,
+        "printWidthMm": 85,
+        "transformation": "Extract integer sourceRect; grayscale; 1–99 percentile normalization; fit inside 1800 px, no enlargement; JPEG quality 94",
+        "reviewedAt": "2026-09-08"
+      }
+    ],
+    "overview": {
+      "sourceRect": {
+        "x": 0,
+        "y": 0,
+        "width": 2342,
+        "height": 3314
+      },
+      "path": "/assets/crops/met-386475-sheet.jpg",
+      "width": 1131,
+      "height": 1600,
+      "masterImage": "/assets/references/met-386475/DP806474.jpg",
+      "transformation": "Full sheet; grayscale; 1–99 percentile normalization; fit inside 1600 px, no enlargement; JPEG quality 90"
+    },
+    "rightsReviewedAt": "2026-09-08",
+    "rightsReviewMethod": "Official collection page public-domain label reviewed with web reader; official API also checked for Met objects",
+    "sourcePageReviewStatus": "verified",
+    "views": [
+      {
+        "sourceRect": {
+          "x": 0,
+          "y": 0,
+          "width": 2342,
+          "height": 3314
+        },
+        "path": "/assets/crops/met-386475-sheet.jpg",
+        "width": 1131,
+        "height": 1600,
+        "masterImage": "/assets/references/met-386475/DP806474.jpg",
+        "transformation": "Full sheet; grayscale; 1–99 percentile normalization; fit inside 1600 px, no enlargement; JPEG quality 90"
+      }
+    ]
+  },
+  {
+    "id": "met-392332",
+    "artist": "Ernst Ferdinand Oehme",
+    "title": "Study of a Tree; verso: Study of Houses",
+    "date": "1832",
+    "medium": "Graphite",
+    "museum": "The Metropolitan Museum of Art",
+    "objectUrl": "https://www.metmuseum.org/art/collection/search/392332",
+    "rights": "Public Domain / CC0",
+    "rightsUrl": "https://www.metmuseum.org/policies/image-resources",
+    "apiRequest": "https://collectionapi.metmuseum.org/public/collection/v1/objects/392332",
+    "rightsEvidence": "isPublicDomain: true in record.json",
+    "images": [
+      {
+        "downloadUrl": "https://images.metmuseum.org/CRDImages/dp/original/DP815486.jpg",
+        "originalFilename": "DP815486.jpg",
+        "sha256": "ae4b4b2ad4fddc24b673906c943fe8531f8e7e97892e21eb3bc129bb81ff642c",
+        "masterImage": "/assets/references/met-392332/DP815486.jpg",
+        "retrievedAt": "2026-09-08",
+        "width": 2984,
+        "height": 3578
+      },
+      {
+        "downloadUrl": "https://images.metmuseum.org/CRDImages/dp/original/DP815491.jpg",
+        "originalFilename": "DP815491.jpg",
+        "sha256": "4426cee4a267079f96b0dbef4df03cc9d9965a13418d72076f5d4945ccc02f36",
+        "masterImage": "/assets/references/met-392332/DP815491.jpg",
+        "retrievedAt": "2026-09-08",
+        "width": 2951,
+        "height": 3609
+      }
+    ],
+    "downloadUrl": "https://images.metmuseum.org/CRDImages/dp/original/DP815486.jpg",
+    "originalFilename": "DP815486.jpg",
+    "sha256": "ae4b4b2ad4fddc24b673906c943fe8531f8e7e97892e21eb3bc129bb81ff642c",
+    "masterImage": "/assets/references/met-392332/DP815486.jpg",
+    "retrievedAt": "2026-09-08",
+    "crops": [
+      {
+        "id": "05-a",
+        "path": "/assets/crops/met-392332-05-a.jpg",
+        "sheetPath": "/assets/crops/met-392332-sheet.jpg",
+        "purpose": "Chapter 05, Reference A: lower trunk crop.",
+        "alt": "Lower trunk crop: inspect surface detail subordinated to volume.",
+        "masterImage": "/assets/references/met-392332/DP815486.jpg",
+        "sourceRect": {
+          "x": 746,
+          "y": 1360,
+          "width": 1492,
+          "height": 1861
+        },
+        "width": 1443,
+        "height": 1800,
+        "printWidthMm": 85,
+        "transformation": "Extract integer sourceRect; grayscale; 1–99 percentile normalization; fit inside 1800 px, no enlargement; JPEG quality 94",
+        "reviewedAt": "2026-09-08"
+      },
+      {
+        "id": "07-b",
+        "path": "/assets/crops/met-392332-07-b.jpg",
+        "sheetPath": "/assets/crops/met-392332-sheet.jpg",
+        "purpose": "Chapter 07 Reference B: Oehme canopy cluster, replacing an unsuitable Durand bark fragment",
+        "alt": "Oehme canopy cluster: inspect graphite leaf marks grouped into larger foliage masses.",
+        "masterImage": "/assets/references/met-392332/DP815486.jpg",
+        "sourceRect": {
+          "x": 239,
+          "y": 36,
+          "width": 2477,
+          "height": 1252
+        },
+        "width": 1800,
+        "height": 910,
+        "printWidthMm": 85,
+        "transformation": "Extract integer sourceRect; grayscale; 1–99 percentile normalization; fit inside 1800 px, no enlargement; JPEG quality 94",
+        "reviewedAt": "2026-09-08"
+      }
+    ],
+    "overview": {
+      "sourceRect": {
+        "x": 0,
+        "y": 0,
+        "width": 2984,
+        "height": 3578
+      },
+      "path": "/assets/crops/met-392332-sheet.jpg",
+      "width": 1334,
+      "height": 1600,
+      "masterImage": "/assets/references/met-392332/DP815486.jpg",
+      "transformation": "Full sheet; grayscale; 1–99 percentile normalization; fit inside 1600 px, no enlargement; JPEG quality 90"
+    },
+    "rightsReviewedAt": "2026-09-08",
+    "rightsReviewMethod": "Official collection page public-domain label reviewed with web reader; official API also checked for Met objects",
+    "sourcePageReviewStatus": "verified",
+    "views": [
+      {
+        "sourceRect": {
+          "x": 0,
+          "y": 0,
+          "width": 2984,
+          "height": 3578
+        },
+        "path": "/assets/crops/met-392332-sheet.jpg",
+        "width": 1334,
+        "height": 1600,
+        "masterImage": "/assets/references/met-392332/DP815486.jpg",
+        "transformation": "Full sheet; grayscale; 1–99 percentile normalization; fit inside 1600 px, no enlargement; JPEG quality 90"
+      }
+    ]
+  },
+  {
+    "id": "met-394683",
+    "artist": "Mihály Munkácsy",
+    "title": "Studies of Standing Men",
+    "date": "ca. 1891–92",
+    "medium": "Graphite",
+    "museum": "The Metropolitan Museum of Art",
+    "objectUrl": "https://www.metmuseum.org/art/collection/search/394683",
+    "rights": "Public Domain / CC0",
+    "rightsUrl": "https://www.metmuseum.org/policies/image-resources",
+    "apiRequest": "https://collectionapi.metmuseum.org/public/collection/v1/objects/394683",
+    "rightsEvidence": "isPublicDomain: true in record.json",
+    "images": [
+      {
+        "downloadUrl": "https://images.metmuseum.org/CRDImages/dp/original/DP815487.jpg",
+        "originalFilename": "DP815487.jpg",
+        "sha256": "e16e26fb81d832120d54db54f1be9e6eb8d93e084190770b9f87af61c83a6471",
+        "masterImage": "/assets/references/met-394683/DP815487.jpg",
+        "retrievedAt": "2026-09-08",
+        "width": 2857,
+        "height": 3669
+      }
+    ],
+    "downloadUrl": "https://images.metmuseum.org/CRDImages/dp/original/DP815487.jpg",
+    "originalFilename": "DP815487.jpg",
+    "sha256": "e16e26fb81d832120d54db54f1be9e6eb8d93e084190770b9f87af61c83a6471",
+    "masterImage": "/assets/references/met-394683/DP815487.jpg",
+    "retrievedAt": "2026-09-08",
+    "crops": [
+      {
+        "id": "17-b",
+        "path": "/assets/crops/met-394683-17-b.jpg",
+        "sheetPath": "/assets/crops/met-394683-sheet.jpg",
+        "purpose": "Chapter 17, Reference B: two standing figures.",
+        "alt": "Two standing figures: inspect whole-body proportion under time pressure.",
+        "masterImage": "/assets/references/met-394683/DP815487.jpg",
+        "sourceRect": {
+          "x": 286,
+          "y": 330,
+          "width": 2143,
+          "height": 3082
+        },
+        "width": 1252,
+        "height": 1800,
+        "printWidthMm": 85,
+        "transformation": "Extract integer sourceRect; grayscale; 1–99 percentile normalization; fit inside 1800 px, no enlargement; JPEG quality 94",
+        "reviewedAt": "2026-09-08"
+      }
+    ],
+    "overview": {
+      "sourceRect": {
+        "x": 0,
+        "y": 0,
+        "width": 2857,
+        "height": 3669
+      },
+      "path": "/assets/crops/met-394683-sheet.jpg",
+      "width": 1246,
+      "height": 1600,
+      "masterImage": "/assets/references/met-394683/DP815487.jpg",
+      "transformation": "Full sheet; grayscale; 1–99 percentile normalization; fit inside 1600 px, no enlargement; JPEG quality 90"
+    },
+    "rightsReviewedAt": "2026-09-08",
+    "rightsReviewMethod": "Official collection page public-domain label reviewed with web reader; official API also checked for Met objects",
+    "sourcePageReviewStatus": "verified",
+    "views": [
+      {
+        "sourceRect": {
+          "x": 0,
+          "y": 0,
+          "width": 2857,
+          "height": 3669
+        },
+        "path": "/assets/crops/met-394683-sheet.jpg",
+        "width": 1246,
+        "height": 1600,
+        "masterImage": "/assets/references/met-394683/DP815487.jpg",
+        "transformation": "Full sheet; grayscale; 1–99 percentile normalization; fit inside 1600 px, no enlargement; JPEG quality 90"
+      }
+    ]
+  },
+  {
+    "id": "met-406192",
+    "artist": "John Crome",
+    "title": "Study for Tree Trunks and Lane",
+    "date": "ca. 1812",
+    "medium": "Graphite (recto); soft ground etching (verso)",
+    "museum": "The Metropolitan Museum of Art",
+    "objectUrl": "https://www.metmuseum.org/art/collection/search/406192",
+    "rights": "Public Domain / CC0",
+    "rightsUrl": "https://www.metmuseum.org/policies/image-resources",
+    "apiRequest": "https://collectionapi.metmuseum.org/public/collection/v1/objects/406192",
+    "rightsEvidence": "isPublicDomain: true in record.json",
+    "images": [
+      {
+        "downloadUrl": "https://images.metmuseum.org/CRDImages/dp/original/DP822052.jpg",
+        "originalFilename": "DP822052.jpg",
+        "sha256": "cbb6f828cef859dd3320721487cae539bcfa7f9f9d4e34abf3429c061cb789e4",
+        "masterImage": "/assets/references/met-406192/DP822052.jpg",
+        "retrievedAt": "2026-09-08",
+        "width": 2705,
+        "height": 3410
+      },
+      {
+        "downloadUrl": "https://images.metmuseum.org/CRDImages/dp/original/DP822054.jpg",
+        "originalFilename": "DP822054.jpg",
+        "sha256": "30798e2a2f648b710a380c2bd847a24750448ae3a78e60725021d6ae1b18da0c",
+        "masterImage": "/assets/references/met-406192/DP822054.jpg",
+        "retrievedAt": "2026-09-08",
+        "width": 2782,
+        "height": 3463
+      }
+    ],
+    "downloadUrl": "https://images.metmuseum.org/CRDImages/dp/original/DP822052.jpg",
+    "originalFilename": "DP822052.jpg",
+    "sha256": "cbb6f828cef859dd3320721487cae539bcfa7f9f9d4e34abf3429c061cb789e4",
+    "masterImage": "/assets/references/met-406192/DP822052.jpg",
+    "retrievedAt": "2026-09-08",
+    "crops": [
+      {
+        "id": "05-b",
+        "path": "/assets/crops/met-406192-05-b.jpg",
+        "sheetPath": "/assets/crops/met-406192-sheet.jpg",
+        "purpose": "Chapter 05, Reference B: one trunk fork.",
+        "alt": "One trunk fork: inspect surface detail subordinated to volume.",
+        "masterImage": "/assets/references/met-406192/DP822052.jpg",
+        "sourceRect": {
+          "x": 866,
+          "y": 853,
+          "width": 1190,
+          "height": 1535
+        },
+        "width": 1190,
+        "height": 1535,
+        "printWidthMm": 85,
+        "transformation": "Extract integer sourceRect; grayscale; 1–99 percentile normalization; fit inside 1800 px, no enlargement; JPEG quality 94",
+        "reviewedAt": "2026-09-08"
+      }
+    ],
+    "overview": {
+      "sourceRect": {
+        "x": 0,
+        "y": 0,
+        "width": 2705,
+        "height": 3410
+      },
+      "path": "/assets/crops/met-406192-sheet.jpg",
+      "width": 1269,
+      "height": 1600,
+      "masterImage": "/assets/references/met-406192/DP822052.jpg",
+      "transformation": "Full sheet; grayscale; 1–99 percentile normalization; fit inside 1600 px, no enlargement; JPEG quality 90"
+    },
+    "rightsReviewedAt": "2026-09-08",
+    "rightsReviewMethod": "Official collection page public-domain label reviewed with web reader; official API also checked for Met objects",
+    "sourcePageReviewStatus": "verified",
+    "views": [
+      {
+        "sourceRect": {
+          "x": 0,
+          "y": 0,
+          "width": 2705,
+          "height": 3410
+        },
+        "path": "/assets/crops/met-406192-sheet.jpg",
+        "width": 1269,
+        "height": 1600,
+        "masterImage": "/assets/references/met-406192/DP822052.jpg",
+        "transformation": "Full sheet; grayscale; 1–99 percentile normalization; fit inside 1600 px, no enlargement; JPEG quality 90"
+      }
+    ]
+  },
+  {
+    "id": "met-409000",
+    "artist": "Jean Auguste Dominique Ingres",
+    "title": "Jean-Joseph Fournier",
+    "date": "1815",
+    "medium": "Graphite",
+    "museum": "The Metropolitan Museum of Art",
+    "objectUrl": "https://www.metmuseum.org/art/collection/search/409000",
+    "rights": "Public Domain / CC0",
+    "rightsUrl": "https://www.metmuseum.org/policies/image-resources",
+    "apiRequest": "https://collectionapi.metmuseum.org/public/collection/v1/objects/409000",
+    "rightsEvidence": "isPublicDomain: true in record.json",
+    "images": [
+      {
+        "downloadUrl": "https://images.metmuseum.org/CRDImages/dp/original/DP823925.jpg",
+        "originalFilename": "DP823925.jpg",
+        "sha256": "3c1f6dfa872dcfb9a3612751584c5a71f91199322d7b4140170e752b1a3a62f7",
+        "masterImage": "/assets/references/met-409000/DP823925.jpg",
+        "retrievedAt": "2026-09-08",
+        "width": 1199,
+        "height": 1778
+      }
+    ],
+    "downloadUrl": "https://images.metmuseum.org/CRDImages/dp/original/DP823925.jpg",
+    "originalFilename": "DP823925.jpg",
+    "sha256": "3c1f6dfa872dcfb9a3612751584c5a71f91199322d7b4140170e752b1a3a62f7",
+    "masterImage": "/assets/references/met-409000/DP823925.jpg",
+    "retrievedAt": "2026-09-08",
+    "crops": [
+      {
+        "id": "12-b",
+        "path": "/assets/crops/met-409000-12-b.jpg",
+        "sheetPath": "/assets/crops/met-409000-sheet.jpg",
+        "purpose": "Chapter 12, Reference B: crop nose, philtrum, lips and chin.",
+        "alt": "Crop nose, philtrum, lips and chin: inspect subtle plane change with few outlines.",
+        "masterImage": "/assets/references/met-409000/DP823925.jpg",
+        "sourceRect": {
+          "x": 444,
+          "y": 498,
+          "width": 360,
+          "height": 356
+        },
+        "width": 360,
+        "height": 356,
+        "printWidthMm": 57,
+        "transformation": "Extract integer sourceRect; grayscale; 1–99 percentile normalization; fit inside 1800 px, no enlargement; JPEG quality 94",
+        "reviewedAt": "2026-09-08"
+      },
+      {
+        "id": "14-b",
+        "path": "/assets/crops/met-409000-14-b.jpg",
+        "sheetPath": "/assets/crops/met-409000-sheet.jpg",
+        "purpose": "Chapter 14, Reference B: hairline, outer hair mass, and a limited number of internal accents.",
+        "alt": "Hairline, outer hair mass, and a limited number of internal accents: inspect controlling edge variety around a complex organic mass.",
+        "masterImage": "/assets/references/met-409000/DP823925.jpg",
+        "sourceRect": {
+          "x": 384,
+          "y": 284,
+          "width": 516,
+          "height": 498
+        },
+        "width": 516,
+        "height": 498,
+        "printWidthMm": 81,
+        "transformation": "Extract integer sourceRect; grayscale; 1–99 percentile normalization; fit inside 1800 px, no enlargement; JPEG quality 94",
+        "reviewedAt": "2026-09-08"
+      }
+    ],
+    "overview": {
+      "sourceRect": {
+        "x": 0,
+        "y": 0,
+        "width": 1199,
+        "height": 1778
+      },
+      "path": "/assets/crops/met-409000-sheet.jpg",
+      "width": 1079,
+      "height": 1600,
+      "masterImage": "/assets/references/met-409000/DP823925.jpg",
+      "transformation": "Full sheet; grayscale; 1–99 percentile normalization; fit inside 1600 px, no enlargement; JPEG quality 90"
+    },
+    "rightsReviewedAt": "2026-09-08",
+    "rightsReviewMethod": "Official collection page public-domain label reviewed with web reader; official API also checked for Met objects",
+    "sourcePageReviewStatus": "verified",
+    "views": [
+      {
+        "sourceRect": {
+          "x": 0,
+          "y": 0,
+          "width": 1199,
+          "height": 1778
+        },
+        "path": "/assets/crops/met-409000-sheet.jpg",
+        "width": 1079,
+        "height": 1600,
+        "masterImage": "/assets/references/met-409000/DP823925.jpg",
+        "transformation": "Full sheet; grayscale; 1–99 percentile normalization; fit inside 1600 px, no enlargement; JPEG quality 90"
+      }
+    ]
+  },
+  {
+    "id": "met-459214",
+    "artist": "Albrecht Dürer",
+    "title": "Self-portrait, Study of a Hand and a Pillow (recto); Six Studies of Pillows (verso)",
+    "date": "1493",
+    "medium": "Pen and brown ink",
+    "museum": "The Metropolitan Museum of Art",
+    "objectUrl": "https://www.metmuseum.org/art/collection/search/459214",
+    "rights": "Public Domain / CC0",
+    "rightsUrl": "https://www.metmuseum.org/policies/image-resources",
+    "apiRequest": "https://collectionapi.metmuseum.org/public/collection/v1/objects/459214",
+    "rightsEvidence": "isPublicDomain: true in record.json",
+    "images": [
+      {
+        "downloadUrl": "https://images.metmuseum.org/CRDImages/rl/original/DP282110.jpg",
+        "originalFilename": "DP282110.jpg",
+        "sha256": "002f753832284b66036c3f6054a94a3c1fe28abe1e92bd85b4cf30fc9cef6abd",
+        "masterImage": "/assets/references/met-459214/DP282110.jpg",
+        "retrievedAt": "2026-09-08",
+        "width": 1500,
+        "height": 2000
+      },
+      {
+        "downloadUrl": "https://images.metmuseum.org/CRDImages/rl/original/DP282111.jpg",
+        "originalFilename": "DP282111.jpg",
+        "sha256": "29e1ad8f3129d92cf6e9470bb048c1eb258a2755eef6e1d6d7b498545ef9cf45",
+        "masterImage": "/assets/references/met-459214/DP282111.jpg",
+        "retrievedAt": "2026-09-08",
+        "width": 1500,
+        "height": 2000
+      },
+      {
+        "downloadUrl": "https://images.metmuseum.org/CRDImages/rl/original/DP809588.jpg",
+        "originalFilename": "DP809588.jpg",
+        "sha256": "0706bf7128e490f69973d08340455f5328dcb66fac9a44637f0cb8acd1b59058",
+        "masterImage": "/assets/references/met-459214/DP809588.jpg",
+        "retrievedAt": "2026-09-08",
+        "width": 2826,
+        "height": 3844
+      },
+      {
+        "downloadUrl": "https://images.metmuseum.org/CRDImages/rl/original/DP809589.jpg",
+        "originalFilename": "DP809589.jpg",
+        "sha256": "23b1c453091f8a9aad8c60caa8e2b2450798b4381981ef14d7151dd714afec18",
+        "masterImage": "/assets/references/met-459214/DP809589.jpg",
+        "retrievedAt": "2026-09-08",
+        "width": 2809,
+        "height": 3736
+      },
+      {
+        "downloadUrl": "https://images.metmuseum.org/CRDImages/rl/original/DT3364.jpg",
+        "originalFilename": "DT3364.jpg",
+        "sha256": "cb4f9880ca87bf09b0083eab2edef8b19ed5ebf85742cbeb8692cc27ba8aadc2",
+        "masterImage": "/assets/references/met-459214/DT3364.jpg",
+        "retrievedAt": "2026-09-08",
+        "width": 2761,
+        "height": 3722
+      },
+      {
+        "downloadUrl": "https://images.metmuseum.org/CRDImages/rl/original/DT3365.jpg",
+        "originalFilename": "DT3365.jpg",
+        "sha256": "79cbbae69b9598a0d13905e8deb1f48f0c360d0270162f0d3940a78fefe40c4d",
+        "masterImage": "/assets/references/met-459214/DT3365.jpg",
+        "retrievedAt": "2026-09-08",
+        "width": 2758,
+        "height": 3722
+      }
+    ],
+    "downloadUrl": "https://images.metmuseum.org/CRDImages/rl/original/DP282110.jpg",
+    "originalFilename": "DP282110.jpg",
+    "sha256": "002f753832284b66036c3f6054a94a3c1fe28abe1e92bd85b4cf30fc9cef6abd",
+    "masterImage": "/assets/references/met-459214/DP282110.jpg",
+    "retrievedAt": "2026-09-08",
+    "crops": [
+      {
+        "id": "04-a",
+        "path": "/assets/crops/met-459214-04-a.jpg",
+        "sheetPath": "/assets/crops/met-459214-sheet-1.jpg",
+        "purpose": "Chapter 04, Reference A: one pillow study from the verso.",
+        "alt": "One pillow study from the verso: inspect turning form without hard edges.",
+        "masterImage": "/assets/references/met-459214/DP282111.jpg",
+        "sourceRect": {
+          "x": 135,
+          "y": 140,
+          "width": 720,
+          "height": 640
+        },
+        "width": 720,
+        "height": 640,
+        "printWidthMm": 85,
+        "transformation": "Extract integer sourceRect; grayscale; 1–99 percentile normalization; fit inside 1800 px, no enlargement; JPEG quality 94",
+        "reviewedAt": "2026-09-08"
+      }
+    ],
+    "overview": {
+      "sourceRect": {
+        "x": 0,
+        "y": 0,
+        "width": 1500,
+        "height": 2000
+      },
+      "path": "/assets/crops/met-459214-sheet.jpg",
+      "width": 1200,
+      "height": 1600,
+      "masterImage": "/assets/references/met-459214/DP282110.jpg",
+      "transformation": "Full sheet; grayscale; 1–99 percentile normalization; fit inside 1600 px, no enlargement; JPEG quality 90"
+    },
+    "rightsReviewedAt": "2026-09-08",
+    "rightsReviewMethod": "Official collection page public-domain label reviewed with web reader; official API also checked for Met objects",
+    "sourcePageReviewStatus": "verified",
+    "views": [
+      {
+        "sourceRect": {
+          "x": 0,
+          "y": 0,
+          "width": 1500,
+          "height": 2000
+        },
+        "path": "/assets/crops/met-459214-sheet.jpg",
+        "width": 1200,
+        "height": 1600,
+        "masterImage": "/assets/references/met-459214/DP282110.jpg",
+        "transformation": "Full sheet; grayscale; 1–99 percentile normalization; fit inside 1600 px, no enlargement; JPEG quality 90"
+      },
+      {
+        "path": "/assets/crops/met-459214-sheet-1.jpg",
+        "width": 1200,
+        "height": 1600,
+        "masterImage": "/assets/references/met-459214/DP282111.jpg",
+        "sourceRect": {
+          "x": 0,
+          "y": 0,
+          "width": 1500,
+          "height": 2000
+        },
+        "transformation": "Full sheet; grayscale; 1–99 percentile normalization; fit inside 1600 px, no enlargement; JPEG quality 90"
+      }
+    ]
+  },
+  {
+    "id": "met-489087",
+    "artist": "Elemér de Kóródy",
+    "title": "Cubist Study of A Head",
+    "date": "ca. 1913",
+    "medium": "Graphite on paper",
+    "museum": "The Metropolitan Museum of Art",
+    "objectUrl": "https://www.metmuseum.org/art/collection/search/489087",
+    "rights": "Public Domain / CC0",
+    "rightsUrl": "https://www.metmuseum.org/policies/image-resources",
+    "apiRequest": "https://collectionapi.metmuseum.org/public/collection/v1/objects/489087",
+    "rightsEvidence": "isPublicDomain: true in record.json",
+    "images": [
+      {
+        "downloadUrl": "https://images.metmuseum.org/CRDImages/ma/original/DP-26376-001.jpg",
+        "originalFilename": "DP-26376-001.jpg",
+        "sha256": "c0c6adb83ab8be7b9035d04c384c43dcf5ee14857ad0c785ff6f75fc0a4153e3",
+        "masterImage": "/assets/references/met-489087/DP-26376-001.jpg",
+        "retrievedAt": "2026-09-08",
+        "width": 3878,
+        "height": 4000
+      }
+    ],
+    "downloadUrl": "https://images.metmuseum.org/CRDImages/ma/original/DP-26376-001.jpg",
+    "originalFilename": "DP-26376-001.jpg",
+    "sha256": "c0c6adb83ab8be7b9035d04c384c43dcf5ee14857ad0c785ff6f75fc0a4153e3",
+    "masterImage": "/assets/references/met-489087/DP-26376-001.jpg",
+    "retrievedAt": "2026-09-08",
+    "crops": [
+      {
+        "id": "14-a",
+        "path": "/assets/crops/met-489087-14-a.jpg",
+        "sheetPath": "/assets/crops/met-489087-sheet.jpg",
+        "purpose": "Chapter 14, Reference A: head/hair silhouette and internal large planes.",
+        "alt": "Head/hair silhouette and internal large planes: inspect controlling edge variety around a complex organic mass.",
+        "masterImage": "/assets/references/met-489087/DP-26376-001.jpg",
+        "sourceRect": {
+          "x": 310,
+          "y": 160,
+          "width": 3258,
+          "height": 3600
+        },
+        "width": 1629,
+        "height": 1800,
+        "printWidthMm": 85,
+        "transformation": "Extract integer sourceRect; grayscale; 1–99 percentile normalization; fit inside 1800 px, no enlargement; JPEG quality 94",
+        "reviewedAt": "2026-09-08"
+      }
+    ],
+    "overview": {
+      "sourceRect": {
+        "x": 0,
+        "y": 0,
+        "width": 3878,
+        "height": 4000
+      },
+      "path": "/assets/crops/met-489087-sheet.jpg",
+      "width": 1551,
+      "height": 1600,
+      "masterImage": "/assets/references/met-489087/DP-26376-001.jpg",
+      "transformation": "Full sheet; grayscale; 1–99 percentile normalization; fit inside 1600 px, no enlargement; JPEG quality 90"
+    },
+    "rightsReviewedAt": "2026-09-08",
+    "rightsReviewMethod": "Official collection page public-domain label reviewed with web reader; official API also checked for Met objects",
+    "sourcePageReviewStatus": "verified",
+    "views": [
+      {
+        "sourceRect": {
+          "x": 0,
+          "y": 0,
+          "width": 3878,
+          "height": 4000
+        },
+        "path": "/assets/crops/met-489087-sheet.jpg",
+        "width": 1551,
+        "height": 1600,
+        "masterImage": "/assets/references/met-489087/DP-26376-001.jpg",
+        "transformation": "Full sheet; grayscale; 1–99 percentile normalization; fit inside 1600 px, no enlargement; JPEG quality 90"
+      }
+    ]
+  },
+  {
+    "id": "met-854147",
+    "artist": "Jean Auguste Dominique Ingres",
+    "title": "Study of Hands for \"Christ Among the Doctors\"",
+    "date": "1852–62",
+    "medium": "Graphite on tracing paper",
+    "museum": "The Metropolitan Museum of Art",
+    "objectUrl": "https://www.metmuseum.org/art/collection/search/854147",
+    "rights": "Public Domain / CC0",
+    "rightsUrl": "https://www.metmuseum.org/policies/image-resources",
+    "apiRequest": "https://collectionapi.metmuseum.org/public/collection/v1/objects/854147",
+    "rightsEvidence": "isPublicDomain: true in record.json",
+    "images": [
+      {
+        "downloadUrl": "https://images.metmuseum.org/CRDImages/dp/original/DP-25428-001.jpg",
+        "originalFilename": "DP-25428-001.jpg",
+        "sha256": "fd82cbdce4f5df3d0362a75c1a264085748a354e70c2a64f407602da98e6d161",
+        "masterImage": "/assets/references/met-854147/DP-25428-001.jpg",
+        "retrievedAt": "2026-09-08",
+        "width": 4000,
+        "height": 3995
+      }
+    ],
+    "downloadUrl": "https://images.metmuseum.org/CRDImages/dp/original/DP-25428-001.jpg",
+    "originalFilename": "DP-25428-001.jpg",
+    "sha256": "fd82cbdce4f5df3d0362a75c1a264085748a354e70c2a64f407602da98e6d161",
+    "masterImage": "/assets/references/met-854147/DP-25428-001.jpg",
+    "retrievedAt": "2026-09-08",
+    "crops": [
+      {
+        "id": "15-b",
+        "path": "/assets/crops/met-854147-15-b.jpg",
+        "sheetPath": "/assets/crops/met-854147-sheet.jpg",
+        "purpose": "Chapter 15, Reference B: one hand at comparable scale.",
+        "alt": "One hand at comparable scale: inspect multiple small articulated forms with foreshortening.",
+        "masterImage": "/assets/references/met-854147/DP-25428-001.jpg",
+        "sourceRect": {
+          "x": 2120,
+          "y": 1758,
+          "width": 1760,
+          "height": 2037
+        },
+        "width": 1555,
+        "height": 1800,
+        "printWidthMm": 85,
+        "transformation": "Extract integer sourceRect; grayscale; 1–99 percentile normalization; fit inside 1800 px, no enlargement; JPEG quality 94",
+        "reviewedAt": "2026-09-08"
+      }
+    ],
+    "overview": {
+      "sourceRect": {
+        "x": 0,
+        "y": 0,
+        "width": 4000,
+        "height": 3995
+      },
+      "path": "/assets/crops/met-854147-sheet.jpg",
+      "width": 1600,
+      "height": 1598,
+      "masterImage": "/assets/references/met-854147/DP-25428-001.jpg",
+      "transformation": "Full sheet; grayscale; 1–99 percentile normalization; fit inside 1600 px, no enlargement; JPEG quality 90"
+    },
+    "rightsReviewedAt": "2026-09-08",
+    "rightsReviewMethod": "Official collection page public-domain label reviewed with web reader; official API also checked for Met objects",
+    "sourcePageReviewStatus": "verified",
+    "views": [
+      {
+        "sourceRect": {
+          "x": 0,
+          "y": 0,
+          "width": 4000,
+          "height": 3995
+        },
+        "path": "/assets/crops/met-854147-sheet.jpg",
+        "width": 1600,
+        "height": 1598,
+        "masterImage": "/assets/references/met-854147/DP-25428-001.jpg",
+        "transformation": "Full sheet; grayscale; 1–99 percentile normalization; fit inside 1600 px, no enlargement; JPEG quality 90"
+      }
+    ]
+  },
+  {
+    "id": "nga-184327",
+    "artist": "John Singer Sargent",
+    "title": "Studies of a Man's Head",
+    "date": "ca. 1875",
+    "medium": "Graphite on wove paper",
+    "museum": "National Gallery of Art",
+    "objectUrl": "https://www.nga.gov/artworks/184327-studies-mans-head",
+    "rights": "Public Domain / CC0",
+    "rightsUrl": "https://www.nga.gov/terms-and-notices",
+    "rightsEvidence": "Collection page: This object’s media is free and in the public domain.",
+    "rightsReviewedAt": "2026-09-08",
+    "rightsReviewMethod": "Official collection page public-domain label reviewed with web reader; official API also checked for Met objects",
+    "images": [
+      {
+        "downloadUrl": "https://api.nga.gov/iiif/68a8203a-9bf0-474a-9076-b68aa5749202/full/full/0/default.jpg?attachment_filename=studies_of_a_man_s_head_2015.19.714.jpg",
+        "originalFilename": "studies_of_a_man_s_head_2015.19.714.jpg",
+        "sha256": "10d91fb3d0cf984a6d60a1ad6cafe413776fc4b1dd2b8728652b24953a25a199",
+        "masterImage": "/assets/references/nga-184327/studies_of_a_man_s_head_2015.19.714.jpg",
+        "retrievedAt": "2026-09-08",
+        "width": 4000,
+        "height": 2809
+      }
+    ],
+    "downloadUrl": "https://api.nga.gov/iiif/68a8203a-9bf0-474a-9076-b68aa5749202/full/full/0/default.jpg?attachment_filename=studies_of_a_man_s_head_2015.19.714.jpg",
+    "originalFilename": "studies_of_a_man_s_head_2015.19.714.jpg",
+    "sha256": "10d91fb3d0cf984a6d60a1ad6cafe413776fc4b1dd2b8728652b24953a25a199",
+    "masterImage": "/assets/references/nga-184327/studies_of_a_man_s_head_2015.19.714.jpg",
+    "retrievedAt": "2026-09-08",
+    "crops": [
+      {
+        "id": "12-a",
+        "path": "/assets/crops/nga-184327-12-a.jpg",
+        "sheetPath": "/assets/crops/nga-184327-sheet.jpg",
+        "purpose": "Chapter 12, Reference A: one profile, cropped from brow to chin.",
+        "alt": "One profile, cropped from brow to chin: inspect subtle plane change with few outlines.",
+        "masterImage": "/assets/references/nga-184327/studies_of_a_man_s_head_2015.19.714.jpg",
+        "sourceRect": {
+          "x": 160,
+          "y": 84,
+          "width": 1600,
+          "height": 1573
+        },
+        "width": 1600,
+        "height": 1573,
+        "printWidthMm": 85,
+        "transformation": "Extract integer sourceRect; grayscale; 1–99 percentile normalization; fit inside 1800 px, no enlargement; JPEG quality 94",
+        "reviewedAt": "2026-09-08"
+      }
+    ],
+    "overview": {
+      "sourceRect": {
+        "x": 0,
+        "y": 0,
+        "width": 4000,
+        "height": 2809
+      },
+      "path": "/assets/crops/nga-184327-sheet.jpg",
+      "width": 1600,
+      "height": 1124,
+      "masterImage": "/assets/references/nga-184327/studies_of_a_man_s_head_2015.19.714.jpg",
+      "transformation": "Full sheet; grayscale; 1–99 percentile normalization; fit inside 1600 px, no enlargement; JPEG quality 90"
+    },
+    "sourcePageReviewStatus": "verified",
+    "views": [
+      {
+        "sourceRect": {
+          "x": 0,
+          "y": 0,
+          "width": 4000,
+          "height": 2809
+        },
+        "path": "/assets/crops/nga-184327-sheet.jpg",
+        "width": 1600,
+        "height": 1124,
+        "masterImage": "/assets/references/nga-184327/studies_of_a_man_s_head_2015.19.714.jpg",
+        "transformation": "Full sheet; grayscale; 1–99 percentile normalization; fit inside 1600 px, no enlargement; JPEG quality 90"
+      }
+    ]
+  },
+  {
+    "id": "nga-56210",
+    "artist": "Rodolphe Bresdin",
+    "title": "Landscape",
+    "date": "probably ca. 1858",
+    "medium": "Pen and ink on tracing paper",
+    "museum": "National Gallery of Art",
+    "objectUrl": "https://www.nga.gov/artworks/56210-landscape",
+    "rights": "Public Domain / CC0",
+    "rightsUrl": "https://www.nga.gov/terms-and-notices",
+    "rightsEvidence": "Collection page: This object’s media is free and in the public domain.",
+    "rightsReviewedAt": "2026-09-08",
+    "rightsReviewMethod": "Official collection page public-domain label reviewed with web reader; official API also checked for Met objects",
+    "images": [
+      {
+        "downloadUrl": "https://api.nga.gov/iiif/feec1bdb-f2df-4ad1-afc7-5ac40a25cdae/full/full/0/default.jpg?attachment_filename=landscape_1976.81.1.jpg",
+        "originalFilename": "landscape_1976.81.1.jpg",
+        "sha256": "742dc9189bc07e3460059c9a7ccae4d59fa3195dfa54e377caba500c09288d12",
+        "masterImage": "/assets/references/nga-56210/landscape_1976.81.1.jpg",
+        "retrievedAt": "2026-09-08",
+        "width": 3177,
+        "height": 3127
+      }
+    ],
+    "downloadUrl": "https://api.nga.gov/iiif/feec1bdb-f2df-4ad1-afc7-5ac40a25cdae/full/full/0/default.jpg?attachment_filename=landscape_1976.81.1.jpg",
+    "originalFilename": "landscape_1976.81.1.jpg",
+    "sha256": "742dc9189bc07e3460059c9a7ccae4d59fa3195dfa54e377caba500c09288d12",
+    "masterImage": "/assets/references/nga-56210/landscape_1976.81.1.jpg",
+    "retrievedAt": "2026-09-08",
+    "crops": [
+      {
+        "id": "03-b",
+        "path": "/assets/crops/nga-56210-03-b.jpg",
+        "sheetPath": "/assets/crops/nga-56210-sheet.jpg",
+        "purpose": "Chapter 03, Reference B: a crop containing two or three rocks.",
+        "alt": "A crop containing two or three rocks: inspect three-value structure and directional hatching.",
+        "masterImage": "/assets/references/nga-56210/landscape_1976.81.1.jpg",
+        "sourceRect": {
+          "x": 95,
+          "y": 375,
+          "width": 1779,
+          "height": 1939
+        },
+        "width": 1651,
+        "height": 1800,
+        "printWidthMm": 85,
+        "transformation": "Extract integer sourceRect; grayscale; 1–99 percentile normalization; fit inside 1800 px, no enlargement; JPEG quality 94",
+        "reviewedAt": "2026-09-08"
+      }
+    ],
+    "overview": {
+      "sourceRect": {
+        "x": 0,
+        "y": 0,
+        "width": 3177,
+        "height": 3127
+      },
+      "path": "/assets/crops/nga-56210-sheet.jpg",
+      "width": 1600,
+      "height": 1575,
+      "masterImage": "/assets/references/nga-56210/landscape_1976.81.1.jpg",
+      "transformation": "Full sheet; grayscale; 1–99 percentile normalization; fit inside 1600 px, no enlargement; JPEG quality 90"
+    },
+    "sourcePageReviewStatus": "verified",
+    "views": [
+      {
+        "sourceRect": {
+          "x": 0,
+          "y": 0,
+          "width": 3177,
+          "height": 3127
+        },
+        "path": "/assets/crops/nga-56210-sheet.jpg",
+        "width": 1600,
+        "height": 1575,
+        "masterImage": "/assets/references/nga-56210/landscape_1976.81.1.jpg",
+        "transformation": "Full sheet; grayscale; 1–99 percentile normalization; fit inside 1600 px, no enlargement; JPEG quality 90"
+      }
+    ]
+  },
+  {
+    "id": "nga-74237",
+    "artist": "Paul Gauguin",
+    "title": "Eye and Part of Face; A Breton Woman and Two Men [recto]",
+    "date": "1884–88",
+    "medium": "Graphite and crayon on wove paper",
+    "museum": "National Gallery of Art",
+    "objectUrl": "https://www.nga.gov/artworks/74237-eye-and-part-face-breton-woman-and-two-men-recto",
+    "rights": "Public Domain / CC0",
+    "rightsUrl": "https://www.nga.gov/terms-and-notices",
+    "rightsEvidence": "Collection page: This object’s media is free and in the public domain.",
+    "rightsReviewedAt": "2026-09-08",
+    "rightsReviewMethod": "Official collection page public-domain label reviewed with web reader; official API also checked for Met objects",
+    "images": [
+      {
+        "downloadUrl": "https://api.nga.gov/iiif/1b3ea2de-6bfe-4fb4-87cc-092ade969d13/full/full/0/default.jpg?attachment_filename=eye_and_part_of_face_a_breton_woman_and_two_men_recto_1991.217.51.a.jpg",
+        "originalFilename": "eye_and_part_of_face_a_breton_woman_and_two_men_recto_1991.217.51.a.jpg",
+        "sha256": "0b4f7c341f0cdd562d0c463c8a0e10c6649cad2fd00f0e915976c42e731966e1",
+        "masterImage": "/assets/references/nga-74237/eye_and_part_of_face_a_breton_woman_and_two_men_recto_1991.217.51.a.jpg",
+        "retrievedAt": "2026-09-08",
+        "width": 3483,
+        "height": 2689
+      }
+    ],
+    "downloadUrl": "https://api.nga.gov/iiif/1b3ea2de-6bfe-4fb4-87cc-092ade969d13/full/full/0/default.jpg?attachment_filename=eye_and_part_of_face_a_breton_woman_and_two_men_recto_1991.217.51.a.jpg",
+    "originalFilename": "eye_and_part_of_face_a_breton_woman_and_two_men_recto_1991.217.51.a.jpg",
+    "sha256": "0b4f7c341f0cdd562d0c463c8a0e10c6649cad2fd00f0e915976c42e731966e1",
+    "masterImage": "/assets/references/nga-74237/eye_and_part_of_face_a_breton_woman_and_two_men_recto_1991.217.51.a.jpg",
+    "retrievedAt": "2026-09-08",
+    "crops": [
+      {
+        "id": "11-a",
+        "path": "/assets/crops/nga-74237-11-a.jpg",
+        "sheetPath": "/assets/crops/nga-74237-sheet.jpg",
+        "purpose": "Chapter 11, Reference A: the isolated eye/face fragment.",
+        "alt": "The isolated eye/face fragment: inspect high sensitivity to small proportional errors.",
+        "masterImage": "/assets/references/nga-74237/eye_and_part_of_face_a_breton_woman_and_two_men_recto_1991.217.51.a.jpg",
+        "sourceRect": {
+          "x": 418,
+          "y": 538,
+          "width": 1010,
+          "height": 699
+        },
+        "width": 1010,
+        "height": 699,
+        "printWidthMm": 85,
+        "transformation": "Extract integer sourceRect; grayscale; 1–99 percentile normalization; fit inside 1800 px, no enlargement; JPEG quality 94",
+        "reviewedAt": "2026-09-08"
+      }
+    ],
+    "overview": {
+      "sourceRect": {
+        "x": 0,
+        "y": 0,
+        "width": 3483,
+        "height": 2689
+      },
+      "path": "/assets/crops/nga-74237-sheet.jpg",
+      "width": 1600,
+      "height": 1235,
+      "masterImage": "/assets/references/nga-74237/eye_and_part_of_face_a_breton_woman_and_two_men_recto_1991.217.51.a.jpg",
+      "transformation": "Full sheet; grayscale; 1–99 percentile normalization; fit inside 1600 px, no enlargement; JPEG quality 90"
+    },
+    "sourcePageReviewStatus": "verified",
+    "views": [
+      {
+        "sourceRect": {
+          "x": 0,
+          "y": 0,
+          "width": 3483,
+          "height": 2689
+        },
+        "path": "/assets/crops/nga-74237-sheet.jpg",
+        "width": 1600,
+        "height": 1235,
+        "masterImage": "/assets/references/nga-74237/eye_and_part_of_face_a_breton_woman_and_two_men_recto_1991.217.51.a.jpg",
+        "transformation": "Full sheet; grayscale; 1–99 percentile normalization; fit inside 1600 px, no enlargement; JPEG quality 90"
+      }
+    ]
+  }
+]

@@ -1,0 +1,290 @@
+[
+  {
+    "id": "met-10383",
+    "objectUrl": "https://www.metmuseum.org/art/collection/search/10383",
+    "reviewedAt": "2026-09-08",
+    "method": "Official collection page public-domain label reviewed with web reader; official API also checked for Met objects",
+    "status": "verified",
+    "rights": "Public Domain / CC0"
+  },
+  {
+    "id": "met-10563",
+    "objectUrl": "https://www.metmuseum.org/art/collection/search/10563",
+    "reviewedAt": "2026-09-08",
+    "method": "Official collection page public-domain label reviewed with web reader; official API also checked for Met objects",
+    "status": "verified",
+    "rights": "Public Domain / CC0"
+  },
+  {
+    "id": "met-12880",
+    "objectUrl": "https://www.metmuseum.org/art/collection/search/12880",
+    "reviewedAt": "2026-09-08",
+    "method": "Official collection page public-domain label reviewed with web reader; official API also checked for Met objects",
+    "status": "verified",
+    "rights": "Public Domain / CC0"
+  },
+  {
+    "id": "met-16087",
+    "objectUrl": "https://www.metmuseum.org/art/collection/search/16087",
+    "reviewedAt": "2026-09-08",
+    "method": "Official API isPublicDomain=true; collection page recheck returned HTTP 429",
+    "status": "rate-limited",
+    "rights": "Public Domain / CC0"
+  },
+  {
+    "id": "met-16188",
+    "objectUrl": "https://www.metmuseum.org/art/collection/search/16188",
+    "reviewedAt": "2026-09-08",
+    "method": "Official collection page public-domain label reviewed with web reader; official API also checked for Met objects",
+    "status": "verified",
+    "rights": "Public Domain / CC0"
+  },
+  {
+    "id": "met-16220",
+    "objectUrl": "https://www.metmuseum.org/art/collection/search/16220",
+    "reviewedAt": "2026-09-08",
+    "method": "Official collection page public-domain label reviewed with web reader; official API also checked for Met objects",
+    "status": "verified",
+    "rights": "Public Domain / CC0"
+  },
+  {
+    "id": "met-334361",
+    "objectUrl": "https://www.metmuseum.org/art/collection/search/334361",
+    "reviewedAt": "2026-09-08",
+    "method": "Official collection page public-domain label reviewed with web reader; official API also checked for Met objects",
+    "status": "verified",
+    "rights": "Public Domain / CC0"
+  },
+  {
+    "id": "met-336042",
+    "objectUrl": "https://www.metmuseum.org/art/collection/search/336042",
+    "reviewedAt": "2026-09-08",
+    "method": "Official collection page public-domain label reviewed with web reader; official API also checked for Met objects",
+    "status": "verified",
+    "rights": "Public Domain / CC0"
+  },
+  {
+    "id": "met-337441",
+    "objectUrl": "https://www.metmuseum.org/art/collection/search/337441",
+    "reviewedAt": "2026-09-08",
+    "method": "Official collection page public-domain label reviewed with web reader; official API also checked for Met objects",
+    "status": "verified",
+    "rights": "Public Domain / CC0"
+  },
+  {
+    "id": "met-337601",
+    "objectUrl": "https://www.metmuseum.org/art/collection/search/337601",
+    "reviewedAt": "2026-09-08",
+    "method": "Official collection page public-domain label reviewed with web reader; official API also checked for Met objects",
+    "status": "verified",
+    "rights": "Public Domain / CC0"
+  },
+  {
+    "id": "met-337649",
+    "objectUrl": "https://www.metmuseum.org/art/collection/search/337649",
+    "reviewedAt": "2026-09-08",
+    "method": "Official collection page public-domain label reviewed with web reader; official API also checked for Met objects",
+    "status": "verified",
+    "rights": "Public Domain / CC0"
+  },
+  {
+    "id": "met-338149",
+    "objectUrl": "https://www.metmuseum.org/art/collection/search/338149",
+    "reviewedAt": "2026-09-08",
+    "method": "Official collection page public-domain label reviewed with web reader; official API also checked for Met objects",
+    "status": "verified",
+    "rights": "Public Domain / CC0"
+  },
+  {
+    "id": "met-339368",
+    "objectUrl": "https://www.metmuseum.org/art/collection/search/339368",
+    "reviewedAt": "2026-09-08",
+    "method": "Official collection page public-domain label reviewed with web reader; official API also checked for Met objects",
+    "status": "verified",
+    "rights": "Public Domain / CC0"
+  },
+  {
+    "id": "met-341220",
+    "objectUrl": "https://www.metmuseum.org/art/collection/search/341220",
+    "reviewedAt": "2026-09-08",
+    "method": "Official collection page public-domain label reviewed with web reader; official API also checked for Met objects",
+    "status": "verified",
+    "rights": "Public Domain / CC0"
+  },
+  {
+    "id": "met-341563",
+    "objectUrl": "https://www.metmuseum.org/art/collection/search/341563",
+    "reviewedAt": "2026-09-08",
+    "method": "Official collection page public-domain label reviewed with web reader; official API also checked for Met objects",
+    "status": "verified",
+    "rights": "Public Domain / CC0"
+  },
+  {
+    "id": "met-341693",
+    "objectUrl": "https://www.metmuseum.org/art/collection/search/341693",
+    "reviewedAt": "2026-09-08",
+    "method": "Official collection page public-domain label reviewed with web reader; official API also checked for Met objects",
+    "status": "verified",
+    "rights": "Public Domain / CC0"
+  },
+  {
+    "id": "met-341696",
+    "objectUrl": "https://www.metmuseum.org/art/collection/search/341696",
+    "reviewedAt": "2026-09-08",
+    "method": "Official collection page public-domain label reviewed with web reader; official API also checked for Met objects",
+    "status": "verified",
+    "rights": "Public Domain / CC0"
+  },
+  {
+    "id": "met-343399",
+    "objectUrl": "https://www.metmuseum.org/art/collection/search/343399",
+    "reviewedAt": "2026-09-08",
+    "method": "Official collection page public-domain label reviewed with web reader; official API also checked for Met objects",
+    "status": "verified",
+    "rights": "Public Domain / CC0"
+  },
+  {
+    "id": "met-351063",
+    "objectUrl": "https://www.metmuseum.org/art/collection/search/351063",
+    "reviewedAt": "2026-09-08",
+    "method": "Official collection page public-domain label reviewed with web reader; official API also checked for Met objects",
+    "status": "verified",
+    "rights": "Public Domain / CC0"
+  },
+  {
+    "id": "met-355648",
+    "objectUrl": "https://www.metmuseum.org/art/collection/search/355648",
+    "reviewedAt": "2026-09-08",
+    "method": "Official collection page public-domain label reviewed with web reader; official API also checked for Met objects",
+    "status": "verified",
+    "rights": "Public Domain / CC0"
+  },
+  {
+    "id": "met-363604",
+    "objectUrl": "https://www.metmuseum.org/art/collection/search/363604",
+    "reviewedAt": "2026-09-08",
+    "method": "Official collection page public-domain label reviewed with web reader; official API also checked for Met objects",
+    "status": "verified",
+    "rights": "Public Domain / CC0"
+  },
+  {
+    "id": "met-364025",
+    "objectUrl": "https://www.metmuseum.org/art/collection/search/364025",
+    "reviewedAt": "2026-09-08",
+    "method": "Official collection page public-domain label reviewed with web reader; official API also checked for Met objects",
+    "status": "verified",
+    "rights": "Public Domain / CC0"
+  },
+  {
+    "id": "met-370468",
+    "objectUrl": "https://www.metmuseum.org/art/collection/search/370468",
+    "reviewedAt": "2026-09-08",
+    "method": "Official collection page public-domain label reviewed with web reader; official API also checked for Met objects",
+    "status": "verified",
+    "rights": "Public Domain / CC0"
+  },
+  {
+    "id": "met-382512",
+    "objectUrl": "https://www.metmuseum.org/art/collection/search/382512",
+    "reviewedAt": "2026-09-08",
+    "method": "Official collection page public-domain label reviewed with web reader; official API also checked for Met objects",
+    "status": "verified",
+    "rights": "Public Domain / CC0"
+  },
+  {
+    "id": "met-386334",
+    "objectUrl": "https://www.metmuseum.org/art/collection/search/386334",
+    "reviewedAt": "2026-09-08",
+    "method": "Official collection page public-domain label reviewed with web reader; official API also checked for Met objects",
+    "status": "verified",
+    "rights": "Public Domain / CC0"
+  },
+  {
+    "id": "met-386475",
+    "objectUrl": "https://www.metmuseum.org/art/collection/search/386475",
+    "reviewedAt": "2026-09-08",
+    "method": "Official collection page public-domain label reviewed with web reader; official API also checked for Met objects",
+    "status": "verified",
+    "rights": "Public Domain / CC0"
+  },
+  {
+    "id": "met-392332",
+    "objectUrl": "https://www.metmuseum.org/art/collection/search/392332",
+    "reviewedAt": "2026-09-08",
+    "method": "Official collection page public-domain label reviewed with web reader; official API also checked for Met objects",
+    "status": "verified",
+    "rights": "Public Domain / CC0"
+  },
+  {
+    "id": "met-394683",
+    "objectUrl": "https://www.metmuseum.org/art/collection/search/394683",
+    "reviewedAt": "2026-09-08",
+    "method": "Official collection page public-domain label reviewed with web reader; official API also checked for Met objects",
+    "status": "verified",
+    "rights": "Public Domain / CC0"
+  },
+  {
+    "id": "met-406192",
+    "objectUrl": "https://www.metmuseum.org/art/collection/search/406192",
+    "reviewedAt": "2026-09-08",
+    "method": "Official collection page public-domain label reviewed with web reader; official API also checked for Met objects",
+    "status": "verified",
+    "rights": "Public Domain / CC0"
+  },
+  {
+    "id": "met-409000",
+    "objectUrl": "https://www.metmuseum.org/art/collection/search/409000",
+    "reviewedAt": "2026-09-08",
+    "method": "Official collection page public-domain label reviewed with web reader; official API also checked for Met objects",
+    "status": "verified",
+    "rights": "Public Domain / CC0"
+  },
+  {
+    "id": "met-459214",
+    "objectUrl": "https://www.metmuseum.org/art/collection/search/459214",
+    "reviewedAt": "2026-09-08",
+    "method": "Official collection page public-domain label reviewed with web reader; official API also checked for Met objects",
+    "status": "verified",
+    "rights": "Public Domain / CC0"
+  },
+  {
+    "id": "met-489087",
+    "objectUrl": "https://www.metmuseum.org/art/collection/search/489087",
+    "reviewedAt": "2026-09-08",
+    "method": "Official collection page public-domain label reviewed with web reader; official API also checked for Met objects",
+    "status": "verified",
+    "rights": "Public Domain / CC0"
+  },
+  {
+    "id": "met-854147",
+    "objectUrl": "https://www.metmuseum.org/art/collection/search/854147",
+    "reviewedAt": "2026-09-08",
+    "method": "Official collection page public-domain label reviewed with web reader; official API also checked for Met objects",
+    "status": "verified",
+    "rights": "Public Domain / CC0"
+  },
+  {
+    "id": "nga-184327",
+    "objectUrl": "https://www.nga.gov/artworks/184327-studies-mans-head",
+    "reviewedAt": "2026-09-08",
+    "method": "Official collection page public-domain label reviewed with web reader; official API also checked for Met objects",
+    "status": "verified",
+    "rights": "Public Domain / CC0"
+  },
+  {
+    "id": "nga-56210",
+    "objectUrl": "https://www.nga.gov/artworks/56210-landscape",
+    "reviewedAt": "2026-09-08",
+    "method": "Official collection page public-domain label reviewed with web reader; official API also checked for Met objects",
+    "status": "verified",
+    "rights": "Public Domain / CC0"
+  },
+  {
+    "id": "nga-74237",
+    "objectUrl": "https://www.nga.gov/artworks/74237-eye-and-part-face-breton-woman-and-two-men-recto",
+    "reviewedAt": "2026-09-08",
+    "method": "Official collection page public-domain label reviewed with web reader; official API also checked for Met objects",
+    "status": "verified",
+    "rights": "Public Domain / CC0"
+  }
+]

@@ -1,0 +1,6 @@
+{% set ref = study.reference | reference %}{% set crop = ref | crop(study.crop) %}{% if cardMode == 'full' %}{% set crop = ref.overview %}{% endif %}
+<figure class="reference-card">
+<a class="image-link" href="{{ (crop.sheetPath or ref.overview.path) | url }}" aria-label="View full sheet: {{ ref.title }}"><img style="--study-width: {{ crop.printWidthMm or 85 }}mm" src="{{ (crop.path) | url }}" width="{{ crop.width }}" height="{{ crop.height }}" alt="{{ crop.alt or ref.title }}"></a>
+<figcaption><span class="eyebrow">Reference {{ letter }}</span><span class="artist">{{ ref.artist }}</span><cite>{{ ref.title }}</cite>, {{ ref.date }}. {{ ref.medium }}.
+<span class="source">{{ ref.museum }} · {{ ref.rights }}<br><a href="{{ ref.objectUrl }}">{{ ref.objectUrl }}</a></span></figcaption>
+</figure>
