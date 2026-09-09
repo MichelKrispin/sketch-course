@@ -53,6 +53,7 @@
         "width": 735,
         "height": 780,
         "printWidthMm": 85,
+        "printHeightMm": 82,
         "transformation": "Extract integer sourceRect; grayscale; 1–99 percentile normalization; fit inside 1800 px, no enlargement; JPEG quality 94",
         "reviewedAt": "2026-09-08"
       }
@@ -143,6 +144,7 @@
         "width": 1569,
         "height": 967,
         "printWidthMm": 85,
+        "printHeightMm": 82,
         "transformation": "Extract integer sourceRect; grayscale; 1–99 percentile normalization; fit inside 1800 px, no enlargement; JPEG quality 94",
         "reviewedAt": "2026-09-08"
       }
@@ -224,6 +226,7 @@
         "width": 847,
         "height": 1039,
         "printWidthMm": 85,
+        "printHeightMm": 82,
         "transformation": "Extract integer sourceRect; grayscale; 1–99 percentile normalization; fit inside 1800 px, no enlargement; JPEG quality 94",
         "reviewedAt": "2026-09-08"
       }
@@ -305,6 +308,7 @@
         "width": 1800,
         "height": 607,
         "printWidthMm": 85,
+        "printHeightMm": 82,
         "transformation": "Extract integer sourceRect; grayscale; 1–99 percentile normalization; fit inside 1800 px, no enlargement; JPEG quality 94",
         "reviewedAt": "2026-09-08"
       }
@@ -386,6 +390,7 @@
         "width": 585,
         "height": 363,
         "printWidthMm": 85,
+        "printHeightMm": 57,
         "transformation": "Extract integer sourceRect; grayscale; 1–99 percentile normalization; fit inside 1800 px, no enlargement; JPEG quality 94",
         "reviewedAt": "2026-09-08"
       }
@@ -467,6 +472,7 @@
         "width": 361,
         "height": 406,
         "printWidthMm": 57,
+        "printHeightMm": 64,
         "transformation": "Extract integer sourceRect; grayscale; 1–99 percentile normalization; fit inside 1800 px, no enlargement; JPEG quality 94",
         "reviewedAt": "2026-09-08"
       }
@@ -566,6 +572,7 @@
         "width": 1142,
         "height": 1800,
         "printWidthMm": 85,
+        "printHeightMm": 82,
         "transformation": "Extract integer sourceRect; grayscale; 1–99 percentile normalization; fit inside 1800 px, no enlargement; JPEG quality 94",
         "reviewedAt": "2026-09-08"
       }
@@ -669,6 +676,7 @@
         "width": 1800,
         "height": 1672,
         "printWidthMm": 85,
+        "printHeightMm": 82,
         "transformation": "Extract integer sourceRect; grayscale; 1–99 percentile normalization; fit inside 1800 px, no enlargement; JPEG quality 94",
         "reviewedAt": "2026-09-08"
       }
@@ -768,6 +776,7 @@
         "width": 1800,
         "height": 1301,
         "printWidthMm": 85,
+        "printHeightMm": 82,
         "transformation": "Extract integer sourceRect; grayscale; 1–99 percentile normalization; fit inside 1800 px, no enlargement; JPEG quality 94",
         "reviewedAt": "2026-09-08"
       }
@@ -858,6 +867,7 @@
         "width": 1035,
         "height": 1800,
         "printWidthMm": 85,
+        "printHeightMm": 82,
         "transformation": "Extract integer sourceRect; grayscale; 1–99 percentile normalization; fit inside 1800 px, no enlargement; JPEG quality 94",
         "reviewedAt": "2026-09-08"
       }
@@ -948,6 +958,7 @@
         "width": 1591,
         "height": 1800,
         "printWidthMm": 85,
+        "printHeightMm": 82,
         "transformation": "Extract integer sourceRect; grayscale; 1–99 percentile normalization; fit inside 1800 px, no enlargement; JPEG quality 94",
         "reviewedAt": "2026-09-08"
       }
@@ -1038,6 +1049,7 @@
         "width": 1800,
         "height": 1309,
         "printWidthMm": 85,
+        "printHeightMm": 82,
         "transformation": "Extract integer sourceRect; grayscale; 1–99 percentile normalization; fit inside 1800 px, no enlargement; JPEG quality 94",
         "reviewedAt": "2026-09-08"
       }
@@ -1128,6 +1140,7 @@
         "width": 1800,
         "height": 1639,
         "printWidthMm": 85,
+        "printHeightMm": 82,
         "transformation": "Extract integer sourceRect; grayscale; 1–99 percentile normalization; fit inside 1800 px, no enlargement; JPEG quality 94",
         "reviewedAt": "2026-09-08"
       }
@@ -1227,6 +1240,7 @@
         "width": 692,
         "height": 714,
         "printWidthMm": 85,
+        "printHeightMm": 82,
         "transformation": "Extract integer sourceRect; grayscale; 1–99 percentile normalization; fit inside 1800 px, no enlargement; JPEG quality 94",
         "reviewedAt": "2026-09-08"
       },
@@ -1246,6 +1260,7 @@
         "width": 1353,
         "height": 1747,
         "printWidthMm": 85,
+        "printHeightMm": 82,
         "transformation": "Extract integer sourceRect; grayscale; 1–99 percentile normalization; fit inside 1800 px, no enlargement; JPEG quality 94",
         "reviewedAt": "2026-09-08"
       }
@@ -1336,6 +1351,7 @@
         "width": 1677,
         "height": 1800,
         "printWidthMm": 85,
+        "printHeightMm": 82,
         "transformation": "Extract integer sourceRect; grayscale; 1–99 percentile normalization; fit inside 1800 px, no enlargement; JPEG quality 94",
         "reviewedAt": "2026-09-08"
       }
@@ -1417,6 +1433,7 @@
         "width": 1800,
         "height": 1745,
         "printWidthMm": 85,
+        "printHeightMm": 82,
         "transformation": "Extract integer sourceRect; grayscale; 1–99 percentile normalization; fit inside 1800 px, no enlargement; JPEG quality 94",
         "reviewedAt": "2026-09-08"
       }
@@ -1507,6 +1524,7 @@
         "width": 936,
         "height": 1800,
         "printWidthMm": 85,
+        "printHeightMm": 82,
         "transformation": "Extract integer sourceRect; grayscale; 1–99 percentile normalization; fit inside 1800 px, no enlargement; JPEG quality 94",
         "reviewedAt": "2026-09-08"
       }
@@ -1597,6 +1615,7 @@
         "width": 531,
         "height": 1501,
         "printWidthMm": 84,
+        "printHeightMm": 82,
         "transformation": "Extract integer sourceRect; grayscale; 1–99 percentile normalization; fit inside 1800 px, no enlargement; JPEG quality 94",
         "reviewedAt": "2026-09-08"
       },
@@ -1616,6 +1635,7 @@
         "width": 876,
         "height": 1589,
         "printWidthMm": 85,
+        "printHeightMm": 82,
         "transformation": "Extract integer sourceRect; grayscale; 1–99 percentile normalization; fit inside 1800 px, no enlargement; JPEG quality 94",
         "reviewedAt": "2026-09-08"
       }
@@ -1760,6 +1780,7 @@
         "width": 1723,
         "height": 774,
         "printWidthMm": 85,
+        "printHeightMm": 82,
         "transformation": "Extract integer sourceRect; grayscale; 1–99 percentile normalization; fit inside 1800 px, no enlargement; JPEG quality 94",
         "reviewedAt": "2026-09-08"
       }
@@ -1850,6 +1871,7 @@
         "width": 826,
         "height": 1434,
         "printWidthMm": 85,
+        "printHeightMm": 82,
         "transformation": "Extract integer sourceRect; grayscale; 1–99 percentile normalization; fit inside 1800 px, no enlargement; JPEG quality 94",
         "reviewedAt": "2026-09-08"
       }
@@ -1931,6 +1953,7 @@
         "width": 1273,
         "height": 1800,
         "printWidthMm": 85,
+        "printHeightMm": 82,
         "transformation": "Extract integer sourceRect; grayscale; 1–99 percentile normalization; fit inside 1800 px, no enlargement; JPEG quality 94",
         "reviewedAt": "2026-09-08"
       }
@@ -2012,6 +2035,7 @@
         "width": 1800,
         "height": 1223,
         "printWidthMm": 85,
+        "printHeightMm": 82,
         "transformation": "Extract integer sourceRect; grayscale; 1–99 percentile normalization; fit inside 1800 px, no enlargement; JPEG quality 94",
         "reviewedAt": "2026-09-08"
       }
@@ -2102,6 +2126,7 @@
         "width": 1800,
         "height": 1621,
         "printWidthMm": 85,
+        "printHeightMm": 82,
         "transformation": "Extract integer sourceRect; grayscale; 1–99 percentile normalization; fit inside 1800 px, no enlargement; JPEG quality 94",
         "reviewedAt": "2026-09-08"
       }
@@ -2183,6 +2208,7 @@
         "width": 1151,
         "height": 1800,
         "printWidthMm": 85,
+        "printHeightMm": 82,
         "transformation": "Extract integer sourceRect; grayscale; 1–99 percentile normalization; fit inside 1800 px, no enlargement; JPEG quality 94",
         "reviewedAt": "2026-09-08"
       }
@@ -2264,6 +2290,7 @@
         "width": 1760,
         "height": 1781,
         "printWidthMm": 85,
+        "printHeightMm": 82,
         "transformation": "Extract integer sourceRect; grayscale; 1–99 percentile normalization; fit inside 1800 px, no enlargement; JPEG quality 94",
         "reviewedAt": "2026-09-08"
       }
@@ -2345,6 +2372,7 @@
         "width": 1191,
         "height": 1800,
         "printWidthMm": 85,
+        "printHeightMm": 82,
         "transformation": "Extract integer sourceRect; grayscale; 1–99 percentile normalization; fit inside 1800 px, no enlargement; JPEG quality 94",
         "reviewedAt": "2026-09-08"
       }
@@ -2435,6 +2463,7 @@
         "width": 1443,
         "height": 1800,
         "printWidthMm": 85,
+        "printHeightMm": 82,
         "transformation": "Extract integer sourceRect; grayscale; 1–99 percentile normalization; fit inside 1800 px, no enlargement; JPEG quality 94",
         "reviewedAt": "2026-09-08"
       },
@@ -2454,6 +2483,7 @@
         "width": 1800,
         "height": 910,
         "printWidthMm": 85,
+        "printHeightMm": 82,
         "transformation": "Extract integer sourceRect; grayscale; 1–99 percentile normalization; fit inside 1800 px, no enlargement; JPEG quality 94",
         "reviewedAt": "2026-09-08"
       }
@@ -2535,6 +2565,7 @@
         "width": 1252,
         "height": 1800,
         "printWidthMm": 85,
+        "printHeightMm": 82,
         "transformation": "Extract integer sourceRect; grayscale; 1–99 percentile normalization; fit inside 1800 px, no enlargement; JPEG quality 94",
         "reviewedAt": "2026-09-08"
       }
@@ -2625,6 +2656,7 @@
         "width": 1190,
         "height": 1535,
         "printWidthMm": 85,
+        "printHeightMm": 82,
         "transformation": "Extract integer sourceRect; grayscale; 1–99 percentile normalization; fit inside 1800 px, no enlargement; JPEG quality 94",
         "reviewedAt": "2026-09-08"
       }
@@ -2706,6 +2738,7 @@
         "width": 360,
         "height": 356,
         "printWidthMm": 57,
+        "printHeightMm": 56,
         "transformation": "Extract integer sourceRect; grayscale; 1–99 percentile normalization; fit inside 1800 px, no enlargement; JPEG quality 94",
         "reviewedAt": "2026-09-08"
       },
@@ -2725,6 +2758,7 @@
         "width": 516,
         "height": 498,
         "printWidthMm": 81,
+        "printHeightMm": 79,
         "transformation": "Extract integer sourceRect; grayscale; 1–99 percentile normalization; fit inside 1800 px, no enlargement; JPEG quality 94",
         "reviewedAt": "2026-09-08"
       }
@@ -2851,6 +2885,7 @@
         "width": 720,
         "height": 640,
         "printWidthMm": 85,
+        "printHeightMm": 82,
         "transformation": "Extract integer sourceRect; grayscale; 1–99 percentile normalization; fit inside 1800 px, no enlargement; JPEG quality 94",
         "reviewedAt": "2026-09-08"
       }
@@ -2945,6 +2980,7 @@
         "width": 1629,
         "height": 1800,
         "printWidthMm": 85,
+        "printHeightMm": 82,
         "transformation": "Extract integer sourceRect; grayscale; 1–99 percentile normalization; fit inside 1800 px, no enlargement; JPEG quality 94",
         "reviewedAt": "2026-09-08"
       }
@@ -3026,6 +3062,7 @@
         "width": 1555,
         "height": 1800,
         "printWidthMm": 85,
+        "printHeightMm": 82,
         "transformation": "Extract integer sourceRect; grayscale; 1–99 percentile normalization; fit inside 1800 px, no enlargement; JPEG quality 94",
         "reviewedAt": "2026-09-08"
       }
@@ -3108,6 +3145,7 @@
         "width": 1600,
         "height": 1573,
         "printWidthMm": 85,
+        "printHeightMm": 82,
         "transformation": "Extract integer sourceRect; grayscale; 1–99 percentile normalization; fit inside 1800 px, no enlargement; JPEG quality 94",
         "reviewedAt": "2026-09-08"
       }
@@ -3188,6 +3226,7 @@
         "width": 1651,
         "height": 1800,
         "printWidthMm": 85,
+        "printHeightMm": 82,
         "transformation": "Extract integer sourceRect; grayscale; 1–99 percentile normalization; fit inside 1800 px, no enlargement; JPEG quality 94",
         "reviewedAt": "2026-09-08"
       }
@@ -3268,6 +3307,7 @@
         "width": 1010,
         "height": 699,
         "printWidthMm": 85,
+        "printHeightMm": 82,
         "transformation": "Extract integer sourceRect; grayscale; 1–99 percentile normalization; fit inside 1800 px, no enlargement; JPEG quality 94",
         "reviewedAt": "2026-09-08"
       }

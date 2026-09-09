@@ -13,3 +13,5 @@
 .self-check-table{width:100%;border-collapse:collapse;font-size:.82rem}.self-check-table th,.self-check-table td{padding:9px;border-bottom:1px solid var(--line);font-weight:400;text-align:center}.self-check-table th:first-child{text-align:left;width:64%}.self-check-table input{width:16px;height:16px;margin:0}
 .chapter-completion{padding:16px 18px;border:1px solid var(--line);background:#fff}.progress-summary{display:flex;justify-content:space-between;gap:20px;align-items:center;padding:15px 18px;background:#e5e8dd;font-size:.85rem}.progress-summary[hidden]{display:none}
 @media(max-width:700px){.lesson-brief{grid-template-columns:1fr}.progress-summary{flex-wrap:wrap}.self-check-table{font-size:.72rem}.self-check-table th,.self-check-table td{padding:7px 4px}}
+@media screen and (min-width:701px){.chapter .reference-card img{width:auto;height:auto;max-width:100%;max-height:340px;margin-inline:auto}.chapter .copy-layout .reference-card img{max-height:370px}}
+@media screen and (max-width:700px){.chapter .reference-card img{width:auto;height:auto;max-width:100%;max-height:300px;margin-inline:auto}}

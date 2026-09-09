@@ -37,7 +37,8 @@ export async function validate(root=process.cwd(),{expectedCount=20}={}){
    const im=imageMap.get(c.masterImage),rect=c.sourceRect;
    check(im&&rect&&[rect.x,rect.y,rect.width,rect.height].every(Number.isInteger)&&rect.x>=0&&rect.y>=0&&rect.width>0&&rect.height>0&&rect.x+rect.width<=im.width&&rect.y+rect.height<=im.height,`${r.id}/${c.id}: invalid source rectangle`);
    check(c.width>0&&c.height>0&&c.width<=rect?.width&&c.height<=rect?.height,`${r.id}/${c.id}: missing dimensions or upscaling`);
-   check(Math.max(c.width/c.printWidthMm,c.height/65)*25.4>=150,`${r.id}/${c.id}: below 150 dpi at copy print size`);
+   check(c.printWidthMm>0&&c.printHeightMm>0,`${r.id}/${c.id}: missing print dimensions`);
+   check(Math.max(c.width/c.printWidthMm,c.height/c.printHeightMm)*25.4>=150,`${r.id}/${c.id}: below 150 dpi at copy print size`);
    const data=await local(c.path);if(data){const m=await sharp(data).metadata();check(m.width===c.width&&m.height===c.height,`${r.id}/${c.id}: derivative dimensions mismatch`);}
   }
  }
